@@ -16332,6 +16332,1349 @@
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
           "id": "fligh-plan-348"
+        },
+        {
+          "questionText": "Refer to figure 033-88. True Air speed: 170 kts. Wind in the area: 270\u00b0/40 kts. According to the attached navigation log, an aircraft performs a turn overhead BULEN to reroute to ARD via TGJ. The given wind conditions remaining constant. The fuel consumption during the turn is 20 litres. The total fuel consumption at position overhead ARD will be:",
+          "options": [
+            "1 600 litres",
+            "1 326 litres",
+            "1 545 litres",
+            "1 182 litres"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-349"
+        },
+        {
+          "questionText": "An appropriate ICAO non-RVSM flight level for IFR flight in accordance with semi-circular height rules on a magnetic course of 200\u00b0 is:",
+          "options": [
+            "FL310",
+            "FL320",
+            "FL300",
+            "FL290"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-350"
+        },
+        {
+          "questionText": "Given: Minimum safe altitude: 8 500 ft, QNH at the station 1 003 hPa (elevation 4 000 ft), Temperature at FL85 -20\u00b0C. What is the minimum pressure altitude which should be flown according to the given MSA?",
+          "options": [
+            "8 550 ft",
+            "9 350 ft",
+            "9 150 ft",
+            "8 850 ft"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-351"
+        },
+        {
+          "questionText": "During a flight at night a position has to be reported to ATC. The aeroplane is at a distance of 750 NM from the ground station and at flight level 350. The frequency to be used is:",
+          "options": [
+            "123.9 MHz",
+            "17286 kHz",
+            "1136 kHz",
+            "5649 kHz"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-352"
+        },
+        {
+          "questionText": "On IFR navigation chart, in a 1\u00b0 quadrant of longitude and latitude, appears the following information: \"80\". This means that within this quadrant:",
+          "options": [
+            "the minimum flight level is FL80.",
+            "the minimum safe altitude is 8 000 ft.",
+            "the altitude of the highest obstacle is 8 000 ft.",
+            "the floor of the airway is at 8 000 ft."
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-353"
+        },
+        {
+          "questionText": "On a given path, it is possible to choose between four flight levels (FL), each associated with a mandatory flight Mach number (M). The flight conditions, static air temperature (SAT) and headwind component (HWC) are given below: FL370 M0.80 SAT -60\u00b0C HWC 15 kts FL330 M0.78 SAT -60\u00b0C HWC 5 kts FL290 M0.80 SAT -55\u00b0C HWC 15 kts FL270 M0.76 SAT -43\u00b0C HWC 0 kts The flight level allowing the highest ground speed is:",
+          "options": [
+            "FL270",
+            "FL290",
+            "FL370",
+            "FL330"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-354"
+        },
+        {
+          "questionText": "Unless otherwise stated on charts for standard instrument departures the depicted routes are defined as:",
+          "options": [
+            "true headings.",
+            "magnetic courses.",
+            "true courses.",
+            "magnetic headings."
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-355"
+        },
+        {
+          "questionText": "You must fly IFR on an airway orientated 135\u00b0 magnetic with a MSA at 7 800 ft. Knowing the QNH is 1025 hPa and the temperature is ISA +10\u00b0, the minimum flight level you must fly at is:",
+          "options": [
+            "80",
+            "90",
+            "75",
+            "70"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-356"
+        },
+        {
+          "questionText": "An airway is marked 5000 2900a. The notation 5000 is the:",
+          "options": [
+            "maximum authorised altitude (MAA).",
+            "minimum holding altitude (MHA).",
+            "base of the airway (AGL).",
+            "minimum enroute altitude (MEA)."
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-357"
+        },
+        {
+          "questionText": "An airway is marked \"FL80 1500a\". This indicates that:",
+          "options": [
+            "the minimum enroute altitude (MEA) is FL80.",
+            "1 500 ft MSL is the minimum radio reception altitude (MRA).",
+            "the airway base is 1 500 ft MSL.",
+            "the airways extend from 1 500 ft MSL to FL80."
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-358"
+        },
+        {
+          "questionText": "An airway is marked \"3500T 2100a\". This indicates that:",
+          "options": [
+            "the minimum enroute altitude (MEA) is 3 500 ft.",
+            "the airway base is 3 500 ft MSL.",
+            "the airway is a low level link route 2 100 ft \u2013 3 500 ft MSL.",
+            "the minimum obstruction clearance altitude (MOCA) is 3 500 ft."
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-359"
+        },
+        {
+          "questionText": "What is the primary reason for studying SID & STAR charts before and during a flight?",
+          "options": [
+            "To check for any changes to the published procedures.",
+            "To ensure the correct lateral and vertical procedure flow.",
+            "To ensure that noise abatement is observed.",
+            "In order to take account of light deviations before the flight."
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-360"
+        },
+        {
+          "questionText": "ICAO Doc 8168 states that specific altitudes are established for each aerodrome and provide at least 300 m (1 000 ft) obstacle clearance within 46 km (25 NM) of the navigation aid, initial approach fix or intermediate fix associated with the approach procedure for that aerodrome. Which of the following abbreviations is used for such altitudes?",
+          "options": [
+            "MSA",
+            "MCA",
+            "MOCA",
+            "MEA"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-361"
+        },
+        {
+          "questionText": "The measured course 042\u00b0 T. The variation in the area is 6\u00b0 W and the wind is calm. The deviation card reads: CH: 000\u00b0 045\u00b0 090\u00b0 135\u00b0 Deviation: \u20132 \u20134 \u20133 \u20131. In order to follow this course, the pilot must fly a compass heading of:",
+          "options": [
+            "044\u00b0",
+            "058\u00b0",
+            "040\u00b0",
+            "052\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-362"
+        },
+        {
+          "questionText": "How many feet do you have to climb to reach FL75? Given: Departure aerodrome elevation: 1500 ft, QNH: 1023 hPa, Temperature: ISA, 1 hPa = 30 ft.",
+          "options": [
+            "7800 ft",
+            "6300 ft",
+            "6600 ft",
+            "6000 ft"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-363"
+        },
+        {
+          "questionText": "Refer to figure 033-16. Planning an IFR flight from Paris (Charles de Gaulle) to London (Heathrow) for a twin jet aeroplane. Given: Estimated Take\u2011off Mass (TOM): 52 000 kg, Airport elevation: 387 ft, Cruise: FL280, W/V: 280\u00b0/40 kts, ISA Deviation: \u201310\u00b0C, Average True Course: 340\u00b0. Find time to the top of climb (TOC).",
+          "options": [
+            "11 min",
+            "12 min",
+            "15 min",
+            "3 min"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-364"
+        },
+        {
+          "questionText": "Refer to figure 033-41. Planning an IFR flight from Paris to London for a twin jet aeroplane. Given: Estimated Landing Mass: 49 700 kg, Cruising level: FL280, Average wind: 280\u00b0/40 kts, Average True Course: 320\u00b0, Procedure for descent: M0.74/250 KIAS. Determine the distance from the top of descent to London (elevation 80 ft).",
+          "options": [
+            "76 NM",
+            "65 NM",
+            "87 NM",
+            "97 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-365"
+        },
+        {
+          "questionText": "Take\u2011off mass: 150 000 kg, Cruise level: FL350, Cruise speed: Long Range (LRC), Conditions: ISA, CG: 37%. You have to cover an air distance of 2000 NM. What will be your flight time?",
+          "options": [
+            "298 minutes",
+            "359 minutes",
+            "288 minutes",
+            "304 minutes"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-366"
+        },
+        {
+          "questionText": "Refer to figures 033-27 and 033-93. Ground distance: 2000 NM, FL330, Mach 0.82 (TAS 470 kts), Headwind 30 kts, Landing mass 160 000 kg, ISA, CG 37%, Anti\u2011ice ON, Pack flow HI. Time needed?",
+          "options": [
+            "4 hrs 10 min",
+            "4 hrs 26 min",
+            "4 hrs 43 min",
+            "5 hrs 02 min"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-367"
+        },
+        {
+          "questionText": "Refer to figure 033-12. Find TAS: LRC at FL330, OAT \u201363\u00b0C, Gross mass 50 500 kg.",
+          "options": [
+            "421 kts",
+            "431 kts",
+            "418 kts",
+            "433 kts"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-368"
+        },
+        {
+          "questionText": "Refer to figure 033-16. TOM 52 000 kg, elevation 387 ft, FL280, W/V 280\u00b0/40 kts, ISA \u201310\u00b0C, True course 340\u00b0. Find ground distance to TOC.",
+          "options": [
+            "50 NM",
+            "56 NM",
+            "53 NM",
+            "47 NM"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-369"
+        },
+        {
+          "questionText": "Refer to figure 033-16. Climb time for en\u2011route climb 280/0.74. TOM 57 500 kg, FL280, ISA \u201310\u00b0C, headwind 18 kts.",
+          "options": [
+            "15 min",
+            "14 min",
+            "11 min",
+            "13 min"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-370"
+        },
+        {
+          "questionText": "Refer to figure 033-20. Mass 156 500 kg, FL330, LRC, tailwind 40 kts, remaining flight time 1h10min. Ground distance covered?",
+          "options": [
+            "493 NM",
+            "539 NM",
+            "471 NM",
+            "518 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-371"
+        },
+        {
+          "questionText": "Refer to figure 033-09. Gross mass 50 000 kg, FL280, ISA \u201310\u00b0C, Mach 0.74. Find TAS.",
+          "options": [
+            "417 kts",
+            "427 kts",
+            "440 kts",
+            "430 kts"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-372"
+        },
+        {
+          "questionText": "Refer to figure 033-41. Landing mass 49 700 kg, FL280, wind 280\u00b0/40 kts, True course 320\u00b0, descent M0.74/250 KIAS. Time from TOD to London (elev 80 ft)?",
+          "options": [
+            "10 min",
+            "19 min",
+            "17 min",
+            "8 min"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-373"
+        },
+        {
+          "questionText": "Refer to figure 033-16. Brake release mass 57 500 kg, ISA \u201310\u00b0C, headwind 16 kts, FL280. Find still air distance (NAM) and ground distance (NM) for climb.",
+          "options": [
+            "71 NAM; 67 NM",
+            "67 NAM; 71 NM",
+            "59 NAM; 62 NM",
+            "62 NAM; 59 NM"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-374"
+        },
+        {
+          "questionText": "Refer to Jeppesen North Atlantic Plotting chart \"NAP\". Great circle from REYKJAVIK (64\u00b010'N 022\u00b000'W) to AMSTERDAM (52\u00b032'N 004\u00b050'E). Average true course and distance?",
+          "options": [
+            "131\u00b0, 1095 NM",
+            "118\u00b0, 1095 NM",
+            "140\u00b0, 1824 NM",
+            "311\u00b0, 1824 NM"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-375"
+        },
+        {
+          "questionText": "Refer to NAP chart. Average magnetic course from C (62\u00b0N 020\u00b0W) to B (58\u00b0N 004\u00b0E)?",
+          "options": [
+            "118\u00b0",
+            "099\u00b0",
+            "119\u00b0",
+            "109\u00b0"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-376"
+        },
+        {
+          "questionText": "Refer to NAP chart. Initial true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
+          "options": [
+            "267\u00b0",
+            "275\u00b0",
+            "271\u00b0",
+            "246\u00b0"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-377"
+        },
+        {
+          "questionText": "Refer to NAP chart. Initial magnetic course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
+          "options": [
+            "271\u00b0",
+            "275\u00b0",
+            "267\u00b0",
+            "262\u00b0"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-378"
+        },
+        {
+          "questionText": "Refer to NAP chart. Average true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
+          "options": [
+            "271\u00b0",
+            "247\u00b0",
+            "079\u00b0",
+            "259\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-379"
+        },
+        {
+          "questionText": "Refer to VFR Chart ED-6. Frequency for Stuttgart ATIS?",
+          "options": [
+            "126.12 kHz",
+            "126.12 MHz",
+            "128.95 MHz",
+            "128.95 kHz"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-380"
+        },
+        {
+          "questionText": "Refer to ED-6. Elevation of LSZH ZURICH KLOTEN (47\u00b028'N, 008\u00b033'E)?",
+          "options": [
+            "1416 ft",
+            "1421 ft",
+            "1000 m",
+            "1572 ft"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-381"
+        },
+        {
+          "questionText": "Refer to ED-6. Flying EDTM MENGEN to EDPJ LAICHINGEN. Highest obstacle within 5 NM either side of track?",
+          "options": [
+            "2838 ft",
+            "2120 ft",
+            "2870 ft",
+            "2507 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-382"
+        },
+        {
+          "questionText": "Refer to ED-6. Frequency of TANGO VORTAC (48\u00b037'N 009\u00b016'E)?",
+          "options": [
+            "118.60 MHz",
+            "118.80 MHz",
+            "422 kHz",
+            "112.50 MHz"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-383"
+        },
+        {
+          "questionText": "Refer to ED-6. Flying EDSZ ROTTWEIL ZEPFENHAN to EDPJ LAICHINGEN. Highest obstacle within 5 NM left/right of course?",
+          "options": [
+            "3612 ft",
+            "2852 ft",
+            "3278 ft",
+            "3760 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-384"
+        },
+        {
+          "questionText": "Refer to ED-6. Name and frequency of FIS for position 47\u00b059'N, 010\u00b014'E?",
+          "options": [
+            "MUNCHEN INFORMATION 120.65 MHz",
+            "MUNCHEN INFORMATION 126.95 MHz",
+            "MEMMINGEN INFORMATION 122.1 MHz",
+            "FRANKFURT INFORMATION 128.95 MHz"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-385"
+        },
+        {
+          "questionText": "Refer to ED-6. What facility at 48\u00b023'N 008\u00b039'E?",
+          "options": [
+            "VOR/DME",
+            "NDB",
+            "VORTAC",
+            "VOR"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-386"
+        },
+        {
+          "questionText": "Refer to ED-6. Magnetic course and distance from EDPJ LAICHINGEN to EDSZ ROTTWEIL ZEPFENHAN?",
+          "options": [
+            "243\u00b0, 41 NM",
+            "063\u00b0, 41 NM",
+            "243\u00b0, 62 NM",
+            "063\u00b0, 62 NM"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-387"
+        },
+        {
+          "questionText": "Refer to ED-6. Navigation aid at 48\u00b059'N, 008\u00b035'E?",
+          "options": [
+            "TACAN",
+            "VOR/DME",
+            "VOR",
+            "NDB"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-388"
+        },
+        {
+          "questionText": "Distance from VILSHOFEN via SONNEN to F\u00dcRSTENZELL?",
+          "options": [
+            "35 NM",
+            "46 NM",
+            "38 NM",
+            "69 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-389"
+        },
+        {
+          "questionText": "Refer to chart \"E HI 1\". Navaid(s) at 57\u00b032'N 004\u00b003'W?",
+          "options": [
+            "VOR 109.2 MHz for INS update only",
+            "VOR/DME 109.2 kHz",
+            "VOR/DME 109.2 MHz",
+            "VOR 109.2 MHz, no DME"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-390"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Identifier of navaid at 56\u00b007'N 012\u00b058'E?",
+          "options": [
+            "SVD",
+            "ASTOR",
+            "AOR",
+            "SVD03"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-391"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Initial magnetic course from TIREE (56\u00b030'N 006\u00b053'W) to STORNOWAY (58\u00b012'N 006\u00b011'W)?",
+          "options": [
+            "192\u00b0",
+            "003\u00b0",
+            "011\u00b0",
+            "019\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-392"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Identifier at 56\u00b006'N 012\u00b015'E?",
+          "options": [
+            "WX",
+            "NOA",
+            "SVD04",
+            "NORA"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-393"
+        },
+        {
+          "questionText": "Refer to \"E HI 4\" CAA Edition. Preferred airways routing from FRANKFURT (50\u00b003'N 008\u00b038'E) to KOKSY (51\u00b006'N 002\u00b039'E) above FL245 on Wednesday?",
+          "options": [
+            "UG1",
+            "UR10 NTM UB6 BUB ATS",
+            "UB69 DINKI UB6 BUB ATS",
+            "UG108 SPI UG1"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-394"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Aberdeen to Benbecula. Climb 11 min, descend 15 min, cruise TAS 210 kts. TOC at 3\u00b0W, TOD at 6\u00b0W. Planned flight time still air?",
+          "options": [
+            "54 min",
+            "47 min",
+            "28 min",
+            "16 min"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-395"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Maximum Authorised Altitude on W911D from DEAN CROSS to NEWCASTLE?",
+          "options": [
+            "4200 ft",
+            "4700 ft",
+            "FL150",
+            "FL50"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-396"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Meaning for LANDVETTER (57\u00b039'N 012\u00b017'E)?",
+          "options": [
+            "VOR/DME LAV 114.6 MHz",
+            "VOR/DME + NDB LAV 114.6 MHz",
+            "Doppler VOR only 114.6 MHz",
+            "DME only 114.6 MHz"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-397"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Navaid at ST. ABBS (55\u00b055'N 002\u00b012'W)?",
+          "options": [
+            "VOR/DME 112.5 MHz",
+            "NDB 112.5 MHz",
+            "VOR only 112.5 MHz",
+            "TACAN channel 112.5"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-398"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Navaid at TOPCLIFFE (54\u00b012'N 001\u00b022'W)?",
+          "options": [
+            "VORTAC 113.7 MHz + NDB 92 kHz",
+            "TACAN ch84 + VOR 113.7 MHz",
+            "TACAN only channel 84 (113.7 MHz)",
+            "TACAN ch84 + NDB 92 kHz"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-399"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Magnetic course/distance TALLA to DEAN CROSS on A2?",
+          "options": [
+            "185\u00b0/47 NM",
+            "005\u00b0/47 NM",
+            "185\u00b0/18 NM",
+            "005\u00b0/18 NM"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-400"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Minimum grid safe altitude SHILLING to ALMA?",
+          "options": [
+            "2700 ft",
+            "3200 ft",
+            "2500 ft",
+            "2900 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-401"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Northbound direct from DEAN CROSS via 57\u00b000'N 003\u00b010'W. Excluding RVSM, first FL above FL400?",
+          "options": [
+            "FL430",
+            "FL440",
+            "FL450",
+            "FL420"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-402"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Average true course BEN VOR to ADN VOR?",
+          "options": [
+            "101\u00b0",
+            "093\u00b0",
+            "109\u00b0",
+            "281\u00b0"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-403"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Navaids at Kinloss (57\u00b040'N 003\u00b032'W) for civil aircraft?",
+          "options": [
+            "TACAN range/bearing Channel 35",
+            "Bearing only of TACAN on VOR 109.8 MHz",
+            "Range only of TACAN on DME 109.8 MHz",
+            "VOR and DME on 109.8"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-404"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Aircraft towards GOW on UN615 into London FIR. Best for latest London weather?",
+          "options": [
+            "133.67",
+            "126.60",
+            "129.22",
+            "115.4"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-405"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". GRID MORA for DEAN CROSS to TALLA on A2?",
+          "options": [
+            "42 and 40",
+            "42 and 39",
+            "45 and 40",
+            "45 and 39"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-406"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Magnetic track and distance TNO VOR to HAR VOR?",
+          "options": [
+            "018\u00b0/129 NM",
+            "013\u00b0/117 NM",
+            "007\u00b0/131 NM",
+            "029\u00b0/69 NM"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-407"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Direct CLN to FIR boundary (N55\u00b000.0' E004\u00b015.1'). NOTAM: \"EG-IN-FLIGHT REFUELLING AREA 6\" active. Available FL?",
+          "options": [
+            "FL270",
+            "FL90",
+            "FL250",
+            "FL130"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-408"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". BACKA to BOTTNA on UR46. Useful cross\u2011reference for CINDY?",
+          "options": [
+            "LAV D17",
+            "BAK078 / BTD258",
+            "HAR161 / LAV092",
+            "BTD D60"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-409"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". MEA on W911D from NEWCASTLE to DEAN CROSS?",
+          "options": [
+            "4700 ft",
+            "4200 ft",
+            "FL150",
+            "FL50"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-410"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". MEA on B226 from TALLA to ANGUS?",
+          "options": [
+            "5000 ft",
+            "5500 ft",
+            "FL80",
+            "FL70"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-411"
+        },
+        {
+          "questionText": "Magnetic track and distance LANDVETTER to FILIP?",
+          "options": [
+            "50 NM; 339\u00b0",
+            "43 NM; 204\u00b0",
+            "43 NM; 191\u00b0",
+            "90 NM; 174\u00b0"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-412"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Navaid at LEEDS BRADFORD?",
+          "options": [
+            "fan marker 402.5 kHz",
+            "TACAN channel 402.5",
+            "NDB 402.5 kHz continuous",
+            "NDB 402.5 kHz NOT continuous"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-413"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Average magnetic course ABERDEEN to TIREE?",
+          "options": [
+            "267\u00b0",
+            "260\u00b0",
+            "247\u00b0",
+            "253\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-414"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Meaning for beacons at 55\u00b059'N 014\u00b006'E?",
+          "options": [
+            "Doppler VOR SUP + NDB OE",
+            "NDB only OE",
+            "NDB OE + VOR VEY",
+            "VOR only VEY"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-415"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Navaid(s) at 56\u00b017'N 010\u00b047'E?",
+          "options": [
+            "NDB 374 kHz",
+            "VOR/DME 374 kHz",
+            "NDB 374 kHz for Temporary Use (TU)",
+            "VOR 374 MHz"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-416"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Initial magnetic course INVERNESS to TIREE?",
+          "options": [
+            "244\u00b0",
+            "237\u00b0",
+            "218\u00b0",
+            "230\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-417"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Distance ALMA to SHILLING?",
+          "options": [
+            "60 NM",
+            "131 NM",
+            "45 NM",
+            "86 NM"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-418"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Acceptable route ODIN to BOTTNA?",
+          "options": [
+            "ODN UR12/UN872 HIL UV30 BTD",
+            "ODN UR156 SKA UH42 BTD",
+            "ODN UR156 LAV D17 CINDY UR46 BTD",
+            "ODN UR12 PER UG5 SHG UH42 BTD"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-419"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". ALMA to PETER. Excluding RVSM, lowest FL above FL400?",
+          "options": [
+            "FL440",
+            "FL420",
+            "FL430",
+            "FL410"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-420"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". TALLA to FINDO. First FL above FL400?",
+          "options": [
+            "FL410",
+            "FL430",
+            "FL400",
+            "FL420"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-421"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Navaid(s) at 56\u00b009'N 013\u00b013'E?",
+          "options": [
+            "VOR 116.9 MHz",
+            "VOR/DME 116.2 MHz",
+            "VOR/DME 116.9 MHz",
+            "VOR 116.2 MHz"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-422"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Direct distance TIREE to INVERNESS?",
+          "options": [
+            "192 NM",
+            "360 km",
+            "204 NM",
+            "112 NM"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-423"
+        },
+        {
+          "questionText": "Frequency to receive DME at LAAGE (N53 55.1 E012 17.2)?",
+          "options": [
+            "108.25 MHz",
+            "19 MHz",
+            "138 MHz",
+            "383 MHz"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-424"
+        },
+        {
+          "questionText": "Segment CIV to CMB. Which FL can be used?",
+          "options": [
+            "FL80",
+            "FL120",
+            "FL110",
+            "FL60"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-425"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Appropriate FL on A2 from TALLA to DEAN CROSS?",
+          "options": [
+            "FL50",
+            "FL80",
+            "FL100",
+            "FL90"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-426"
+        },
+        {
+          "questionText": "Refer to \"E HI 2\". Navaid(s) at 55\u00b026'N 011\u00b038'E?",
+          "options": [
+            "VOR/DME 128.75 MHz",
+            "VORTAC 128.15 MHz",
+            "VOR/DME 112.8 MHz",
+            "NDB 112.8 kHz"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-427"
+        },
+        {
+          "questionText": "Refer to \"E HI 1\". Glasgow to Benbecula, TAS 320 kts, headwind 40 kts, fuel flow 2300 kg/h. Fuel consumption?",
+          "options": [
+            "1117 kg",
+            "978 kg",
+            "2300 kg",
+            "869 kg"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-428"
+        },
+        {
+          "questionText": "Refer to \"E LO 1\". Magnetic course/distance SHAPP to ESKDO on B4?",
+          "options": [
+            "343\u00b0/114 NM",
+            "163\u00b0/52 NM",
+            "343\u00b0/52 NM",
+            "163\u00b0/39 NM"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-429"
+        },
+        {
+          "questionText": "Refer to PARIS CDG ILS RWY 10 chart 21-7. ILS course?",
+          "options": [
+            "088\u00b0",
+            "268\u00b0",
+            "118\u00b0",
+            "100\u00b0"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-430"
+        },
+        {
+          "questionText": "Refer to AMSTERDAM SCHIPHOL chart 10-3B. Route distance DER 27 to ARNEM?",
+          "options": [
+            "35 NM",
+            "67 NM",
+            "59 NM",
+            "52 NM"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-431"
+        },
+        {
+          "questionText": "Refer to ZURICH ILS RWY 16 chart 11-2. Lowest published RVR for ILS, GS out, Cat A?",
+          "options": [
+            "800 m",
+            "600 m",
+            "720 m",
+            "1500 m"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-432"
+        },
+        {
+          "questionText": "Refer to MUNICH ILS RWY 26R chart 11-4. ILS frequency and identifier?",
+          "options": [
+            "116.0 DMN",
+            "108.3 IMNW",
+            "108.7 IMNW",
+            "108.3 IMSW"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-433"
+        },
+        {
+          "questionText": "Refer to LONDON HEATHROW chart 10-2. Elevation of destination?",
+          "options": [
+            "100 ft",
+            "80 ft",
+            "177 ft",
+            "77 ft"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-434"
+        },
+        {
+          "questionText": "Refer to PARIS CDG chart 20-3. Distance of departure route ABB 8A?",
+          "options": [
+            "74 NM",
+            "72.5 NM",
+            "74.5 NM",
+            "72 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-435"
+        },
+        {
+          "questionText": "Refer to LHR charts 10-2 and 11-4. IAF identifier and frequency for BIG 2A arrival?",
+          "options": [
+            "BIG 115.1 MHz",
+            "OCK 115.3 MHz",
+            "EPM 316 kHz",
+            "BIG 115.1 kHz"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-436"
+        },
+        {
+          "questionText": "Refer to PARIS CDG chart 20-3. Distance from TOC to ABB 116.6 (TOC 50 NM from CDG)?",
+          "options": [
+            "36.5 NM",
+            "33 NM",
+            "24.5 NM",
+            "31 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-437"
+        },
+        {
+          "questionText": "Refer to MUNICH charts 10-2, 10-2A, 10-2B. Arrival from west via TANGO for RWY 08 L/R?",
+          "options": [
+            "AALEN 1T, IAF ROKIL",
+            "NDG 1T, IAF ROKIL",
+            "DKB 1T, IAF ROKIL",
+            "AALEN 1T, IAF MBG"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-438"
+        },
+        {
+          "questionText": "Refer to MUNICH NDB DME RWY 26L chart 16-3. NDB frequency and identifier?",
+          "options": [
+            "400 MSW",
+            "338 MNW",
+            "108.6 DMS",
+            "112.3 MUN"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-439"
+        },
+        {
+          "questionText": "Refer to AMSTERDAM SCHIPHOL chart 10-9X. Radio altimeter minimum for CAT II ILS DME to RWY 01L?",
+          "options": [
+            "188 ft",
+            "100 ft",
+            "300 ft",
+            "88 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-440"
+        },
+        {
+          "questionText": "Refer to LHR ILS DME RWY 09R chart 11-1. MDA for ILS, GS out?",
+          "options": [
+            "200 ft",
+            "480 ft",
+            "275 ft",
+            "405 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-441"
+        },
+        {
+          "questionText": "Refer to LHR chart 10-2D. MHA and max holding IAS at OCK?",
+          "options": [
+            "9000 ft / 220 kts",
+            "9000 ft / 250 kts",
+            "7000 ft / 220 kts",
+            "7000 ft / 250 kts"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-442"
+        },
+        {
+          "questionText": "Refer to AMS ILS DME RWY 22 chart 11-6. Missed approach altitude and track?",
+          "options": [
+            "2000 ft; 160\u00b0",
+            "200 ft; 223\u00b0",
+            "3000 ft; 223\u00b0",
+            "3000 ft; 160\u00b0"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-443"
+        },
+        {
+          "questionText": "Refer to PARIS CDG chart 20-3. SID ABB 8A. Variation 3\u00b0W, TAS 430 kts, W/V 280/40. Magnetic course, GS, WCA from TOC to ABB?",
+          "options": [
+            "MC 169\u00b0, GS 414 kts, WCA +5\u00b0",
+            "MC 349\u00b0, GS 414 kts, WCA \u20135\u00b0",
+            "MC 349\u00b0, GS 414 kts, WCA +5\u00b0",
+            "MC 169\u00b0, GS 450 kts, WCA +4\u00b0"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-444"
+        },
+        {
+          "questionText": "Refer to MADRID BARAJAS ILS DME RWY 33 chart 11-1. Minimum GS interception altitude for full ILS?",
+          "options": [
+            "1567 ft",
+            "2067 ft",
+            "3500 ft",
+            "4000 ft"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-445"
+        },
+        {
+          "questionText": "Refer to MADRID chart 10-2B. For RWY 33 arrivals from east/south, IAF inbound from UR10?",
+          "options": [
+            "VTB",
+            "CJN",
+            "MOTIL",
+            "CENTA"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-446"
+        },
+        {
+          "questionText": "Refer to MUNICH chart 10-3D. Correct departure via KEMPTEN from RWY 26L?",
+          "options": [
+            "KEMPTEN THREE ECHO",
+            "KEMPTEN FIVE SIERRA",
+            "KEMPTEN THREE QUEBEC",
+            "KEMPTEN THREE NOVEMBER"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-447"
+        },
+        {
+          "questionText": "Refer to ABERDEEN VFR Area Chart 10-1V. Frequency for Aberdeen ATSU?",
+          "options": [
+            "126.25",
+            "114.30",
+            "135.17",
+            "119.87"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-448"
+        },
+        {
+          "questionText": "Refer to ABERDEEN chart 19-3. Max permitted wingspan on East Apron/Eastern Twy?",
+          "options": [
+            "20 ft",
+            "does not apply to helicopters",
+            "20 m",
+            "same as Beech 200"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-449"
+        },
+        {
+          "questionText": "Refer to Esbjerg Area chart 19-1. Track/distance SKR VOR/DME to overhead Esbjerg?",
+          "options": [
+            "308\u00b0 (T) / 29 km",
+            "308\u00b0 (T) / 29 NM",
+            "308\u00b0 (M) / 29 NM",
+            "308\u00b0 (M) / 29 km"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-450"
+        },
+        {
+          "questionText": "Refer to Greece Aerodrome Directory. Local time in Greece: Winter / Summer?",
+          "options": [
+            "LT \u20133h = UTC; LT \u20132h = UTC",
+            "LT = UTC + 2h; LT = UTC + 3h",
+            "LT = UTC \u20132h; LT = UTC \u20133h",
+            "LT +2h = UTC; LT +3h = UTC"
+          ],
+          "correctAnswerIndex": 1,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-451"
+        },
+        {
+          "questionText": "Refer to ATHINAI (Hellinikon) chart 29-1. Variation shown?",
+          "options": [
+            "3\u00b0E",
+            "5\u00b0W",
+            "3\u00b0W",
+            "5\u00b0E"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-452"
+        },
+        {
+          "questionText": "Refer to ABERDEEN chart 19-5. ATIS frequency(ies) when on ground?",
+          "options": [
+            "121.70 or 121.85",
+            "121.70 or 121.85 (duplicate)",
+            "121.70 only"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-453"
+        },
+        {
+          "questionText": "(duplicate number) Refer to DE KOOY chart 19-1. ILS frequency and QDM?",
+          "options": [
+            "123.30; 220\u00b0 (T)",
+            "123.30; 220\u00b0 (M)",
+            "109.70; 214\u00b0 (T)",
+            "109.70; 216\u00b0 (M)"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-454"
+        },
+        {
+          "questionText": "Refer to BARCELONA VFR Area Chart 10-1V. Max altitude for VFR corridor REUS to SAN CELONI?",
+          "options": [
+            "3500 ft",
+            "3000 ft",
+            "2000 ft",
+            "4500 ft"
+          ],
+          "correctAnswerIndex": 0,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-455"
+        },
+        {
+          "questionText": "Refer to Netherlands Aerodrome Directory. Local time vs UTC: Winter / Summer?",
+          "options": [
+            "LT = UTC \u20131h; LT = UTC \u20132h",
+            "LT = UTC +2h; LT = UTC +1h",
+            "LT \u20131h = UTC; LT \u20132h = UTC",
+            "LT \u20132h = UTC; LT \u20131h = UTC"
+          ],
+          "correctAnswerIndex": 2,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-456"
+        },
+        {
+          "questionText": "Refer to ESBJERG chart 19-2. Dimensions of runway 08/26?",
+          "options": [
+            "2600 ft \u00d7 148 ft",
+            "8530 ft \u00d7 45 ft",
+            "8530 m \u00d7 45 m",
+            "2600 m \u00d7 45 m"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-457"
+        },
+        {
+          "questionText": "Refer to ABERDEEN VFR Area Chart 10-1V. Frequency for Scottish Information overhead BANCHORY?",
+          "options": [
+            "119.87",
+            "134.10",
+            "135.17",
+            "126.25"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-458"
+        },
+        {
+          "questionText": "Refer to ATHINAI (Hellinikon) chart 29-1. Frequency and ident of DVOR/DME at north end?",
+          "options": [
+            "275 HK",
+            "357 KVR",
+            "294 HN",
+            "114.40 ATH"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-459"
+        },
+        {
+          "questionText": "Refer to ESBJERG chart 19-1. Course and distance from Locator HP to threshold RWY 08?",
+          "options": [
+            "080\u00b0 (M) / 4.2 NM",
+            "080\u00b0 (T) / 4.2 km",
+            "080\u00b0 (M) / 4.2 km",
+            "080\u00b0 (T) / 4.2 NM"
+          ],
+          "correctAnswerIndex": 3,
+          "hasDetectedAnswer": false,
+          "id": "fligh-plan-460"
         }
       ]
     },
@@ -27506,7 +28849,8 @@
             "B",
             "C",
             "D"
-          ]
+          ],
+          "image": "images/rnavQ1.png"
         },
         {
           "id": "rnav-2",
@@ -27518,7 +28862,8 @@
             "2",
             "3",
             "4"
-          ]
+          ],
+          "image": "images/rnavQ2.png"
         },
         {
           "id": "rnav-3",
@@ -27530,7 +28875,8 @@
             "1) refraction, 2) scattered, 3) reflection",
             "1) refraction, 2) absorption, 3) reflection",
             "1) diffraction, 2) disturbed, 3) reflection"
-          ]
+          ],
+          "image": "images/rnavQ3.png"
         },
         {
           "id": "rnav-4",
