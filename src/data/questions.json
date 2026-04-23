@@ -18878,7 +18878,7 @@
             "heavier than anticipated and the calculated safety speeds will be too low.",
             "heavier than anticipated and the calculated safety speeds will be too high."
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": false
         },
         {
@@ -18890,7 +18890,7 @@
             "v, will be increased.",
             "the aeroplane will rotate much earlier than expected."
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": false
         },
         {
@@ -18938,7 +18938,7 @@
             "rupture of one or more structural components.",
             "a permanent deformation of the structure."
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": false
         },
         {
