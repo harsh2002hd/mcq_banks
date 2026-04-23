@@ -34697,8 +34697,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "ops-5",
-          "image": "images/opsQ5.png"
+          "id": "ops-5"
         },
         {
           "id": "ops-6",
@@ -34722,7 +34721,8 @@
             "a toxic material."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": false
+          "hasDetectedAnswer": false,
+          "image": "images/opsQ5.png"
         },
         {
           "questionText": "In North Atlantic High Level Airspace (NAT HLA), the lateral separation between aircraft on organized tracks is typically:",
@@ -34746,7 +34746,8 @@
             "In accordance with ICAO Annex 6 requirements."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": false
+          "hasDetectedAnswer": false,
+          "image": "images/opsQ5.png"
         },
         {
           "id": "ops-10",
@@ -34758,7 +34759,8 @@
             "Depending on the aircraft's performance class."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": false
+          "hasDetectedAnswer": false,
+          "image": "images/opsQ5.png"
         },
         {
           "questionText": "According to ICAO fuel policy, the final reserve fuel for a turbine-engined aeroplane for a 30-minute hold should be calculated at:",
