@@ -1,0 +1,368 @@
+[
+  {
+    "questionText": "What is the minimum height above the aerodrome elevation for the use of a radio altimeter for CAT II approaches?",
+    "options": ["100 ft", "200 ft", "500 ft", "The height is determined by the decision height (DH)"],
+    "correctAnswerIndex": 1,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In North Atlantic High Level Airspace (NAT HLA), the lateral separation between aircraft on organized tracks is typically:",
+    "options": ["60 NM", "30 NM", "15 NM", "10 NM"],
+    "correctAnswerIndex": 1,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "According to ICAO fuel policy, the final reserve fuel for a turbine-engined aeroplane for a 30-minute hold should be calculated at:",
+    "options": ["1,500 ft above aerodrome elevation in ISA conditions", "10,000 ft above sea level", "Flight level 100", "500 ft above aerodrome elevation"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The maximum distance from an adequate aerodrome for a twin-engined aircraft without ETOPS approval is often limited to:",
+    "options": ["60 minutes at the one-engine-inoperative cruise speed", "90 minutes at the one-engine-inoperative cruise speed", "120 minutes at the all-engines cruise speed", "180 minutes at the one-engine-inoperative cruise speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "An operator must ensure that the flight crew is provided with the most recent version of the:",
+    "options": ["Minimum Equipment List (MEL)", "Navigation Log", "Meteorological Briefing", "Operational Flight Plan"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During a CAT III approach, a 'No Decision Height' (No DH) operation is one where:",
+    "options": ["The aircraft must have an automatic landing system", "The pilot can decide to land at any height", "Visibility must be at least 800m", "The autopilot must be disconnected at 50ft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "When flying in a 'reduced vertical separation minimum' (RVSM) airspace, the vertical separation between FL 290 and FL 410 is:",
+    "options": ["2,000 ft", "1,000 ft", "500 ft", "1,500 ft"],
+    "correctAnswerIndex": 1,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The Configuration Deviation List (CDL) provides information about:",
+    "options": ["Operating with missing external parts", "Operating with failed internal systems", "Maximum takeoff mass changes", "Alternate fuel requirements"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'dry lease-out' refers to a leasing arrangement where:",
+    "options": ["The aircraft is leased without crew", "The aircraft is leased with crew and maintenance", "Only the engine is leased", "The aircraft is leased for less than 24 hours"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The purpose of a 'pre-flight check' of the transponder is to ensure:",
+    "options": ["Mode A and Mode C are functioning correctly", "The squawk code is set to 7000", "The IDENT button is working", "The battery life is sufficient"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In the event of an engine failure after V1, the primary concern is to:",
+    "options": ["Maintain control and achieve a safe climb gradient", "Immediately turn back to the runway", "Shut down the engine before reaching V2", "Declare an emergency to the tower"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "For a long-range flight, the 'point of no return' (PNR) is the point:",
+    "options": ["From which the aircraft can return to the departure aerodrome with the required fuel", "Where the aircraft must start its descent", "Where the destination is closer than the departure", "Beyond which the aircraft must land at an alternate"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Decision Height' (DH) for a CAT I precision approach is typically:",
+    "options": ["At least 200 ft", "At least 100 ft", "At least 50 ft", "No decision height"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "When encountering severe turbulence, the pilot should maintain:",
+    "options": ["A constant pitch attitude rather than a constant altitude", "A constant altitude at all costs", "Maximum airspeed to exit the area quickly", "Minimum airspeed to avoid structural damage"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Minimum Descent Altitude' (MDA) is used for:",
+    "options": ["Non-precision approaches", "Precision approaches", "Visual approaches only", "Emergency descents"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A life raft is required for flights over water if the distance from land is more than:",
+    "options": ["120 minutes or 400 NM (whichever is less)", "50 NM from the shore", "30 minutes from the shore", "10 NM from the shore"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Operator' of an aircraft is the person or entity:",
+    "options": ["Engaged in the operation of the aircraft", "Who owns the aircraft", "Who is the pilot-in-command", "Who manufactures the aircraft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During a de-icing procedure, the 'holdover time' is the estimated time that:",
+    "options": ["The anti-icing fluid will prevent the formation of frost or ice", "The aircraft can wait on the runway before takeoff", "The crew can work before needing a break", "The engine can run without cooling"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Journey Log' must contain which of the following information for each flight?",
+    "options": ["Names of crew members and their duty assignments", "The cost of the fuel used", "The number of meals served", "The passenger seat numbers"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In case of a total loss of communications, the standard transponder code is:",
+    "options": ["7600", "7500", "7700", "2000"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The term 'V1' refers to:",
+    "options": ["Take-off decision speed", "Rotation speed", "Stall speed in landing configuration", "Maximum flap extended speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "For an ETOPS flight, the 'ETOPS Entry Point' is:",
+    "options": ["The first point on the route that is more than 60 minutes from an adequate aerodrome", "The point where the aircraft enters oceanic airspace", "The point where the first engine is started", "The destination airport"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Clearway' is defined as:",
+    "options": ["A rectangular area at the end of the takeoff run available, suitable for climb to 35ft", "A runway with no obstacles within 10km", "A path through the clouds", "A designated taxiway for emergency use"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Stopway' is an area at the end of the take-off run available used for:",
+    "options": ["Stopping the aircraft in case of an abandoned take-off", "Parking the aircraft after landing", "Climbing to 50ft", "Fuel jettisoning"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Maximum Zero Fuel Mass' (MZFM) is the maximum mass of the aircraft:",
+    "options": ["With no usable fuel on board", "With no passengers on board", "Before the engines are started", "At the end of the landing roll"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In a 'Sterile Flight Deck' environment, the crew must avoid:",
+    "options": ["Non-essential conversations during critical phases of flight", "Using the radio", "Looking at the navigation maps", "Eating meals"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Balanced Field Length' concept implies that:",
+    "options": ["The accelerate-stop distance equals the take-off distance", "The runway is perfectly level", "The wind is zero", "The aircraft is perfectly loaded"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During an emergency evacuation, the primary responsibility of the cabin crew is to:",
+    "options": ["Ensure all passengers exit the aircraft quickly and safely", "Gather the passengers' luggage", "Close all the windows", "Inform the passengers about the cause of the emergency"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Critical Engine' is the engine whose failure would:",
+    "options": ["Most adversely affect the performance or handling qualities of the aircraft", "Cause the most noise", "Use the most fuel", "Be the easiest to restart"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "For a pressurized aircraft, 'Time of Useful Consciousness' (TUC) at 35,000 ft is approximately:",
+    "options": ["30 to 60 seconds", "5 to 10 minutes", "2 minutes", "15 seconds"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Low Visibility Procedures' (LVP) are implemented at an aerodrome when:",
+    "options": ["Cloud base or RVR falls below certain values (e.g. 200ft / 550m)", "There is heavy rain", "The sun has set", "There is strong crosswind"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In oceanic airspace, 'SLOP' (Strategic Lateral Offset Procedure) is used to:",
+    "options": ["Reduce the risk of mid-air collisions", "Save fuel", "Avoid turbulence", "Navigate more accurately"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Pre-flight Briefing' for passengers must include information on:",
+    "options": ["Emergency exits and use of oxygen masks", "The cost of the flight", "The aircraft's fuel consumption", "The history of the airline"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Minimum Navigation Performance Specification' (MNPS) requires aircraft to have:",
+    "options": ["Highly accurate long-range navigation equipment", "At least one VOR and one ADF", "A working autopilot", "Satellite television"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During a 'Ditching', the aircraft should ideally be landed:",
+    "options": ["Parallel to the swell in high winds", "Perpendicular to the swell", "At maximum landing speed", "With the landing gear down"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Flight Data Recorder' (FDR) is designed to:",
+    "options": ["Record flight parameters to assist in accident investigation", "Record the conversations in the cockpit", "Transmit the aircraft's position to ATC", "Store the pilot's medical records"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Class II' medical certificate is typically required for:",
+    "options": ["Private pilots", "Commercial pilots", "Air traffic controllers", "Flight engineers"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Instrument Landing System' (ILS) provides both:",
+    "options": ["Lateral and vertical guidance", "Speed and altitude information", "Fuel and weight calculations", "Weather and traffic updates"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Take-off Alternate' aerodrome must be selected if:",
+    "options": ["Weather at the departure aerodrome is below landing minima", "The destination is more than 2 hours away", "The aircraft is carrying dangerous goods", "The flight is conducted at night"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Final Reserve Fuel' for a piston-engined aeroplane is typically:",
+    "options": ["45 minutes of flight at normal cruise speed", "30 minutes of flight", "15 minutes of flight", "60 minutes of flight"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "When using a 'Reduced Thrust' takeoff, the pilot is:",
+    "options": ["Using less than the maximum available thrust to increase engine life", "Trying to climb as fast as possible", "Operating in high-altitude airports only", "Compensating for a tailwind"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Aerodrome Operating Minima' are established to:",
+    "options": ["Ensure a safe margin during takeoff and landing", "Maximize the number of flights per day", "Reduce the cost of airport operations", "Limit the noise levels"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Noted Obstacle' in the takeoff path is one that:",
+    "options": ["May affect the aircraft's performance during climb-out", "Is visible to the naked eye", "Is painted red and white", "Is taller than 500ft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Obstacle Limitation Surfaces' (OLS) are used to:",
+    "options": ["Define the airspace that should be kept free from obstacles around an aerodrome", "Calculate the aircraft's weight", "Predict the weather", "Measure the runway length"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During 'Hydroplaning', the aircraft's tires are:",
+    "options": ["Separated from the runway surface by a thin film of water", "Getting too hot", "Losing air pressure", "Damaged by debris"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Reference Speed' (VREF) for landing is typically:",
+    "options": ["1.3 times the stall speed in landing configuration", "The maximum speed for flap extension", "The speed at which the gear is retracted", "1.1 times the takeoff speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Go-Around' should be initiated if:",
+    "options": ["The approach is not stabilized by the required height", "The landing gear is not down", "The runway is occupied", "All of the above"],
+    "correctAnswerIndex": 3,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Operational Flight Plan' (OFP) is prepared by:",
+    "options": ["The operator or dispatcher", "The pilot-in-command alone", "The air traffic controller", "The airport manager"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Mass and Balance Manifest' ensures that:",
+    "options": ["The aircraft is within its weight and center of gravity limits", "The fuel is of the correct type", "The passengers have paid their fares", "The cargo is properly labeled"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Flight Plan' filed with ATC is primarily for:",
+    "options": ["Traffic coordination and search and rescue services", "Predicting the flight's profit", "Calculating the engine wear", "Determining the ticket prices"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Approach Lighting System' (ALS) helps the pilot to:",
+    "options": ["Transition from instrument to visual flight during landing", "See the other aircraft in the vicinity", "Read the instruments in the cockpit", "Find the taxiway"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Precision Approach Path Indicator' (PAPI) provides guidance on:",
+    "options": ["The correct glide path", "The aircraft's lateral position", "The runway length remaining", "The wind speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Cold Weather Operations', the 'Cold Temperature Correction' is applied to:",
+    "options": ["Altimeter readings to ensure obstacle clearance", "Fuel flow meters", "Airspeed indicators", "Engine temperature gauges"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Emergency Locator Transmitter' (ELT) is activated by:",
+    "options": ["Impact forces or manual activation", "The pilot's voice", "Reaching a certain altitude", "The radio being turned off"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Noise Abatement' procedure may involve:",
+    "options": ["Using specific takeoff power settings and flap retraction schedules", "Flying as low as possible over cities", "Using maximum thrust during climb", "Turning off the engines during descent"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Contaminated Runway' report includes information on:",
+    "options": ["Type and depth of deposit (e.g. slush, snow, water)", "The color of the runway paint", "The number of birds near the runway", "The temperature of the asphalt"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During a 'Wind Shear' encounter on takeoff, the pilot should:",
+    "options": ["Apply maximum thrust and maintain pitch", "Reduce thrust to avoid stall", "Immediately retract the flaps", "Lower the nose to gain speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Wake Turbulence' from a large aircraft is strongest when it is:",
+    "options": ["Heavy, clean, and slow", "Light, clean, and fast", "Heavy, with flaps down, and fast", "Light, with flaps down, and slow"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Security Search' of the aircraft is conducted to:",
+    "options": ["Detect any unauthorized weapons or explosives", "Find lost items of clothing", "Check the cleanliness of the cabin", "Verify the number of life jackets"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Commander' of the aircraft has final authority as to:",
+    "options": ["The disposition of the aircraft while he is in command", "The airline's marketing strategy", "The design of the airport", "The price of the fuel"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During 'Fuel Jettisoning', the aircraft should avoid areas of:",
+    "options": ["Known lightning and thunderstorms", "High altitude clouds", "Oceanic airspace", "High-speed winds"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  }
+]

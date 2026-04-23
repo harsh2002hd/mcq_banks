@@ -1,0 +1,368 @@
+[
+  {
+    "questionText": "What is the primary purpose of a 'Destination Alternate' aerodrome?",
+    "options": ["To provide an alternative landing site if the destination is unavailable", "To save fuel by landing earlier", "To allow for passenger transfers", "To use a longer runway"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Polar Operations', one of the main challenges is:",
+    "options": ["Magnetic compass unreliability", "Lack of fuel stations", "Excessive heat", "High air density"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Estimated Elapsed Time' (EET) in a flight plan refers to:",
+    "options": ["The time from takeoff to the point above the destination", "The total time from gate to gate", "The time spent in the air only", "The time from engine start to engine stop"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'VFR' flight is conducted in accordance with:",
+    "options": ["Visual Flight Rules", "Very Fast Routes", "Variable Flight Range", "Virtual Flight Recording"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Transition Altitude' is the altitude at or below which the vertical position of an aircraft is controlled by reference to:",
+    "options": ["Altitudes (QNH)", "Flight Levels (Standard Pressure)", "Height (QFE)", "Radar altitude"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Transition Level' is the lowest flight level available for use above the:",
+    "options": ["Transition altitude", "Aerodrome elevation", "Sea level", "5,000 ft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "When 'Altimeter Setting' is set to 1013.25 hPa (29.92 inHg), the altimeter indicates:",
+    "options": ["Pressure Altitude", "True Altitude", "Indicated Altitude", "Density Altitude"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Heavy Rain', a pilot should be aware of the increased risk of:",
+    "options": ["Engine flameout and poor visibility", "Tailwind gusts", "Excessive lift", "Magnetic interference"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'SIGMET' information is issued to notify pilots about:",
+    "options": ["Significant meteorological phenomena that may affect flight safety", "Standard weather reports for airports", "Upper wind forecasts", "Airport opening hours"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Microburst' is a concentrated downdraft with a diameter of less than:",
+    "options": ["4 km", "10 km", "20 km", "1 km"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Obstacle Clearance Limit' (OCL) is the height above which:",
+    "options": ["The required vertical clearance from obstacles is ensured", "The aircraft must fly in VFR", "The landing gear must be retracted", "The fuel must be jettisoned"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Mountainous Terrain', the minimum sector altitude (MSA) provides a clearance of at least:",
+    "options": ["2,000 ft over the highest obstacle", "1,000 ft over the highest obstacle", "500 ft over the highest obstacle", "1,500 ft over the highest obstacle"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Flight Path' of an aircraft during an emergency descent should avoid:",
+    "options": ["Active airways and high terrain", "Clouds", "Oceanic areas", "Low-level airports"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Master Minimum Equipment List' (MMEL) is established by:",
+    "options": ["The aircraft manufacturer and approved by the authority", "The individual airline operator", "The pilot-in-command", "The airport ground staff"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "An 'Incident' is defined as an occurrence, other than an accident, which:",
+    "options": ["Affects or could affect the safety of operation", "Causes total destruction of the aircraft", "Result in fatal injury to all passengers", "Involves only a change in the flight plan"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Safety Management System' (SMS) of an operator aims to:",
+    "options": ["Proactively manage safety risks", "Reduce the cost of ticket sales", "Increase the aircraft's speed", "Train the cabin crew in languages"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Controlled Airspace', all flights must be:",
+    "options": ["Subject to air traffic control clearance", "Conducted in VFR only", "Equipped with parachutes for all passengers", "Flown by at least three pilots"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Reduced Vertical Separation Minimum' (RVSM) allows for separation of:",
+    "options": ["1,000 ft between FL 290 and FL 410 inclusive", "2,000 ft between FL 290 and FL 410", "500 ft between all levels", "3,000 ft above FL 410"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Mode S' transponder allows for:",
+    "options": ["Selective addressing and data link capability", "Voice communication with other aircraft", "Automatic fuel management", "Recording the cabin temperature"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'NOTAM' (Notice to Airmen) contains information concerning:",
+    "options": ["Establishment, condition, or change in any aeronautical facility or hazard", "Passenger meal preferences", "The airline's annual financial report", "The history of aviation"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Standard Instrument Departure' (SID) is a:",
+    "options": ["Designated IFR departure route", "Visual path out of the airport", "Checklist for engine start", "Passenger boarding procedure"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Standard Terminal Arrival' (STAR) is a:",
+    "options": ["Designated IFR arrival route", "Visual path into the airport", "Checklist for landing gear extension", "Baggage claim procedure"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Decision Altitude' (DA) is referenced to:",
+    "options": ["Mean Sea Level (MSL)", "Aerodrome elevation", "Ground level", "Standard pressure"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During 'Bird Strike' reporting, the pilot should include information on:",
+    "options": ["Species (if known), number of birds, and phase of flight", "The color of the bird's feathers only", "The cost of the bird's nest", "The location of the nearest pet shop"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Unlawful Interference' procedures include the use of transponder code:",
+    "options": ["7500", "7600", "7700", "2000"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Oceanic Airspace', positional reports are typically made using:",
+    "options": ["HF radio or SATCOM", "VHF radio only", "Mobile phone SMS", "Visual signals"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Wake Turbulence' category of an aircraft depends on its:",
+    "options": ["Maximum certificated takeoff mass", "Wing span only", "Engine thrust", "Number of seats"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Heavy' wake turbulence category applies to aircraft with a mass of:",
+    "options": ["136,000 kg or more", "Between 7,000 and 136,000 kg", "7,000 kg or less", "Over 300,000 kg"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Minimum Sector Altitude' (MSA) is valid within a radius of:",
+    "options": ["25 NM from a navigation aid", "10 NM from the airport", "50 NM from the coast", "100 NM from the VOR"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During 'Emergency Descent', the transponder should be set to:",
+    "options": ["7700", "7500", "7600", "7000"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Minimum Fuel' declaration to ATC means:",
+    "options": ["The aircraft can accept little or no delay", "The aircraft is about to crash", "The engines have already stopped", "The aircraft needs to dump fuel"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Mayday' call indicates:",
+    "options": ["Grave and imminent danger and immediate assistance is required", "A minor technical problem", "A request for a different flight level", "The pilot is ready for landing"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Pan-Pan' call indicates:",
+    "options": ["An urgent message concerning the safety of an aircraft but no immediate danger", "A hijack is in progress", "The aircraft is out of fuel", "The radio is broken"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Flight Level' is a surface of constant atmospheric pressure related to:",
+    "options": ["1013.2 hPa", "Local QNH", "Aerodrome QFE", "Standard Density"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Grid North' is used in navigation charts for:",
+    "options": ["Polar regions and high latitudes", "Equatorial flights", "Determining the wind speed", "Calculating the fuel weight"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Great Circle' track is the:",
+    "options": ["Shortest distance between two points on the Earth's surface", "A path with a constant heading", "A path following a parallel of latitude", "The longest route possible"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Rhumb Line' is a track that:",
+    "options": ["Crosses all meridians at the same angle", "Follows the shortest path", "Is used only in space flight", "Goes from pole to pole"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Magnetic Variation' is the angle between:",
+    "options": ["True North and Magnetic North", "True North and Grid North", "Heading and Track", "Wind direction and Heading"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Magnetic Deviation' is caused by:",
+    "options": ["The aircraft's own magnetic fields", "The Earth's core", "The solar wind", "The moon's gravity"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Radio Communications', the word 'Wilco' means:",
+    "options": ["I understand your message and will comply with it", "I cannot hear you", "I am repeating your message", "What was that again?"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The word 'Roger' in radio terminology means:",
+    "options": ["I have received all of your last transmission", "I will do what you said", "Yes", "Goodbye"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The word 'Acknowledge' means:",
+    "options": ["Let me know that you have received and understood this message", "Stop talking", "Change to another frequency", "I am landing now"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The word 'Say Again' means:",
+    "options": ["Repeat all, or the following part, of your last transmission", "Tell me the weather", "What is your position?", "I am repeating my last message"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Vertical Speed Indicator' (VSI) measures:",
+    "options": ["Rate of climb or descent", "Total energy of the aircraft", "Horizontal speed", "The aircraft's weight"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Airspeed Indicator' (ASI) measures the difference between:",
+    "options": ["Pitot (dynamic) pressure and Static pressure", "Outside air temperature and Inside air temperature", "Fuel flow and Air intake", "Engine thrust and Drag"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Mach Number' is the ratio of the aircraft's true airspeed to the:",
+    "options": ["Local speed of sound", "Ground speed", "Stall speed", "Maximum speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Altimeter' is essentially a:",
+    "options": ["Barometer calibrated in feet or meters", "Thermometer", "Gyroscope", "Compass"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Icing Conditions', the accumulation of ice on the wings leads to:",
+    "options": ["Decreased lift and increased drag", "Increased lift and decreased drag", "Lower fuel consumption", "Higher speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Tailplane Stall' due to icing is most likely to occur during:",
+    "options": ["Flap extension on approach", "Takeoff rotation", "Cruise at high altitude", "Engine start"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Pitot Heat' should be turned on:",
+    "options": ["Before flight to prevent icing and moisture in the pitot tube", "Only if the pilot feels cold", "When the engines are off", "During the landing roll only"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Automatic Direction Finder' (ADF) points towards a:",
+    "options": ["Non-Directional Beacon (NDB)", "VOR station", "Satellite", "Magnetic North Pole"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Distance Measuring Equipment' (DME) indicates the:",
+    "options": ["Slant range distance to the station", "Ground distance to the station", "Time to destination", "Altitude above the station"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'VHF Omnidirectional Range' (VOR) provides:",
+    "options": ["Radial information from the station", "Distance information only", "Voice communication with the airport", "Weather maps"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Global Positioning System' (GPS) uses:",
+    "options": ["A constellation of satellites for position fixing", "Ground-based radio towers only", "The aircraft's inertial platform only", "Magnetic sensors in the wings"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Inertial Navigation System' (INS) calculates position by:",
+    "options": ["Integrating accelerations measured by sensors", "Receiving signals from VORs", "Looking at the stars", "Measuring the depth of the ocean"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Auto-Pilot' is used to:",
+    "options": ["Relieve the pilot from manual control of the aircraft", "Replace the pilot entirely", "Serve meals to the passengers", "Land the aircraft in VFR conditions only"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Flight Management System' (FMS) integrates:",
+    "options": ["Navigation, performance, and aircraft systems data", "The pilot's personal schedule", "The airline's marketing data", "The local newspaper"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Secondary Surveillance Radar' (SSR) requires the aircraft to have a:",
+    "options": ["Transponder", "Mirror", "Parachute", "Flashlight"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Traffic Collision Avoidance System' (TCAS) provides:",
+    "options": ["Alerts and resolution advisories for other aircraft", "Weather forecasts", "Fuel consumption estimates", "Navigation to the nearest airport"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Resolution Advisory' (RA) from TCAS requires the pilot to:",
+    "options": ["Follow the vertical maneuver command immediately", "Ignore the command and maintain level flight", "Talk to ATC first", "Turn off the transponder"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Ground Proximity Warning System' (GPWS) alerts the pilot about:",
+    "options": ["Potentially dangerous terrain proximity", "High oil temperature", "Low fuel pressure", "Passenger misbehavior"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  }
+]

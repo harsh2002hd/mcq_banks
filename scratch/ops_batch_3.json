@@ -1,0 +1,368 @@
+[
+  {
+    "questionText": "The 'Security Restricted Area' of an airport is:",
+    "options": ["An area where access is controlled and security measures are applied", "The duty-free shop", "The baggage claim area for all passengers", "The parking lot for staff"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Bomb Threat' procedure for an aircraft on the ground includes:",
+    "options": ["Evacuating the aircraft and searching it in a designated isolated area", "Ignoring the threat if it's via phone", "Taking off immediately to get away from the ground", "Keeping all passengers on board to assist in the search"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Dangerous Goods' are substances or articles that:",
+    "options": ["Are capable of posing a risk to health, safety, property, or the environment", "Are only carried in the cockpit", "Are completely prohibited on all flights", "Only include liquids"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Shipper's Declaration' for dangerous goods must be completed by:",
+    "options": ["The person who offers the goods for transport", "The pilot-in-command", "The flight attendant", "The airport security guard"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Safety Data Sheet' (SDS) provides information about:",
+    "options": ["The properties and hazards of a chemical substance", "The aircraft's maintenance history", "The pilot's training records", "The airline's safety policy"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Notification to Captain' (NOTOC) is a document that:",
+    "options": ["Informs the pilot about the dangerous goods on board", "Tells the pilot who the famous passengers are", "Is a list of the meals for the crew", "Is the pilot's paycheck"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Emergency Equipment', a PBE (Protective Breathing Equipment) is used to:",
+    "options": ["Protect the wearer against smoke and toxic fumes during fire fighting", "Provide oxygen for passengers at high altitude", "Help the pilot see through clouds", "Record the pilot's voice"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Megaphone' is required on board for aircraft with a passenger seating capacity of more than:",
+    "options": ["60 seats", "20 seats", "100 seats", "10 seats"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'First Aid Kit' contents are specified by:",
+    "options": ["The operator's competent authority", "The nearest hospital", "The flight attendant's union", "The local pharmacy"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "An 'Oxygen Bottle' for crew use should be:",
+    "options": ["Checked for pressure and secured properly before flight", "Kept in the passenger's luggage", "Left empty during VFR flights", "Filled with compressed air only"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Minimum Equipment List' (MEL) allows for:",
+    "options": ["Dispatch of an aircraft with certain items of equipment inoperative", "Flying with no engines", "Ignoring all safety rules", "Reducing the number of pilots to zero"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Maintenance Release' is a document issued after:",
+    "options": ["Maintenance has been performed and the aircraft is fit for flight", "The aircraft has been cleaned", "The fuel has been loaded", "The passengers have boarded"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Deferred Maintenance' item is one that:",
+    "options": ["Can be fixed at a later date as allowed by the MEL", "Is impossible to fix", "Must be fixed before the next flight regardless of anything", "Is not important at all"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Crew Resource Management' (CRM) focuses on:",
+    "options": ["Effective use of all available resources for safety and efficiency", "How to fly the aircraft alone", "Managing the airline's bank account", "Designing new aircraft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Situational Awareness' is the pilot's:",
+    "options": ["Perception and understanding of the flight environment", "Ability to sleep during cruise", "Knowledge of the airline's history", "Salary level"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Conflict Management', the goal is to:",
+    "options": ["Resolve disagreements in a way that prioritizes flight safety", "Win every argument", "Ignore the other crew members", "Report everyone to the authority"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Fatigue Risk Management System' (FRMS) aims to:",
+    "options": ["Manage the effects of fatigue on crew performance", "Ensure the crew never sleeps", "Make the crew work as many hours as possible", "Reduce the weight of the aircraft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Noise Sensitive' area should be avoided by:",
+    "options": ["Following designated noise abatement routes and altitudes", "Flying as fast as possible", "Turning off the radio", "Only flying on weekends"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Fuel Efficiency' can be improved by:",
+    "options": ["Optimizing flight paths and altitudes", "Carrying maximum extra fuel", "Flying with the landing gear down", "Using maximum thrust at all times"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Carbon Offset' program for an airline aims to:",
+    "options": ["Compensate for the CO2 emissions produced during flights", "Sell more tickets", "Reduce the number of seats", "Increase the noise levels"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'MNPS' (Minimum Navigation Performance Specification) airspace, the aircraft must be capable of:",
+    "options": ["Maintaining a high level of navigation accuracy", "Flying at low altitudes only", "Receiving television signals", "Recording the passengers' voices"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'RVSM' (Reduced Vertical Separation Minimum) requirement includes:",
+    "options": ["Two independent altitude measuring systems and an altitude alerting system", "A single altimeter and a stopwatch", "A map and a compass", "A working radio"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "For 'ETOPS' (Extended-range Twin-engine Operational Performance Standards), the aircraft must be:",
+    "options": ["Specially certified and maintained", "Only flown by pilots with 20 years of experience", "Equipped with four engines", "Lighter than 5,700 kg"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In 'Low Visibility Operations' (LVO), the 'RVR' (Runway Visual Range) is measured by:",
+    "options": ["Transmissometers located along the runway", "The pilot looking out the window", "A weather balloon", "A satellite"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'CAT II' approach requires an RVR of at least:",
+    "options": ["300 m", "550 m", "800 m", "1,500 m"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'ILS Critical Area' must be protected from vehicles and other aircraft when:",
+    "options": ["Low visibility procedures are in force", "The sun is shining", "It's raining slightly", "The airport is closed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Visual Descent Point' (VDP) is a point on a non-precision approach from which:",
+    "options": ["A normal descent to landing can be made if the required visual reference is established", "The pilot must go around", "The engines should be shut down", "The landing gear is retracted"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Missed Approach Point' (MAPt) is the point where:",
+    "options": ["The missed approach procedure must be initiated if the required visual reference is not seen", "The aircraft should land immediately", "The flight plan ends", "The fuel is checked"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Holding Pattern' is used to:",
+    "options": ["Delay an aircraft in the air for traffic or weather reasons", "Perform aerobatics", "Save fuel", "Let the passengers see the city"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Standard Rate Turn' is a turn at a rate of:",
+    "options": ["3 degrees per second", "10 degrees per second", "1 degree per minute", "45 degrees per second"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "In a 'Coordinated Turn', the aircraft is flying:",
+    "options": ["Without any slip or skid", "With the nose pointing at the ground", "At maximum speed", "With the wings level"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Angle of Attack' (AoA) is the angle between the:",
+    "options": ["Relative wind and the chord line of the wing", "Horizon and the wing", "Fuselage and the ground", "Vertical axis and the wing"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Stall' occurs when the wing exceeds the:",
+    "options": ["Critical angle of attack", "Maximum speed", "Maximum weight", "Minimum altitude"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Load Factor' (G-load) is the ratio of:",
+    "options": ["Lift to Weight", "Thrust to Drag", "Speed to Altitude", "Fuel to Payload"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Stability' of an aircraft is its ability to:",
+    "options": ["Return to its original state after a disturbance", "Fly as fast as possible", "Carry a large load", "Make noise"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Center of Gravity' (CG) is the point where:",
+    "options": ["All the weight of the aircraft is concentrated", "The lift is generated", "The engines are located", "The pilot sits"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "If the 'CG' is too far forward, the aircraft will:",
+    "options": ["Be nose-heavy and difficult to rotate", "Be unstable in pitch", "Fly faster", "Use less fuel"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "If the 'CG' is too far aft, the aircraft will:",
+    "options": ["Be unstable in pitch and difficult to recover from a stall", "Be very easy to land", "Use more fuel", "Have a lower stall speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Mean Aerodynamic Chord' (MAC) is used as a reference for:",
+    "options": ["Defining the CG position", "Measuring the wing span", "Calculating the engine thrust", "Determining the tail length"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Arm' in mass and balance is the distance from a:",
+    "options": ["Reference datum to the item's location", "Wing tip to wing tip", "Nose to tail", "Ground to the wing"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Moment' is calculated by multiplying:",
+    "options": ["Mass by Arm", "Weight by Speed", "Thrust by Time", "Lift by Area"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Dry Operating Mass' (DOM) includes:",
+    "options": ["The aircraft structure, systems, and crew", "The payload and fuel", "The passengers and their luggage", "The fuel only"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Take-off Mass' (TOM) is the sum of:",
+    "options": ["DOM + Take-off fuel + Payload", "DOM + Fuel only", "Payload + Fuel only", "Aircraft weight only"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Maximum Landing Mass' (MLM) is a limit determined by:",
+    "options": ["Structural strength or performance requirements", "The size of the baggage hold", "The number of passengers", "The price of the fuel"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "During 'Takeoff', the 'V2' speed is the:",
+    "options": ["Take-off safety speed", "Engine failure speed", "Rotation speed", "Flap retraction speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Climb Gradient' is the ratio of:",
+    "options": ["Change in height to horizontal distance", "Speed to Altitude", "Weight to Lift", "Fuel flow to Speed"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Temperature Inversion' is a layer of the atmosphere where:",
+    "options": ["Temperature increases with altitude", "Temperature decreases rapidly with altitude", "It's always snowing", "There is no wind"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Standard Atmosphere' (ISA) at sea level has a temperature of:",
+    "options": ["15 degrees Celsius", "0 degrees Celsius", "25 degrees Celsius", "10 degrees Celsius"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Lapse Rate' in the troposphere is approximately:",
+    "options": ["2 degrees Celsius per 1,000 ft", "10 degrees Celsius per 1,000 ft", "1 degree Celsius per 1,000 ft", "5 degrees Celsius per 1,000 ft"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Troposphere' is the layer of the atmosphere where:",
+    "options": ["Most weather phenomena occur", "The air is completely still", "There is no oxygen", "The ozone layer is located"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Cold Front' occurs when:",
+    "options": ["Cold air replaces warm air", "Warm air replaces cold air", "The air is stationary", "It's summer"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Warm Front' is characterized by:",
+    "options": ["Gradual lifting of warm air over cold air", "Rapid thunderstorms", "Clear skies always", "Extreme cold"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Dew Point' is the temperature at which:",
+    "options": ["Air must be cooled to become saturated", "The sun sets", "Ice melts", "The pilot should land"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'Cumulonimbus' (CB) cloud is associated with:",
+    "options": ["Thunderstorms and heavy precipitation", "Fair weather", "High-altitude ice crystals", "Steady light rain"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'Jet Stream' is a narrow band of:",
+    "options": ["Strong winds in the upper atmosphere", "Clouds in the lower atmosphere", "Hot air from the desert", "Ocean currents"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'METAR' report is issued every:",
+    "options": ["30 or 60 minutes", "24 hours", "5 minutes", "10 seconds"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "A 'TAF' (Terminal Aerodrome Forecast) is a prediction of:",
+    "options": ["Meteorological conditions at an aerodrome for a specific period", "The pilot's schedule", "The airline's fuel price", "The airport's landing fees"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'RVR' (Runway Visual Range) is reported when it is below:",
+    "options": ["1,500 meters", "5,000 meters", "10,000 meters", "2,000 meters"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'CAVOK' term in a weather report means:",
+    "options": ["Visibility > 10 km, no clouds below 5,000 ft, no significant weather", "Clear skies only", "Visibility is zero", "Heavy rain and fog"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'QNH' altimeter setting gives the aircraft's altitude above:",
+    "options": ["Mean Sea Level", "Aerodrome level", "The highest mountain", "The clouds"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  },
+  {
+    "questionText": "The 'QFE' altimeter setting gives the aircraft's height above:",
+    "options": ["The aerodrome reference point", "Mean Sea Level", "Ground level", "The sun"],
+    "correctAnswerIndex": 0,
+    "hasDetectedAnswer": false
+  }
+]
