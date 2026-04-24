@@ -632,24 +632,28 @@
         {
           "questionText": "Which statements concerning a SANDWICH structural part are correct or incorrect?",
           "options": [
-            "The main function of the core material is to stabilise the covering sheets.",
-            "A sandwich structural part is well suited for absorbing concentrated loads.",
-            "is correct, 2) is incorrect."
+            "1) is incorrect, 2) is incorrect.",
+            "1) is incorrect, 2) is correct.",
+            "1) is correct, 2) is incorrect.",
+            "1) is correct, 2) is correct."
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-54"
+          "id": "agk-pdf-54",
+          "question": "Evaluate the following statements regarding sandwich structures:\n1) The main function of the core material is to stabilise the covering sheets.\n2) A sandwich structural part is well suited for absorbing concentrated loads."
         },
         {
           "questionText": "is correct, 2) is correct. is incorrect, 2) is correct. is incorrect, 2) is incorrect. Which statements about composite and metal structures are correct or incorrect?",
           "options": [
-            "Composite structures will give you the same tensile strength in all directions.",
-            "Metal structures will give you higher strength to weight ratios than composite ones.",
-            "is incorrect, 2) is incorrect."
+            "1) is correct, 2) is incorrect.",
+            "1) is incorrect, 2) is correct.",
+            "1) is incorrect, 2) is incorrect.",
+            "1) is correct, 2) is correct."
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-55"
+          "id": "agk-pdf-55",
+          "question": "Evaluate the following statements regarding structural materials:\n1) Composite structures will give you the same tensile strength in all directions.\n2) Metal structures will give you higher strength to weight ratios than composite ones."
         },
         {
           "questionText": "is incorrect, 2) is correct. is correct, 2) is correct. is correct, 2) is incorrect A composite structural component consists of:",
@@ -659,9 +663,10 @@
             "two thin metal sheets and a light core material.",
             "a matrix and fibres."
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-56"
+          "id": "agk-pdf-56",
+          "question": "A sandwich structural part consists of:"
         },
         {
           "questionText": "Which statements about composite and metal structures are correct or incorrect? In a structural component constructed of composite materials, strength is same in all directions. Composite materials enable structures with higher strength/weight ratio than metal. is correct, 2) is correct. is correct, 2) is incorrect.",
@@ -12214,6 +12219,18 @@
           "id": "fligh-plan-7"
         },
         {
+          "question": "If Trip Fuel is 4000 kg, Contingency Fuel is 5% of trip fuel, Alternate Fuel is 1500 kg, Final Reserve Fuel is 1200 kg, and Taxi Fuel is 200 kg. What is the Minimum Take-off Fuel?",
+          "options": [
+            "6900 kg",
+            "6700 kg",
+            "6500 kg",
+            "7100 kg"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-8"
+        },
+        {
           "questionText": "Refer to figure 033-20. A turbojet aeroplane flies using the following data: Mass: 156 500 kg, Cruise level: FL 330, Cruise speed: Long Range (LRC), Wind component: 40 kts tail. With a remaining flight time of 1h 10m the ground distance that can be covered by the aeroplane at cruising speed is:",
           "options": [
             "518 NM",
@@ -12223,7 +12240,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-8"
+          "id": "fligh-plan-9"
         },
         {
           "questionText": "In an ATS flight plan item 15 (route), a significant point at 41deg 35'N 04deg 15'E should be entered as:",
@@ -12235,7 +12252,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-9"
+          "id": "fligh-plan-10"
         },
         {
           "questionText": "Refer to fig 033-75. For 1 900 NM: Headwind 10 kts, Temp ISA -5 \u00b0C, Trip Fuel available 15 000 kg, Landing Mass 50 000 kg. Minimum cruise level?",
@@ -12247,7 +12264,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-10"
+          "id": "fligh-plan-11"
         },
         {
           "questionText": "Conditions on GAMMA to DELTA remain unchanged. What fuel remaining is expected at DELTA?",
@@ -12259,7 +12276,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-11"
+          "id": "fligh-plan-12"
         },
         {
           "questionText": "In an ICAO Flight Plan (FPL), item 15 'Route' should begin with:",
@@ -12271,7 +12288,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-12"
+          "id": "fligh-plan-13"
         },
         {
           "questionText": "The forecast period covered by the PARIS/CHARLES-DE-GAULLE TAFs totals (hours):1",
@@ -12283,7 +12300,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-13"
+          "id": "fligh-plan-14"
         },
         {
           "questionText": "Refer to figure ED6-VFR_d. Have a look at the attached chart section and find the distance from airfield VILSHOFEN via airfield SONNEN to airfield F\u00dcRSTENZELL.",
@@ -12295,7 +12312,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-14"
+          "id": "fligh-plan-15"
+        },
+        {
+          "question": "Under standard EASA regulations, Final Reserve Fuel for a jet aircraft must allow holding for:",
+          "options": [
+            "30 minutes at 1500 ft above aerodrome elevation in standard conditions.",
+            "45 minutes at cruising altitude.",
+            "30 minutes at cruising altitude.",
+            "45 minutes at 1500 ft above aerodrome elevation."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-16"
         },
         {
           "questionText": "Find the maximum wind speed expected at BORDEAUX airport at 1600 UTC using TAF/METAR. (Refer to fig 033-92)",
@@ -12307,7 +12336,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-15"
+          "id": "fligh-plan-17"
         },
         {
           "questionText": "What is the distance if chart scale is 1:500,000 and measured distance is 6 cm?",
@@ -12319,7 +12348,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-16"
+          "id": "fligh-plan-18"
         },
         {
           "questionText": "Turbulence is strongest near:",
@@ -12331,7 +12360,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-17"
+          "id": "fligh-plan-19"
         },
         {
           "questionText": "What is the primary purpose of a 'Point of Equal Time' (PET)?",
@@ -12343,7 +12372,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-18"
+          "id": "fligh-plan-20"
         },
         {
           "questionText": "Refer to fig 033-105. Max intensity of CAT forecast for FL330 over BENGHAZI?",
@@ -12355,7 +12384,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-19"
+          "id": "fligh-plan-21"
         },
         {
           "questionText": "To find alternate fuel and time, enter the manual with:",
@@ -12367,7 +12396,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-20"
+          "id": "fligh-plan-22"
         },
         {
           "questionText": "What is the magnetic track and the distance from LANDVETTER (N57 39.4 E012 17.4) to FILIP (N56 57.0 E012 02.0)?",
@@ -12383,7 +12412,19 @@
           ],
           "correctAnswerIndex": 4,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-21"
+          "id": "fligh-plan-23"
+        },
+        {
+          "question": "Contingency fuel is required to compensate for unforeseen factors. According to standard rules, it should be the higher of:",
+          "options": [
+            "5% of trip fuel or 5 minutes of holding at destination.",
+            "10% of trip fuel or 30 minutes of holding.",
+            "5% of trip fuel or 5 minutes at holding speed at 1500 ft above destination.",
+            "3% of trip fuel or 15 minutes of holding."
+          ],
+          "correctAnswerIndex": 2,
+          "isAIGenerated": true,
+          "id": "fligh-plan-24"
         },
         {
           "questionText": "Refer to chart \"E HI 1\". The radio navigation aid(s) at (57\u00b032\u2032N 004\u00b003\u2032W) is/are:",
@@ -12395,7 +12436,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-22"
+          "id": "fligh-plan-25"
         },
         {
           "questionText": "Refer to fig 033-105. Which best describes max intensity of icing at FL150 near BUCHAREST?",
@@ -12407,7 +12448,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-23"
+          "id": "fligh-plan-26"
         },
         {
           "questionText": "If the TAS is 450 kts and there is a 50 kts headwind, the groundspeed (GS) is:",
@@ -12419,7 +12460,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-24"
+          "id": "fligh-plan-27"
         },
         {
           "questionText": "Refer to fig 033-75. For 2 400 NM: Temp ISA-10 \u00b0C, FL290, Landing Mass 45 000 kg, Trip Fuel available 16000 kg. Max headwind?",
@@ -12431,7 +12472,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-25"
+          "id": "fligh-plan-28"
         },
         {
           "questionText": "The wind direction and velocity (deg/kts) at 60N 075W is:1",
@@ -12443,7 +12484,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-26"
+          "id": "fligh-plan-29"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What minimum grid area altitude is applicable for EDTM MENGEN airport (48\u00b003\u2032N 009\u00b022\u2032E)?",
@@ -12455,7 +12496,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-27"
+          "id": "fligh-plan-30"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" The radio navigation aid(s) at (55\u00b026\u2032N 011\u00b038\u2032E) is/are:",
@@ -12467,7 +12508,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-28"
+          "id": "fligh-plan-31"
+        },
+        {
+          "question": "If the estimated trip time is 3 hours 30 minutes, and the contingency fuel required is 5% of trip fuel, what is the contingency fuel in terms of flight time?",
+          "options": [
+            "10.5 minutes",
+            "15 minutes",
+            "5 minutes",
+            "21 minutes"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-32"
         },
         {
           "questionText": "Refer to fig 033-27/93. Fuel consumption: CG 37%, Total anti-ice OFF, Air conditioning NORMAL.",
@@ -12479,7 +12532,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-29"
+          "id": "fligh-plan-33"
         },
         {
           "questionText": "The term 'Point of Safe Return' (PSR) defines:",
@@ -12491,7 +12544,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-30"
+          "id": "fligh-plan-34"
         },
         {
           "questionText": "The wind direction and velocity (deg/kts) at 40N 040E is: (Refer to fig 033-98)",
@@ -12503,7 +12556,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-31"
+          "id": "fligh-plan-35"
         },
         {
           "questionText": "You are flying on radial 178 inbound CPL VOR/DME. What is your MSA?",
@@ -12515,7 +12568,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-32"
+          "id": "fligh-plan-36"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E LO 1\" What is the Maximum Authorised Altitude on airway W911D from DEAN CROSS 115.2 DCS to NEWCASTLE 114.25 NEW?",
@@ -12527,7 +12580,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-33"
+          "id": "fligh-plan-37"
         },
         {
           "questionText": "Refer to fig 033-11. Find specific range: Mach 0.74 at FL310 (6% loss), Mass 50,000 kg, ISA.",
@@ -12539,7 +12592,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-34"
+          "id": "fligh-plan-38"
         },
         {
           "questionText": "Refer to fig 033-12. Find the TAS: LRC at FL330, OAT -63\u00b0C, Gross mass 50,500 kg.",
@@ -12551,7 +12604,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-35"
+          "id": "fligh-plan-39"
+        },
+        {
+          "question": "In commercial operations, 'Taxi fuel' includes fuel consumed:",
+          "options": [
+            "Prior to take-off, including APU consumption.",
+            "During taxi-out and initial climb.",
+            "Only during engine start.",
+            "From engine start until reaching cruising altitude."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-40"
         },
         {
           "questionText": "ICAO Flight Plan Item 10 'Equipment' - the letter 'S' stands for:",
@@ -12563,7 +12628,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-36"
+          "id": "fligh-plan-41"
         },
         {
           "questionText": "TO indication means:",
@@ -12575,7 +12640,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-37"
+          "id": "fligh-plan-42"
         },
         {
           "questionText": "Icing risk increases with:",
@@ -12587,7 +12652,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-38"
+          "id": "fligh-plan-43"
         },
         {
           "questionText": "FROM indication means:",
@@ -12599,7 +12664,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-39"
+          "id": "fligh-plan-44"
         },
         {
           "questionText": "Which best describes the weather forecast for JOHANNESBURG at 0400 UTC?1",
@@ -12611,7 +12676,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-40"
+          "id": "fligh-plan-45"
         },
         {
           "questionText": "The surface weather system over England (53N 002W) is:1",
@@ -12623,7 +12688,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-41"
+          "id": "fligh-plan-46"
         },
         {
           "questionText": "Which type of fuel is used for holding, approach, and landing at the destination?",
@@ -12635,7 +12700,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-42"
+          "id": "fligh-plan-47"
+        },
+        {
+          "question": "When is an isolated aerodrome procedure used in flight planning?",
+          "options": [
+            "When no suitable destination alternate is available.",
+            "When flying over oceans only.",
+            "When the destination weather is below minima.",
+            "When the aircraft has four engines."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-48"
         },
         {
           "questionText": "Refer to fig 033-15/87. LRC, Mass at TOC 61 500 kg, 385 NM at FL350, OAT -54\u00b0C, Tailwind 40 kts. Fuel required?",
@@ -12647,7 +12724,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-43"
+          "id": "fligh-plan-49"
         },
         {
           "questionText": "ATIS provides:",
@@ -12659,7 +12736,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-44"
+          "id": "fligh-plan-50"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ATHINAI (Hellinikon) - chart 29-1 What is the frequency and ident of the DVOR/DME shown at the northern end of Hellinikon airfield?",
@@ -12671,7 +12748,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-45"
+          "id": "fligh-plan-51"
         },
         {
           "questionText": "Refer to fig 033-53. Find still air (NAM) and ground distance (NM): FL75, OAT +5\u00b0C, 20 kts headwind, 3650 lbs takeoff from MSL.",
@@ -12683,7 +12760,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-46"
+          "id": "fligh-plan-52"
         },
         {
           "questionText": "Actual GS on BETA to GAMMA is 105 kts. Other parameters unchanged. What fuel remaining is expected at GAMMA? (Refer to fig 033-46)",
@@ -12695,7 +12772,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-47"
+          "id": "fligh-plan-53"
         },
         {
           "questionText": "If a flight is planned at FL350, the altimeter should be set to:",
@@ -12707,7 +12784,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-48"
+          "id": "fligh-plan-54"
         },
         {
           "questionText": "Planned flight time: BRM 210,000 kg, M 0.82, 3000 NAM, OPTIMUM, Air cond STD, Anti-ice OFF, ISA, CG 37%, zero wind.",
@@ -12719,7 +12796,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-49"
+          "id": "fligh-plan-55"
+        },
+        {
+          "question": "For a piston-engine aircraft, the final reserve fuel is typically calculated to fly for:",
+          "options": [
+            "45 minutes at holding speed.",
+            "30 minutes at cruise speed.",
+            "45 minutes at cruise speed.",
+            "30 minutes at holding speed."
+          ],
+          "correctAnswerIndex": 2,
+          "isAIGenerated": true,
+          "id": "fligh-plan-56"
         },
         {
           "questionText": "Tropopause is:",
@@ -12731,7 +12820,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-50"
+          "id": "fligh-plan-57"
         },
         {
           "questionText": "Refer to fig 033-32. Long Range regime, FL370. Leg 1: 2000 NM/50H, Leg 2: 1000 NM/30H, Leg 3: 500 NM/70T, Leg 4: 1000 NM/20H. Total air distance?",
@@ -12743,7 +12832,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-51"
+          "id": "fligh-plan-58"
         },
         {
           "questionText": "Find the optimum altitude for: LRC or Mach 0.74, Cruise mass 54,000 kg. (Refer to fig 033-91)",
@@ -12755,7 +12844,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-52"
+          "id": "fligh-plan-59"
         },
         {
           "questionText": "In the ATS flight plan item 19, emergency and survival equipment carried on the flight should be indicated by:",
@@ -12767,7 +12856,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-53"
+          "id": "fligh-plan-60"
         },
         {
           "questionText": "A 'step climb' is typically used in long-haul flight planning to:",
@@ -12779,7 +12868,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-54"
+          "id": "fligh-plan-61"
         },
         {
           "questionText": "VFR minimum visibility depends on:",
@@ -12791,7 +12880,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-55"
+          "id": "fligh-plan-62"
         },
         {
           "questionText": "Refer to chart \"E LO 1\". What are the applicable GRID MORAs for a flight from DEAN CROSS DCS to TALLA TLA on airway A2?",
@@ -12803,7 +12892,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-56"
+          "id": "fligh-plan-63"
+        },
+        {
+          "question": "If an aircraft requires 5000 kg of fuel to reach the destination and 1000 kg to reach the alternate, what is the minimum contingency fuel (using the 5% rule)?",
+          "options": [
+            "250 kg",
+            "300 kg",
+            "50 kg",
+            "150 kg"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-64"
         },
         {
           "questionText": "Wind direction given is:",
@@ -12815,7 +12916,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-57"
+          "id": "fligh-plan-65"
         },
         {
           "questionText": "Refer to figure 033-17. Brake release mass: 62 000 kg, Temp: ISA+15\u00b0C. What is the fuel required for climb from SL to FL330?",
@@ -12827,7 +12928,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-58"
+          "id": "fligh-plan-66"
         },
         {
           "questionText": "ETOPS maximum air distance to alternate: 120 min, 1 engine inoperative LRC, ISA, mass 40 000 kg.",
@@ -12839,7 +12940,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-59"
+          "id": "fligh-plan-67"
         },
         {
           "questionText": "In an ICAO FPL, Item 18 'Other Information' - the prefix 'PBN/' is used to indicate:",
@@ -12851,7 +12952,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-60"
+          "id": "fligh-plan-68"
         },
         {
           "questionText": "CB clouds indicate:",
@@ -12863,7 +12964,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-61"
+          "id": "fligh-plan-69"
         },
         {
           "questionText": "ILS provides:",
@@ -12875,7 +12976,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-62"
+          "id": "fligh-plan-70"
         },
         {
           "questionText": "Refer to fig 033-53. Find time and fuel to climb: FL75, OAT +5\u00b0C, 20 kts headwind, 3650 lbs mass from MSL.",
@@ -12891,7 +12992,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-63"
+          "id": "fligh-plan-71"
+        },
+        {
+          "question": "Which of the following is NOT typically considered part of the block fuel?",
+          "options": [
+            "Fuel jettisoned in flight.",
+            "Taxi fuel.",
+            "Trip fuel.",
+            "Final reserve fuel."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-72"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ATHINAI (Hellinikon) - chart 29-1 The callsign and frequency to use to obtain start up clearance is:",
@@ -12903,7 +13016,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-64"
+          "id": "fligh-plan-73"
         },
         {
           "questionText": "INS uses:",
@@ -12915,7 +13028,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-65"
+          "id": "fligh-plan-74"
         },
         {
           "questionText": "Contingency fuel is typically calculated as:",
@@ -12927,7 +13040,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-66"
+          "id": "fligh-plan-75"
         },
         {
           "questionText": "In the ATS flight plan item 10 (standard equipment) is considered to be:",
@@ -12939,7 +13052,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-67"
+          "id": "fligh-plan-76"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Give the frequency of ZURICH Volmet.",
@@ -12951,7 +13064,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-68"
+          "id": "fligh-plan-77"
         },
         {
           "questionText": "Refer to chart \"E LO 1\". An appropriate FL for flight on airway A2 from TLA to DCS is:",
@@ -12963,7 +13076,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-69"
+          "id": "fligh-plan-78"
         },
         {
           "questionText": "Rhumb line gives:",
@@ -12975,7 +13088,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-70"
+          "id": "fligh-plan-79"
+        },
+        {
+          "question": "Decision point procedure (DPP) is used primarily to:",
+          "options": [
+            "Reduce the required contingency fuel.",
+            "Determine when to start the descent.",
+            "Choose the destination alternate.",
+            "Calculate the final reserve fuel."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-80"
         },
         {
           "questionText": "Magnetic variation changes with:",
@@ -12987,7 +13112,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-71"
+          "id": "fligh-plan-81"
         },
         {
           "questionText": "What is the 'Decision Point' in Reduced Contingency Fuel (RCF) procedure?",
@@ -12999,7 +13124,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-72"
+          "id": "fligh-plan-82"
         },
         {
           "questionText": "Item 9 of the ATS flight plan includes NUMBER AND TYPE OF AIRCRAFT. In this case, the NUMBER means:",
@@ -13011,7 +13136,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-73"
+          "id": "fligh-plan-83"
         },
         {
           "questionText": "Refer to CDG_20-3. Determine the distance of departure route ABB 8A:",
@@ -13023,7 +13148,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-74"
+          "id": "fligh-plan-84"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - DE KOOY - chart 19-1 The ILS frequency of De Kooy Aerodrome is and the corresponding QDM is",
@@ -13039,7 +13164,7 @@
           ],
           "correctAnswerIndex": 4,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-75"
+          "id": "fligh-plan-85"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - North Atlantic Plotting chart \"NAP\" The initial true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W) is:",
@@ -13051,7 +13176,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-76"
+          "id": "fligh-plan-86"
         },
         {
           "questionText": "Refer to fig 033-116. Have a look at the attached NOTAM and find the lower limit of the ZRT:",
@@ -13063,7 +13188,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-77"
+          "id": "fligh-plan-87"
+        },
+        {
+          "question": "The Point of Safe Return (PSR) moves towards the departure aerodrome if:",
+          "options": [
+            "There is a tailwind outbound.",
+            "There is a headwind outbound.",
+            "The aircraft weight decreases.",
+            "The cruise altitude increases."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-88"
         },
         {
           "questionText": "If GS = 240 kts, how long does it take to fly 80 NM?",
@@ -13075,7 +13212,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-78"
+          "id": "fligh-plan-89"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - chart 19-5 What is the ATIS frequency that may not be used when in flight?",
@@ -13087,7 +13224,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-79"
+          "id": "fligh-plan-90"
         },
         {
           "questionText": "Refer to chart \"E HI 2\". Ident of navaid at (56\u00b006\u2032N 012\u00b015\u2032E) is:",
@@ -13099,7 +13236,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-80"
+          "id": "fligh-plan-91"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\". An aircraft is flying Northbound on the direct route from DEAN CROSS that passes through position 57\u00b000'N 003\u00b010'W. Excluding RVSM, what is the first flight level above FL400 that can be flown on this route?",
@@ -13111,7 +13248,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-81"
+          "id": "fligh-plan-92"
         },
         {
           "questionText": "Visibility reduced by:",
@@ -13123,7 +13260,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-82"
+          "id": "fligh-plan-93"
         },
         {
           "questionText": "Find the optimum altitude for: mass 50,000 kg, Mach 0.78.1",
@@ -13135,7 +13272,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-83"
+          "id": "fligh-plan-94"
         },
         {
           "questionText": "A 'Mach Number' is the ratio of:",
@@ -13147,7 +13284,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-84"
+          "id": "fligh-plan-95"
+        },
+        {
+          "question": "Given: Distance = 1200 NM, Outbound Groundspeed (GS_out) = 400 kt, Return Groundspeed (GS_home) = 300 kt, Endurance = 4 hours. What is the time to the Point of Safe Return (PSR)?",
+          "options": [
+            "1.71 hours",
+            "2.00 hours",
+            "2.28 hours",
+            "1.50 hours"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-96"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - MUNICH - chart 10-3D Which is the correct departure via KEMPTEN from runway 26L?",
@@ -13159,7 +13308,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-85"
+          "id": "fligh-plan-97"
         },
         {
           "questionText": "GAMMA to MIKE direct flight is 42 min. Conditions and consumption unchanged. What fuel remaining is expected at MIKE?",
@@ -13171,7 +13320,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-86"
+          "id": "fligh-plan-98"
         },
         {
           "questionText": "GAMMA to MIKE direct flight is 1h 08m. Conditions and consumption unchanged. What fuel remaining is expected at MIKE?",
@@ -13183,7 +13332,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-87"
+          "id": "fligh-plan-99"
         },
         {
           "questionText": "Altimeter error due to temp:",
@@ -13195,7 +13344,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-88"
+          "id": "fligh-plan-100"
         },
         {
           "questionText": "What mean temperature (deg C) is likely on a course of 360 (T) from 40N to 50N at 040E?1",
@@ -13207,7 +13356,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-89"
+          "id": "fligh-plan-101"
         },
         {
           "questionText": "In flight planning, 'Still Air' means:",
@@ -13219,7 +13368,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-90"
+          "id": "fligh-plan-102"
         },
         {
           "questionText": "Ceiling is:",
@@ -13231,7 +13380,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-91"
+          "id": "fligh-plan-103"
+        },
+        {
+          "question": "What is the formula for calculating time to the Point of Safe Return (PSR)?",
+          "options": [
+            "(Endurance x GS_home) / (GS_out + GS_home)",
+            "(Distance x GS_home) / (GS_out + GS_home)",
+            "(Endurance x GS_out) / (GS_out + GS_home)",
+            "(Endurance x True Airspeed) / GS_out"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-104"
         },
         {
           "questionText": "Refer to fig 033-01. Single engine: 10 lbs taxi, 3m/10 lbs climb, 3h 12m flight, 30% reserve, 23 inHg/2300 RPM/20\u00b0C lean, FL70, OAT +20\u00b0C. Block Fuel?",
@@ -13243,7 +13404,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-92"
+          "id": "fligh-plan-105"
         },
         {
           "questionText": "Refer to fig 033-75. 2 000 NM, 30 000 ft. A headwind of 25 kts will affect the trip time by approximately:",
@@ -13255,7 +13416,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-93"
+          "id": "fligh-plan-106"
         },
         {
           "questionText": "Refer to fig 033-89. Determine ATC endurance: Contingency 5% Trip Fuel, extra fuel flow 2400 kg/h.",
@@ -13267,7 +13428,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-94"
+          "id": "fligh-plan-107"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\". An aircraft is flying from BACKA (57\u00b033\u2032N 011\u00b059\u2032E) to BOTTNA (57\u00b045\u2032N 013\u00b048\u2032E) on airway UR46. Which of the following would be a useful cross-reference to check the airway intersection CINDY?",
@@ -13279,7 +13440,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-95"
+          "id": "fligh-plan-108"
         },
         {
           "questionText": "The 'Minimum Sector Altitude' (MSA) provides how much clearance over all obstacles in a sector?",
@@ -13291,7 +13452,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-96"
+          "id": "fligh-plan-109"
         },
         {
           "questionText": "Compass error near poles:",
@@ -13303,7 +13464,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-97"
+          "id": "fligh-plan-110"
         },
         {
           "questionText": "In the vicinity of Paris (49N 003E), the tropopause is at approximately:1",
@@ -13315,7 +13476,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-98"
+          "id": "fligh-plan-111"
+        },
+        {
+          "question": "If wind changes from a 50 kt headwind to a 50 kt tailwind, the distance to the Point of Safe Return (PSR) will:",
+          "options": [
+            "Increase.",
+            "Decrease.",
+            "Remain the same.",
+            "Cannot be determined without TAS."
+          ],
+          "correctAnswerIndex": 1,
+          "isAIGenerated": true,
+          "id": "fligh-plan-112"
         },
         {
           "questionText": "Balked landing, divert to alternate with gear extended: 1h 50m, fuel flow 840 kg/h. Final Reserve unchanged. Estimated landing mass at alternate?",
@@ -13327,7 +13500,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-99"
+          "id": "fligh-plan-113"
         },
         {
           "questionText": "Twin jet: Estimated mass at alternate 50 000 kg, Dest Elev 3 500 ft, Alt Elev 30 ft. Find Final reserve fuel.",
@@ -13339,7 +13512,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-100"
+          "id": "fligh-plan-114"
         },
         {
           "questionText": "Refer to chart \"NAP\". The initial magnetic course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W) is:",
@@ -13351,7 +13524,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-101"
+          "id": "fligh-plan-115"
         },
         {
           "questionText": "What is the standard ICAO symbol for a 'compulsory reporting point'?",
@@ -13363,7 +13536,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-102"
+          "id": "fligh-plan-116"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 4\" - CAA Edition. Of the following, the preferred airways routing from FRANKFURT FFM 114.2 to KOKSY above FL245, on a Wednesday is:",
@@ -13375,7 +13548,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-103"
+          "id": "fligh-plan-117"
         },
         {
           "questionText": "Refer to fig 033-24. Cruise FL370, LRC, mass 204 500 kg, 2000 NM, ISA, 70 kts headwind, Anti-ice ON. Find fuel required.",
@@ -13387,7 +13560,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-104"
+          "id": "fligh-plan-118"
         },
         {
           "questionText": "Refer to fig 033-13/87. FL340/LRC, 680 NM, ISA, Headwind 60 kts, Gross mass at C: 44 700 kg. Fuel required?",
@@ -13399,7 +13572,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-105"
+          "id": "fligh-plan-119"
+        },
+        {
+          "question": "The Point of Safe Return (PSR) is primarily dictated by:",
+          "options": [
+            "Fuel endurance and groundspeeds.",
+            "Distance to the destination.",
+            "Air Traffic Control routing.",
+            "The Critical Point (CP)."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-120"
         },
         {
           "questionText": "What minimum visibility (m) is forecast for 0600 UTC at LONDON LHR? (Refer to fig 033-92)",
@@ -13411,7 +13596,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-106"
+          "id": "fligh-plan-121"
         },
         {
           "questionText": "A turbojet aeroplane is flying using the following data: Mass: 150 000 kg, Cruise level: FL 250, Cruise speed: Long Range (LRC), Wind component: 100 kts head, Remaining flight time: 1h 40m, Temperature: ISA. The ground distance that can be covered during the cruise flight is:",
@@ -13423,7 +13608,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-107"
+          "id": "fligh-plan-122"
         },
         {
           "questionText": "The flight time from PET to Destination is calculated using:",
@@ -13435,7 +13620,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-108"
+          "id": "fligh-plan-123"
         },
         {
           "questionText": "Refer to fig 033-86. Headwind 50 kts, ISA+10\u00b0C, Brake release mass 65 000 kg, Trip Fuel 18000 kg. Max trip distance?",
@@ -13447,7 +13632,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-109"
+          "id": "fligh-plan-124"
         },
         {
           "questionText": "Headwind component depends on:",
@@ -13459,7 +13644,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-110"
+          "id": "fligh-plan-125"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\" The initial true course from TIREE 117.7 TIR (56\u00b030\u2032N 006\u00b053\u2032W) direct to INVERNESS 109.2 INS (57\u00b032\u2032N 004\u00b003\u2032W) is:",
@@ -13471,7 +13656,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-111"
+          "id": "fligh-plan-126"
         },
         {
           "questionText": "Refer to fig 033-106/107/37/38. Mass 190 000 kg, M 0.82, 1 500 NM, OPTIMUM, ISA, Zero wind. Planned flight time?",
@@ -13483,7 +13668,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-112"
+          "id": "fligh-plan-127"
+        },
+        {
+          "question": "Given: Endurance = 5 hours, TAS = 450 kt, Headwind outbound = 50 kt. What is the distance to the Point of Safe Return (PSR)?",
+          "options": [
+            "1111 NM",
+            "1250 NM",
+            "1000 NM",
+            "1500 NM"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-128"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - DE KOOY - chart 19-1 What is the minimum altitude over the \"Quiet Zone\" in the vicinity of De Kooy?",
@@ -13495,7 +13692,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-113"
+          "id": "fligh-plan-129"
         },
         {
           "questionText": "In Item 19 of the FPL, 'R/' indicates:",
@@ -13507,7 +13704,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-114"
+          "id": "fligh-plan-130"
         },
         {
           "questionText": "Best range speed gives:",
@@ -13519,7 +13716,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-115"
+          "id": "fligh-plan-131"
         },
         {
           "questionText": "Ground speed equals:",
@@ -13531,7 +13728,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-116"
+          "id": "fligh-plan-132"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What navigation or communications facilities are at 48\u00b055\u2032N 009\u00b020\u2032E?",
@@ -13543,7 +13740,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-117"
+          "id": "fligh-plan-133"
         },
         {
           "questionText": "Refer to fig 033-45/47. ISA, mass 197 500 kg, to fly at FL370 and be at optimum altitude, Mach should be:",
@@ -13555,7 +13752,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-118"
+          "id": "fligh-plan-134"
         },
         {
           "questionText": "Refer to fig 033-39. Find minimum Block Fuel: 5 USG taxi, 1 hr 47 min leg, 45% power, 30% reserve, FL100, OAT -5\u00b0C.",
@@ -13567,7 +13764,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-119"
+          "id": "fligh-plan-135"
+        },
+        {
+          "question": "The Point of No Return (PNR) is synonymous with the Point of Safe Return (PSR) when:",
+          "options": [
+            "Considering the return to the departure aerodrome with safe fuel reserves.",
+            "The wind is zero.",
+            "Flying to an isolated aerodrome.",
+            "Calculating the Equal Time Point."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-136"
         },
         {
           "questionText": "What is 'Fuel Bias' or 'Fuel Degradation Factor'?",
@@ -13579,7 +13788,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-120"
+          "id": "fligh-plan-137"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\" What is the average magnetic course from ABERDEEN (57\u00b019\u2032N 002\u00b016\u2032W) to TIREE (56\u00b030\u2032N 006\u00b053\u2032W)?",
@@ -13591,7 +13800,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-121"
+          "id": "fligh-plan-138"
         },
         {
           "questionText": "Refer to Jeppesen Student Manual - Greece Aerodrome Directory (7-3) or figure VFR-9 What is the local time (LT) in Greece in Winter and Summer?",
@@ -13607,7 +13816,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-122"
+          "id": "fligh-plan-139"
         },
         {
           "questionText": "Refer to fig 033-101. Approx mean wind along course 180 from 50N to 40N at 005W?",
@@ -13619,7 +13828,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-123"
+          "id": "fligh-plan-140"
         },
         {
           "questionText": "What mean temperature (deg C) is likely on a true course of 270 from 025E to 010E at 45N?1",
@@ -13631,7 +13840,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-124"
+          "id": "fligh-plan-141"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What minimum grid area altitude is applicable for EDPJ LAICHINGEN airport (48\u00b030\u2032N 009\u00b038\u2032E)?",
@@ -13643,7 +13852,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-125"
+          "id": "fligh-plan-142"
         },
         {
           "questionText": "The 'Transition Altitude' (TA) is the altitude:",
@@ -13655,7 +13864,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-126"
+          "id": "fligh-plan-143"
+        },
+        {
+          "question": "If the outbound groundspeed increases while the return groundspeed decreases by the same amount, the time to PSR will:",
+          "options": [
+            "Decrease.",
+            "Increase.",
+            "Remain the same.",
+            "Depends on the TAS."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-144"
         },
         {
           "questionText": "Cloud base depends on:",
@@ -13667,7 +13888,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-127"
+          "id": "fligh-plan-145"
         },
         {
           "questionText": "Refer to fig 033-78. Determine estimated trip fuel and trip time: FL330/M 0.78, Ground distance 1 600 NM, Headwind 50 kts, Temp ISA +20\u00b0, Landing weight 55 000 kg.",
@@ -13679,7 +13900,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-128"
+          "id": "fligh-plan-146"
         },
         {
           "questionText": "Refer to figure 033-26. A turbojet aeroplane (200 000 kg) cruises at optimum level at M 0.84 (ISA, CG=37%, Anti Ice ON). After 500 NM with 30 kts headwind, it descends. Aeroplane mass at start of descent is:",
@@ -13691,7 +13912,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-129"
+          "id": "fligh-plan-147"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - PARIS CDG - chart 20-3 Planning an IFR-flight from Paris Charles de Gaulle to London. SID is ABB 8A. Determine the magnetic course, ground speed and wind correction angle from top of climb to ABB 116.6. (TAS: 430 kts, W/V: 280/40)",
@@ -13703,7 +13924,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-130"
+          "id": "fligh-plan-148"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ESBJERG - chart 19-2 What are the dimensions of runway 08/26 at Esbjerg?",
@@ -13715,7 +13936,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-131"
+          "id": "fligh-plan-149"
         },
         {
           "questionText": "If the QNH is 1000 hPa and the aircraft is at 3,000 ft, what is its Pressure Altitude? (Standard = 1013 hPa, 1 hPa = 27 ft)",
@@ -13727,7 +13948,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-132"
+          "id": "fligh-plan-150"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - VFR Area Chart 10-1V. What is the correct frequency to contact Scottish Information when overhead reporting point 'BANCHORY' to the southwest of Aberdeen Airport?",
@@ -13739,7 +13960,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-133"
+          "id": "fligh-plan-151"
+        },
+        {
+          "question": "For a flight over water, the PSR is calculated using:",
+          "options": [
+            "The fuel available for the round trip minus reserves.",
+            "The total block fuel.",
+            "Only the trip fuel.",
+            "The maximum take-off weight limit."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-152"
         },
         {
           "questionText": "Refer to fig 033-27/29/30/93. M 0.82 at FL390, Landing Mass 160 000, 2800 NM, Tailwind 100 kts, ISA. Fuel consumption?",
@@ -13751,7 +13984,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-134"
+          "id": "fligh-plan-153"
         },
         {
           "questionText": "Which describes the maximum intensity of icing, if any, at FL180 in the vicinity of Casablanca (33N 008W)?1",
@@ -13763,7 +13996,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-135"
+          "id": "fligh-plan-154"
         },
         {
           "questionText": "VOR radial is:",
@@ -13775,7 +14008,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-136"
+          "id": "fligh-plan-155"
         },
         {
           "questionText": "Prior to an IFR flight, when filling in the ICAO flight plan, the time information which should be entered in box 13 (time) is:",
@@ -13787,7 +14020,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-137"
+          "id": "fligh-plan-156"
         },
         {
           "questionText": "In an ICAO FPL, Item 15 'Level' - 'F330' means:",
@@ -13799,7 +14032,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-138"
+          "id": "fligh-plan-157"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - North Atlantic Plotting chart \"NAP\" The average magnetic course from C (62\u00b0N 020\u00b0W) to B (58\u00b0N 004\u00b0E) is:",
@@ -13811,7 +14044,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-139"
+          "id": "fligh-plan-158"
         },
         {
           "questionText": "Refer to fig 033-54. Determine range (45m reserve): ISA -15\u00b0C, 12000 ft, Full throttle, 23.0 in/Hg/2300 RPM.",
@@ -13823,7 +14056,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-140"
+          "id": "fligh-plan-159"
+        },
+        {
+          "question": "Which variable has the greatest effect on the location of the PSR?",
+          "options": [
+            "Wind component.",
+            "Aircraft weight.",
+            "Cruising altitude.",
+            "Temperature deviation from ISA."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-160"
         },
         {
           "questionText": "The maximum wind velocity (deg/kts) shown in the vicinity of MUNICH (48N 012E) is:1",
@@ -13835,7 +14080,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-141"
+          "id": "fligh-plan-161"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ESBJERG - chart 19-1 What is the course and distance from Locator HP to the threshold of Runway 08?",
@@ -13847,7 +14092,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-142"
+          "id": "fligh-plan-162"
         },
         {
           "questionText": "If TAS increases, GS (no wind):",
@@ -13859,7 +14104,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-143"
+          "id": "fligh-plan-163"
         },
         {
           "questionText": "What does 'EET' stand for in a flight plan?",
@@ -13871,7 +14116,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-144"
+          "id": "fligh-plan-164"
         },
         {
           "questionText": "TAS vs IAS: TAS is:",
@@ -13883,7 +14128,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-145"
+          "id": "fligh-plan-165"
         },
         {
           "questionText": "Hijack code:",
@@ -13895,7 +14140,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-146"
+          "id": "fligh-plan-166"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E LO 1\" The radio navigation aid at ST. ABBS (55\u00b055\u2032N 002\u00b012\u2032W) is:",
@@ -13907,7 +14152,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-147"
+          "id": "fligh-plan-167"
+        },
+        {
+          "question": "The Critical Point (CP) or Equal Time Point (ETP) between two aerodromes is the point where:",
+          "options": [
+            "Flight time to both aerodromes is equal.",
+            "Fuel required to both aerodromes is equal.",
+            "Distance to both aerodromes is equal.",
+            "The aircraft reaches its maximum altitude."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-168"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" An aircraft has to fly from the TNO VOR on a direct route to the HAR VOR. What is the magnetic track and distance for this flight?",
@@ -13919,7 +14176,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-148"
+          "id": "fligh-plan-169"
         },
         {
           "questionText": "The planned flight is over a distance of 440 NM. Based on the wind components (FL50: -30 kts, FL100: -50 kts, FL180: -70 kts), which FL gives the best range performance?",
@@ -13931,7 +14188,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-149"
+          "id": "fligh-plan-170"
         },
         {
           "questionText": "The 'Take-off Alternate' is required if:",
@@ -13943,7 +14200,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-150"
+          "id": "fligh-plan-171"
         },
         {
           "questionText": "Refer to fig 033-10/87. Distance B-C: 800 NM at FL300/M 0.78, Temp -55\u00b0C, Headwind 50 kts, Mass at B: 64 500 kg. Fuel required?",
@@ -13955,7 +14212,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-151"
+          "id": "fligh-plan-172"
         },
         {
           "questionText": "FL is based on:",
@@ -13967,7 +14224,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-152"
+          "id": "fligh-plan-173"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\". What navigation aid(s) is/are available to civil aircraft at the military airfield of Kinloss (57\u00b040\u2032N 003\u00b032\u2032W)?",
@@ -13979,7 +14236,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-153"
+          "id": "fligh-plan-174"
         },
         {
           "questionText": "Shorter takeoff distance with:",
@@ -13991,7 +14248,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-154"
+          "id": "fligh-plan-175"
+        },
+        {
+          "question": "If there is a tailwind from A to B, the Equal Time Point (ETP) between A and B will move:",
+          "options": [
+            "Towards A (into the wind).",
+            "Towards B (with the wind).",
+            "Remain at the midpoint.",
+            "Move towards the alternate."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-176"
         },
         {
           "questionText": "Refer to fig 033-59. Find range (45m reserve): 11,000 ft, OAT -15\u00b0C, 123 USG usable, economy cruise.",
@@ -14003,7 +14272,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-155"
+          "id": "fligh-plan-177"
         },
         {
           "questionText": "Fuel density is important for flight planning because:",
@@ -14015,7 +14284,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-156"
+          "id": "fligh-plan-178"
         },
         {
           "questionText": "Refer to fig 033-86. What is the maximum possible trip distance? Tailwind component: 10 kts, Temp: ISA+10\u00b0C, Brake release mass: 63 000 kg, Trip Fuel available: 20 000 kg.",
@@ -14027,7 +14296,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-157"
+          "id": "fligh-plan-179"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6. Flying from EDPJ LAICHINGEN airport (48\u00b030\u2032N 009\u00b038\u2032E) to EDSZ ROTTWEIL ZEPFENHAN (48\u00b012\u2032N 008\u00b044\u2032E). Find magnetic course and the distance.",
@@ -14039,7 +14308,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-158"
+          "id": "fligh-plan-180"
         },
         {
           "questionText": "Which describes the intensity of icing, if any, at FL150 in the vicinity of TOULOUSE? (Refer to fig 033-104)",
@@ -14051,7 +14320,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-159"
+          "id": "fligh-plan-181"
         },
         {
           "questionText": "Standard pressure is:",
@@ -14063,7 +14332,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-160"
+          "id": "fligh-plan-182"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - The Netherland Aerodrome Directory - chart 7-3 What is the correct relationship between local time (LT) and UTC in the Netherlands in Winter and Summer?",
@@ -14079,7 +14348,19 @@
           ],
           "correctAnswerIndex": 4,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-161"
+          "id": "fligh-plan-183"
+        },
+        {
+          "question": "Given: Distance A to B = 1000 NM, GS outbound = 300 kt, GS return = 200 kt. What is the distance to the Critical Point (CP) from A?",
+          "options": [
+            "400 NM",
+            "600 NM",
+            "500 NM",
+            "333 NM"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-184"
         },
         {
           "questionText": "What is 'Tankering'?",
@@ -14091,7 +14372,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-162"
+          "id": "fligh-plan-185"
         },
         {
           "questionText": "Which is the heaviest type of precipitation forecast for BORDEAUX at 1000 UTC? (Refer to fig 033-92)",
@@ -14103,7 +14384,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-163"
+          "id": "fligh-plan-186"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ATHINAI (Hellinikon) - chart 29-2 What is the position of the Aerodrome Reference Point?",
@@ -14115,7 +14396,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-164"
+          "id": "fligh-plan-187"
         },
         {
           "questionText": "Which best describes max intensity of icing at FL160 in the vicinity of BERLIN? (Refer to fig 033-104)",
@@ -14127,7 +14408,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-165"
+          "id": "fligh-plan-188"
         },
         {
           "questionText": "Climb rate decreases with:",
@@ -14139,7 +14420,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-166"
+          "id": "fligh-plan-189"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" An aircraft has to fly from SHILLING (57\u00b033\u2032N 014\u00b000\u2032E) to ALMA (55\u00b025\u2032N 013\u00b034\u2032E) What is the minimum grid safe altitude for this route?",
@@ -14151,7 +14432,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-167"
+          "id": "fligh-plan-190"
         },
         {
           "questionText": "In a TAF, 'BECMG 1214' means the weather will change:",
@@ -14163,7 +14444,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-168"
+          "id": "fligh-plan-191"
+        },
+        {
+          "question": "What is the formula for calculating distance to the Critical Point (CP) from the departure point?",
+          "options": [
+            "(Total Distance x GS_return) / (GS_outbound + GS_return)",
+            "(Total Distance x GS_outbound) / (GS_outbound + GS_return)",
+            "(Endurance x GS_return) / (GS_outbound + GS_return)",
+            "(Total Distance) / 2"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-192"
         },
         {
           "questionText": "1 NM equals:",
@@ -14175,7 +14468,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-169"
+          "id": "fligh-plan-193"
         },
         {
           "questionText": "Refer to fig 033-27/93. Fuel consumption: 2600 NM, FL370, M 0.82, Calm, Landing Mass 140,000, ISA +15\u00b0C, CG 37%, Anti-ice ON.",
@@ -14187,7 +14480,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-170"
+          "id": "fligh-plan-194"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" The identifier of the radio navigation aid at (56\u00b007\u2032N 012\u00b058\u2032E) is:",
@@ -14199,7 +14492,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-171"
+          "id": "fligh-plan-195"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - chart 19-3 The East Apron and Eastern Twy have restricted access. The maximum permitted wingspan:",
@@ -14211,7 +14504,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-172"
+          "id": "fligh-plan-196"
         },
         {
           "questionText": "Refer to fig 033-104. Tropopause near SHANNON is at about:",
@@ -14223,7 +14516,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-173"
+          "id": "fligh-plan-197"
         },
         {
           "questionText": "The symbol 'CAVOK' implies:",
@@ -14235,7 +14528,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-174"
+          "id": "fligh-plan-198"
         },
         {
           "questionText": "Refer to fig 033-12/74. Find trip fuel and time: 720 NM, Course 030\u00b0, Wind 340/30, FL330/LRC, OAT -30\u00b0C.",
@@ -14247,7 +14540,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-175"
+          "id": "fligh-plan-199"
+        },
+        {
+          "question": "The Critical Point (CP) is normally calculated for which scenario?",
+          "options": [
+            "Engine failure and/or depressurization.",
+            "Normal all-engine cruise.",
+            "Climb and descent phases.",
+            "Holding procedures."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-200"
         },
         {
           "questionText": "What is the temperature deviation (deg C) from ISA over 50N 010E? (Refer to fig 033-101)",
@@ -14259,7 +14564,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-176"
+          "id": "fligh-plan-201"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - PARIS CDG - chart 20-3. Distance from PARIS Charles-de-Gaulle to TOC = 50 NM. Determine the distance from the top of climb (TOC) to ABB 116.6.",
@@ -14271,7 +14576,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-177"
+          "id": "fligh-plan-202"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ATHINAI (Hellinikon) - chart 29-1 What is the variation shown on the chart?",
@@ -14283,7 +14588,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-178"
+          "id": "fligh-plan-203"
         },
         {
           "questionText": "GAMMA to MIKE direct flight is 57 min. Conditions and consumption unchanged. What fuel remaining is expected at MIKE?",
@@ -14295,7 +14600,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-179"
+          "id": "fligh-plan-204"
         },
         {
           "questionText": "Under EASA rules, the 'Final Reserve' for a piston-engine aircraft is:",
@@ -14307,7 +14612,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-180"
+          "id": "fligh-plan-205"
         },
         {
           "questionText": "If GS = 150 kts, distance in 2 hr?",
@@ -14319,7 +14624,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-181"
+          "id": "fligh-plan-206"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ESBJERG - chart 19-1 What is the position of the aerodrome reference point at ESBJERG?",
@@ -14331,7 +14636,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-182"
+          "id": "fligh-plan-207"
+        },
+        {
+          "question": "When calculating an ETP for an engine failure scenario, which groundspeeds must be used?",
+          "options": [
+            "The 1-engine inoperative groundspeeds.",
+            "The all-engine normal groundspeeds.",
+            "The maximum cruise groundspeeds.",
+            "The groundspeeds at the minimum safe altitude."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-208"
         },
         {
           "questionText": "Refer to fig 033-88. TAS 170, Wind 270/40. Fuel consumption during turn is 20L. Total fuel consumption overhead ARD will be:",
@@ -14343,7 +14660,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-183"
+          "id": "fligh-plan-209"
         },
         {
           "questionText": "IFR requires:",
@@ -14355,7 +14672,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-184"
+          "id": "fligh-plan-210"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" An aircraft has to fly from ALMA (55\u00b025\u2032N 013\u00b034\u2032E) to PETER (56\u00b050\u2032N 013\u00b035\u2032E). Excluding RVSM, what is the lowest flight level above FL400 that can be flown on an IFR flight on this leg?",
@@ -14367,7 +14684,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-185"
+          "id": "fligh-plan-211"
         },
         {
           "questionText": "The 'Lowest Usable Flight Level' is determined by:",
@@ -14379,7 +14696,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-186"
+          "id": "fligh-plan-212"
         },
         {
           "questionText": "Which flight level is forecast to be clear of significant cloud, icing, and CAT along the route from SHANNON to BERLIN? (Refer to fig 033-105)",
@@ -14391,7 +14708,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-187"
+          "id": "fligh-plan-213"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E LO 1\" The magnetic course/distance from TALLA 113.8 TLA (55\u00b030\u2032N 003\u00b021\u2032W) to DEAN CROSS 115.2 DCS (54\u00b043\u2032N 003\u00b020\u2032W) on airway A2 is:",
@@ -14403,7 +14720,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-188"
+          "id": "fligh-plan-214"
         },
         {
           "questionText": "Alternate fuel is used when:",
@@ -14415,7 +14732,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-189"
+          "id": "fligh-plan-215"
+        },
+        {
+          "question": "If the wind is zero, the Equal Time Point (ETP) between two airports is:",
+          "options": [
+            "Exactly at the midpoint of the route.",
+            "Closer to the departure airport.",
+            "Closer to the destination airport.",
+            "Dependent on the True Airspeed."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-216"
         },
         {
           "questionText": "Diversion to alternate with gear extended: flight time 1h 10m, fuel flow 900 kg/h. Final Reserve unchanged. Estimated landing mass at alternate? (Refer to fig 033-44)",
@@ -14427,7 +14756,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-190"
+          "id": "fligh-plan-217"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ZURICH - ILS RWY 16 - chart 11-2. The lowest published authorised RVR for an ILS approach, glide slope out, all other aids serviceable, aeroplane category A, is:",
@@ -14439,7 +14768,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-191"
+          "id": "fligh-plan-218"
         },
         {
           "questionText": "A 'Great Circle' route is:",
@@ -14451,7 +14780,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-192"
+          "id": "fligh-plan-219"
         },
         {
           "questionText": "Refer to fig 033-27 & 033-93. Time needed for 2000 NM, FL330, M 0.82 (TAS 470), 30 kts headwind, Landing Mass 160,000 kg.",
@@ -14463,7 +14792,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-193"
+          "id": "fligh-plan-220"
         },
         {
           "questionText": "Refer to fig 033-113. Calculate all engine cruise fuel consumption: Mass 8000 kg, 95 NM, FL50, TAS 130, 15 kts headwind, ISA.",
@@ -14475,7 +14804,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-194"
+          "id": "fligh-plan-221"
         },
         {
           "questionText": "GPS provides:",
@@ -14487,7 +14816,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-195"
+          "id": "fligh-plan-222"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\". Assuming the aircraft reaches Top of Climb when crossing 3\u00b0W and starts a descent to overhead Benbecula when crossing 6\u00b0W, what is the planned flight time in still air from take-off to overhead? (Time to climb 11 min, Time to descend 15 min, Cruise TAS 210 kts)",
@@ -14499,7 +14828,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-196"
+          "id": "fligh-plan-223"
+        },
+        {
+          "question": "Which of the following shifts the Critical Point (CP) towards the destination?",
+          "options": [
+            "A headwind outbound.",
+            "A tailwind outbound.",
+            "An increase in True Airspeed.",
+            "A decrease in gross weight."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-224"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ZURICH - charts 10-2, 10-2A and 10-2B. Aeroplane arriving via route BLM 2Z only, should proceed via which route to EKRON int?",
@@ -14511,7 +14852,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-197"
+          "id": "fligh-plan-225"
         },
         {
           "questionText": "In Item 10 of an ICAO FPL, the letter 'Y' indicates:",
@@ -14523,7 +14864,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-198"
+          "id": "fligh-plan-226"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - chart 19-5 What ATIS frequency(ies) is/are available when on the ground?",
@@ -14535,7 +14876,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-199"
+          "id": "fligh-plan-227"
         },
         {
           "questionText": "Loss of communication code:",
@@ -14547,7 +14888,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-200"
+          "id": "fligh-plan-228"
         },
         {
           "questionText": "Refer to fig 033-39. Multi-engine: 5 USG taxi, 13m add for climb/desc, 2h 37m overhead-overhead, 65% power/2500 RPM, 30% reserve, FL120, OAT 1\u00b0C. Block Fuel?",
@@ -14559,7 +14900,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-201"
+          "id": "fligh-plan-229"
         },
         {
           "questionText": "Density altitude increases with:",
@@ -14571,7 +14912,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-202"
+          "id": "fligh-plan-230"
         },
         {
           "questionText": "Fog forms due to:",
@@ -14583,7 +14924,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-203"
+          "id": "fligh-plan-231"
+        },
+        {
+          "question": "An aircraft flies from A to B. Distance is 2400 NM. GS_out is 480 kt, GS_return is 400 kt. What is the time to the CP?",
+          "options": [
+            "2.27 hours",
+            "2.73 hours",
+            "2.50 hours",
+            "2.00 hours"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-232"
         },
         {
           "questionText": "What is the code for 'Emergency' on a transponder?",
@@ -14595,7 +14948,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-204"
+          "id": "fligh-plan-233"
         },
         {
           "questionText": "Find fuel and trip time to alt: DOM 35,500 kg, Traffic Load 14,500 kg, Final reserve 1,200 kg, Dist to alt 95 NM, Tailwind 10 kts.",
@@ -14607,7 +14960,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-205"
+          "id": "fligh-plan-234"
         },
         {
           "questionText": "Achieve diversion of 600 NM in 90 min with mass 55 000 kg. Cruise technique?",
@@ -14619,7 +14972,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-206"
+          "id": "fligh-plan-235"
         },
         {
           "questionText": "DME provides:",
@@ -14631,7 +14984,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-207"
+          "id": "fligh-plan-236"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - North Atlantic Plotting chart \"NAP\". The average true course from C (62\u00b0N 020\u00b0W) to B (58\u00b0N 004\u00b0E) is:",
@@ -14643,7 +14996,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-208"
+          "id": "fligh-plan-237"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - AMSTERDAM SCHIPHOL - chart 10-9X. The Radio Altimeter minimum altitude for a CAT II ILS DME approach to RWY 01L is:",
@@ -14655,7 +15008,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-209"
+          "id": "fligh-plan-238"
         },
         {
           "questionText": "What is the code for 'Unlawful Interference' (Hijack) on a transponder?",
@@ -14667,7 +15020,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-210"
+          "id": "fligh-plan-239"
+        },
+        {
+          "question": "Why is the Critical Point (CP) important for overwater flights?",
+          "options": [
+            "It determines the point where proceeding to the destination takes the same time as returning.",
+            "It is the point where fuel runs out.",
+            "It marks the boundary of ATC sectors.",
+            "It indicates the highest terrain clearance."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-240"
         },
         {
           "questionText": "Refer to fig 033-92. Surface wind velocity at PARIS/CDG at 1330 UTC?",
@@ -14679,7 +15044,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-211"
+          "id": "fligh-plan-241"
         },
         {
           "questionText": "Endurance means:",
@@ -14691,7 +15056,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-212"
+          "id": "fligh-plan-242"
         },
         {
           "questionText": "Refer to figure 033-41. Determine the distance from the top of descent to London (elevation 80 ft). (Landing Mass 49,700 kg, FL280, Wind 280/40, Course 320\u00b0, M.74/250 KIAS)",
@@ -14703,7 +15068,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-213"
+          "id": "fligh-plan-243"
         },
         {
           "questionText": "If GS = 120 kts, time for 60 NM?",
@@ -14715,7 +15080,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-214"
+          "id": "fligh-plan-244"
         },
         {
           "questionText": "Drift angle caused by:",
@@ -14727,7 +15092,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-215"
+          "id": "fligh-plan-245"
         },
         {
           "questionText": "If Fuel Flow = 2,400 kg/h, how much fuel is burned in 15 minutes?",
@@ -14739,7 +15104,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-216"
+          "id": "fligh-plan-246"
         },
         {
           "questionText": "ADF is used with:",
@@ -14751,7 +15116,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-217"
+          "id": "fligh-plan-247"
+        },
+        {
+          "question": "As altitude increases in the standard atmosphere, the Local Speed of Sound (LSS):",
+          "options": [
+            "Decreases up to the tropopause.",
+            "Increases up to the tropopause.",
+            "Remains constant.",
+            "Increases in the stratosphere."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-248"
         },
         {
           "questionText": "Find final reserve fuel (holding) and relevant elevation: DOM 35,500 kg, Load 12,000 kg, Contingency approach/landing fuel 2500 kg, Dest Elev 500 ft, Alt Elev 30 ft.",
@@ -14767,7 +15144,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-218"
+          "id": "fligh-plan-249"
         },
         {
           "questionText": "Conditions on GAMMA to DELTA remain unchanged. What fuel remaining is expected at DELTA? (Refer to fig 033-66)",
@@ -14779,7 +15156,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-219"
+          "id": "fligh-plan-250"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - North Atlantic Plotting chart \"NAP\" The distance from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W) is:",
@@ -14791,7 +15168,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-220"
+          "id": "fligh-plan-251"
         },
         {
           "questionText": "Refer to MAD 11-1. Minimum glide slope interception altitude for full ILS:",
@@ -14803,7 +15180,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-221"
+          "id": "fligh-plan-252"
         },
         {
           "questionText": "The 'Specific Air Range' (SAR) is defined as:",
@@ -14815,7 +15192,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-222"
+          "id": "fligh-plan-253"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\" An aircraft has to fly on airways from ALMA (55\u00b025\u2032N 013\u00b034\u2032E) to SHILLING (57\u00b033\u2032N 014\u00b000\u2032E). What is the distance between these two points?",
@@ -14827,7 +15204,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-223"
+          "id": "fligh-plan-254"
         },
         {
           "questionText": "Block fuel includes:",
@@ -14839,7 +15216,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-224"
+          "id": "fligh-plan-255"
+        },
+        {
+          "question": "If True Airspeed (TAS) remains constant, as you climb through the troposphere, the Mach Number will:",
+          "options": [
+            "Increase.",
+            "Decrease.",
+            "Remain constant.",
+            "First increase, then decrease."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-256"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What navigation or communications facilities are at 48\u00b023\u2032N 008\u00b039\u2032E?",
@@ -14851,7 +15240,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-225"
+          "id": "fligh-plan-257"
         },
         {
           "questionText": "What is the earliest time (UTC), if any, that thunderstorms are forecast for Tunis/Carthage? (Refer to fig 033-92)",
@@ -14863,7 +15252,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-226"
+          "id": "fligh-plan-258"
         },
         {
           "questionText": "Which describes max intensity of turbulence forecast for FL260 over TOULOUSE (44N 007E)?1",
@@ -14875,7 +15264,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-227"
+          "id": "fligh-plan-259"
         },
         {
           "questionText": "The 'Specific Ground Range' (SGR) is defined as:",
@@ -14887,7 +15276,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-228"
+          "id": "fligh-plan-260"
         },
         {
           "questionText": "Refer to fig 033-90. Find short distance cruise altitude: BRM 45 000 kg, ISA+20C, Trip 50 NAM.",
@@ -14899,7 +15288,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-229"
+          "id": "fligh-plan-261"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - MADRID BARAJAS - chart 10-2B. For runway 33 arrivals from the east and south, the Initial Approach Fix (IAF) inbound from airway UR10 is:",
@@ -14911,7 +15300,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-230"
+          "id": "fligh-plan-262"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What is the elevation of LSZH ZURICH KLOTEN airport (47\u00b028\u2032N, 008\u00b033\u2032E)?",
@@ -14923,7 +15312,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-231"
+          "id": "fligh-plan-263"
+        },
+        {
+          "question": "What is the relationship between Equivalent Airspeed (EAS) and Calibrated Airspeed (CAS)?",
+          "options": [
+            "EAS is CAS corrected for compressibility.",
+            "CAS is EAS corrected for density.",
+            "They are exactly the same at all speeds.",
+            "EAS is CAS corrected for instrument error."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-264"
         },
         {
           "questionText": "Approx mean wind component along course 270 at 50N from 000 to 010W is? (Refer to fig 033-98)",
@@ -14935,7 +15336,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-232"
+          "id": "fligh-plan-265"
         },
         {
           "questionText": "Refer to fig 033-16. Find ground distance to the TOC: TOM 52,000 kg, Elev 387 ft, FL280, W/V 280/40, ISA -10\u00b0C, Course 340\u00b0.",
@@ -14947,7 +15348,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-233"
+          "id": "fligh-plan-266"
         },
         {
           "questionText": "What is 'VNAV'?",
@@ -14959,7 +15360,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-234"
+          "id": "fligh-plan-267"
         },
         {
           "questionText": "Refer to fig 033-01. Single engine: 10 lbs taxi, 3m/6 lbs climb, 2h 37m flight, 30% reserve, 23 inHg/2300 RPM/20\u00b0C lean, FL50, ISA. Block Fuel?",
@@ -14971,7 +15372,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-235"
+          "id": "fligh-plan-268"
         },
         {
           "questionText": "Refer to fig 033-91. Find the fuel mileage penalty for the twin jet aeroplane: FL310, LRC, Cruise mass 53,000 kg.",
@@ -14983,7 +15384,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-236"
+          "id": "fligh-plan-269"
         },
         {
           "questionText": "Refer to CDG_21-2. Crossing altitude and descent instruction for prop aircraft at CLM:",
@@ -14995,7 +15396,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-237"
+          "id": "fligh-plan-270"
         },
         {
           "questionText": "Tailwind effect:",
@@ -15007,7 +15408,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-238"
+          "id": "fligh-plan-271"
+        },
+        {
+          "question": "If an aircraft climbs at a constant Mach number in the troposphere, the True Airspeed (TAS) will:",
+          "options": [
+            "Decrease.",
+            "Increase.",
+            "Remain constant.",
+            "Decrease until 10,000 ft, then increase."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-272"
         },
         {
           "questionText": "METAR reports:",
@@ -15019,7 +15432,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-239"
+          "id": "fligh-plan-273"
         },
         {
           "questionText": "A 'Cost Index' (CI) of zero in a Flight Management System (FMS) results in:",
@@ -15031,7 +15444,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-240"
+          "id": "fligh-plan-274"
         },
         {
           "questionText": "Distance C-D: 540 NM, Cruise: FL210/300 KIAS, Temp: ISA +20 \u00b0C, Wind: 50 kts head, Gross mass at C: 60 000 kg. Find fuel required.",
@@ -15043,7 +15456,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-241"
+          "id": "fligh-plan-275"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E LO 1\" The minimum enroute altitude (MEA) that can be maintained continuously on advisory route W911D from NEWCASTLE 114.25 NEW to DEAN CROSS 115.2 DCS is:",
@@ -15055,7 +15468,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-242"
+          "id": "fligh-plan-276"
         },
         {
           "questionText": "Refer to fig 033-68. Calculate still air descent distance: FL110 (-10\u00b0C) to 3000 ft (-1\u00b0C), 145 KIAS, 1000 ft/min, clean.",
@@ -15067,7 +15480,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-243"
+          "id": "fligh-plan-277"
         },
         {
           "questionText": "Find distance in NAM and fuel consumption: TOC to en-route at FL280, 48 min, LRC, ISA-5\u00b0C, TOM 56,000 kg, Climb fuel 1,100 kg.",
@@ -15083,7 +15496,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-244"
+          "id": "fligh-plan-278"
         },
         {
           "questionText": "M 0.82 at FL390, Landing Mass 160,000 kg, 2800 NM, zero wind, ISA. Fuel consumption?",
@@ -15095,7 +15508,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-245"
+          "id": "fligh-plan-279"
+        },
+        {
+          "question": "When climbing at a constant Indicated Airspeed (IAS), the True Airspeed (TAS) will:",
+          "options": [
+            "Increase.",
+            "Decrease.",
+            "Remain constant.",
+            "Increase up to FL200 then decrease."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-280"
         },
         {
           "questionText": "The 'Estimated Off Block Time' (EOBT) is the time when:",
@@ -15107,7 +15532,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-246"
+          "id": "fligh-plan-281"
         },
         {
           "questionText": "Great circle gives:",
@@ -15119,7 +15544,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-247"
+          "id": "fligh-plan-282"
         },
         {
           "questionText": "In an ATS flight plan, item 15 (route), a cruising pressure altitude of 32 000 feet would be entered as:",
@@ -15131,7 +15556,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-248"
+          "id": "fligh-plan-283"
         },
         {
           "questionText": "At position 38N 15E, what is the worst hazard which could be expected? (Refer to fig 033-105)",
@@ -15143,7 +15568,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-249"
+          "id": "fligh-plan-284"
         },
         {
           "questionText": "What frequency are you going to use at LAAGE (N53 55.1 E012 17.2) if you want to receive DME information?",
@@ -15155,7 +15580,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-250"
+          "id": "fligh-plan-285"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Flying from EDSZ ROTTWEIL ZEPFENHAN (48\u00b012\u2032N 008\u00b044\u2032E) to EDTM MENGEN airport (48\u00b003\u2032N 009\u00b022\u2032E). Determine the highest obstacle within a corridor 5 NM left and 5 NM right of track.",
@@ -15167,7 +15592,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-251"
+          "id": "fligh-plan-286"
         },
         {
           "questionText": "What is the 'Top of Descent' (TOD)?",
@@ -15179,7 +15604,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-252"
+          "id": "fligh-plan-287"
+        },
+        {
+          "question": "Which speed is most relevant for aerodynamic structural limits like VMO/MMO?",
+          "options": [
+            "Indicated Airspeed (IAS) and Mach number.",
+            "True Airspeed (TAS).",
+            "Groundspeed (GS).",
+            "Equivalent Airspeed (EAS)."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-288"
         },
         {
           "questionText": "Refer to figure 033-16. Find the climb time for en-route climb 280/0.74. Given: TOM 57 500 kg, Initial cruise FL280, Average temp ISA -10\u00b0C, Average headwind 18 kts.",
@@ -15191,7 +15628,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-253"
+          "id": "fligh-plan-289"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - LONDON HEATHROW - ILS DME RWY 09L - chart 11-2 The decision altitude for an ILS straight-in landing is:",
@@ -15203,7 +15640,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-254"
+          "id": "fligh-plan-290"
         },
         {
           "questionText": "Refer to MUC_10-2. Correct arrival and IAF from west via TANGO for rwy 08 L/R:",
@@ -15215,7 +15652,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-255"
+          "id": "fligh-plan-291"
         },
         {
           "questionText": "For a mass of 190,000 kg at Mach 0.82 and temp -35C at FL370, the optimum flight altitude is: (Refer to fig 033-45)",
@@ -15227,7 +15664,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-256"
+          "id": "fligh-plan-292"
         },
         {
           "questionText": "Wind correction angle corrects:",
@@ -15239,7 +15676,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-257"
+          "id": "fligh-plan-293"
         },
         {
           "questionText": "A 'Grid MORA' provides obstacle clearance within a grid defined by:",
@@ -15251,7 +15688,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-258"
+          "id": "fligh-plan-294"
         },
         {
           "questionText": "Divert distance: ISA, M 0.70/280 KIAS (text says M 1.70, assumed typo), 90 min, mass 48 000 kg.",
@@ -15263,7 +15700,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-259"
+          "id": "fligh-plan-295"
+        },
+        {
+          "question": "If OAT is warmer than ISA, the True Airspeed (TAS) for a given Indicated Airspeed (IAS) will be:",
+          "options": [
+            "Higher than in ISA conditions.",
+            "Lower than in ISA conditions.",
+            "The same as in ISA conditions.",
+            "Unchanged unless altitude changes."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-296"
         },
         {
           "questionText": "Trip fuel is for:",
@@ -15275,7 +15724,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-260"
+          "id": "fligh-plan-297"
         },
         {
           "questionText": "Wind shear is:",
@@ -15287,7 +15736,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-261"
+          "id": "fligh-plan-298"
         },
         {
           "questionText": "Contingency fuel is for:",
@@ -15299,7 +15748,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-262"
+          "id": "fligh-plan-299"
         },
         {
           "questionText": "Holding fuel is for:",
@@ -15311,7 +15760,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-263"
+          "id": "fligh-plan-300"
         },
         {
           "questionText": "What is 'RVSM'?",
@@ -15323,7 +15772,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-264"
+          "id": "fligh-plan-301"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - Esbjerg Area chart (19-1) What is the track and distance shown on the chart from VOR/DME SKR (55\u00b013.8\u2032N 009\u00b012.9\u2032E) to overhead Esbjerg (55\u00b031.6\u2032N 008\u00b033.2\u2032E)?",
@@ -15335,7 +15784,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-265"
+          "id": "fligh-plan-302"
         },
         {
           "questionText": "What are the lowest cloud conditions forecast for 1900 UTC at HAMBURG (EDDH)?1",
@@ -15347,7 +15796,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-266"
+          "id": "fligh-plan-303"
+        },
+        {
+          "question": "What is the Local Speed of Sound (LSS) at standard sea level temperature (15\u00b0C)?",
+          "options": [
+            "661 knots",
+            "600 knots",
+            "700 knots",
+            "761 knots"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-304"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - VFR Area Chart 10-1V What is the elevation of the highest ground within the boundary of the Aberdeen Control Zone?",
@@ -15359,7 +15820,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-267"
+          "id": "fligh-plan-305"
         },
         {
           "questionText": "Refer to LHR_10-2 & 11-4. Name the ident and frequency of the IAF of the BIG 2A arrival route.",
@@ -15371,7 +15832,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-268"
+          "id": "fligh-plan-306"
         },
         {
           "questionText": "Which best describes the weather, if any, at Lyon / Satolas at 1330 UTC given the TAF/METAR?1",
@@ -15383,7 +15844,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-269"
+          "id": "fligh-plan-307"
         },
         {
           "questionText": "If TAS = 200 kts and wind is a 20 kts direct crosswind, the groundspeed is approximately:",
@@ -15395,7 +15856,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-270"
+          "id": "fligh-plan-308"
         },
         {
           "questionText": "In the ATS flight plan Item 15, a cruising speed of 470 kts will be entered as:",
@@ -15407,7 +15868,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-271"
+          "id": "fligh-plan-309"
         },
         {
           "questionText": "ISA temperature at sea level:",
@@ -15419,7 +15880,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-272"
+          "id": "fligh-plan-310"
         },
         {
           "questionText": "Minimum pressure altitude: 720 NM, Tailwind 25 kts, mass 55 000 kg, ISA, diversion fuel 4250 kg.",
@@ -15431,7 +15892,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-273"
+          "id": "fligh-plan-311"
+        },
+        {
+          "question": "A Machmeter operates by comparing:",
+          "options": [
+            "Pitot pressure and static pressure.",
+            "Dynamic pressure and static pressure.",
+            "True Airspeed and Local Speed of Sound.",
+            "Indicated Airspeed and Groundspeed."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-312"
         },
         {
           "questionText": "Compass deviation caused by:",
@@ -15443,7 +15916,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-274"
+          "id": "fligh-plan-313"
         },
         {
           "questionText": "Refer to figure 033-16. Find fuel to the top of climb (TOC). (TOM 52,000 kg, Cruise FL280, W/V 280/40, ISA -10\u00b0C, Course 340\u00b0)",
@@ -15455,7 +15928,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-275"
+          "id": "fligh-plan-314"
         },
         {
           "questionText": "The 'En-route Alternate' is used if:",
@@ -15467,7 +15940,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-276"
+          "id": "fligh-plan-315"
         },
         {
           "questionText": "Refer to fig 033-09. Determine TAS: Mass 50,000 kg, FL280, ISA-10\u00b0C, Mach 0.74.",
@@ -15479,7 +15952,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-277"
+          "id": "fligh-plan-316"
         },
         {
           "questionText": "Refer to fig 033-90. Find short distance cruise altitude: BRM 40 000 kg, ISA+20C, Trip 150 NAM.",
@@ -15491,7 +15964,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-278"
+          "id": "fligh-plan-317"
         },
         {
           "questionText": "Headwind effect:",
@@ -15503,7 +15976,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-279"
+          "id": "fligh-plan-318"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 What is the frequency for Stuttgart ATIS?",
@@ -15515,7 +15988,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-280"
+          "id": "fligh-plan-319"
+        },
+        {
+          "question": "In the stratosphere (above the tropopause), if climbing at a constant Mach number, the TAS will:",
+          "options": [
+            "Remain constant.",
+            "Decrease.",
+            "Increase.",
+            "Fluctuate with density."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-320"
         },
         {
           "questionText": "Over LONDON (51N 000E/W) the lowest FL listed which is unaffected by CAT is:1",
@@ -15527,7 +16012,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-281"
+          "id": "fligh-plan-321"
         },
         {
           "questionText": "What is 'Contingency Fuel' for?",
@@ -15539,7 +16024,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-282"
+          "id": "fligh-plan-322"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - BARCELONA - VFR Area Chart 10-1V The maximum altitude that may be used to transit the whole VFR corridor from REUS to SAN CELONI is:",
@@ -15551,7 +16036,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-283"
+          "id": "fligh-plan-323"
         },
         {
           "questionText": "Standard aviation distance unit:",
@@ -15563,7 +16048,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-284"
+          "id": "fligh-plan-324"
         },
         {
           "questionText": "Refer to figure 033-42. The fuel required for 45 min holding, in a racetrack pattern, at PA 5000 ft, mean gross mass 47 000 kg, is:",
@@ -15575,7 +16060,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-285"
+          "id": "fligh-plan-325"
         },
         {
           "questionText": "Refer to fig 033-42. Fuel required for 30 min holding at PA 1 500 ft, mean gross mass 45 000 kg:",
@@ -15587,7 +16072,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-286"
+          "id": "fligh-plan-326"
         },
         {
           "questionText": "Refer to fig 033-75. Within limits, a mean temperature increase of 30\u00b0C will affect the trip time by approximately:",
@@ -15599,7 +16084,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-287"
+          "id": "fligh-plan-327"
+        },
+        {
+          "question": "On a Lambert Conformal Conic chart, a straight line represents approximately:",
+          "options": [
+            "A great circle.",
+            "A rhumb line.",
+            "A line of constant magnetic heading.",
+            "An isobar."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-328"
         },
         {
           "questionText": "In a METAR, 'SKC' stands for:",
@@ -15611,7 +16108,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-288"
+          "id": "fligh-plan-329"
         },
         {
           "questionText": "Fuel required from B to C: FL300/M 0.78, 1,200 NM, ISA -14\u00b0C, Tailwind 40 kts, Mass at B: 50,200 kg.",
@@ -15623,7 +16120,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-289"
+          "id": "fligh-plan-330"
         },
         {
           "questionText": "Additional fuel (tankering): Ratio 0.92, FL350, 1,830 NAM, Max Landing 180k, Max Take-off 205k, Capacity 40k, Planned Take-off 190k.",
@@ -15635,7 +16132,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-290"
+          "id": "fligh-plan-331"
         },
         {
           "questionText": "Refer to chart \"NAP\". The average true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W) is:",
@@ -15647,7 +16144,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-291"
+          "id": "fligh-plan-332"
         },
         {
           "questionText": "Purpose of VOR/DME?",
@@ -15659,7 +16156,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-292"
+          "id": "fligh-plan-333"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Flying from EDSZ ROTTWEIL ZEPFENHAN (48\u00b012\u2032N 008\u00b044\u2032E) to EDTM MENGEN airport (48\u00b003\u2032N 009\u00b022'E). Find magnetic course and the distance.",
@@ -15671,7 +16168,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-293"
+          "id": "fligh-plan-334"
         },
         {
           "questionText": "In a METAR, 'FEW' means the sky coverage is:",
@@ -15683,7 +16180,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-294"
+          "id": "fligh-plan-335"
+        },
+        {
+          "question": "On a Mercator projection, rhumb lines are represented as:",
+          "options": [
+            "Straight lines.",
+            "Curves concave to the equator.",
+            "Curves convex to the equator.",
+            "Great circles."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-336"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Give the name and frequency of the Flight Information Service for an aeroplane in position (47\u00b059\u2032N, 010\u00b014\u2032E).",
@@ -15695,7 +16204,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-295"
+          "id": "fligh-plan-337"
         },
         {
           "questionText": "Trip Fuel: TOM 168,500 kg, FL370, LRC, 2000 NM, Tailwind 30 kts, Anti-ice ON, Taxi 500 kg, Reserve 2000 kg.",
@@ -15707,7 +16216,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-296"
+          "id": "fligh-plan-338"
         },
         {
           "questionText": "Refer to fig 033-117. TAS 350, Headwind 50, Enroute flow 1800 kg/h, Holding flow 900 kg/h. Calculate contingency fuel (commercial flight):",
@@ -15719,7 +16228,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-297"
+          "id": "fligh-plan-339"
         },
         {
           "questionText": "Thunderstorms associated with:",
@@ -15731,7 +16240,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-298"
+          "id": "fligh-plan-340"
         },
         {
           "questionText": "Additional fuel (tankering): Ratio 0.91, FL350, 2,500 NAM, Max Landing 180k, Max Take-off 205k, Capacity 40k, Planned Take-off 200k.",
@@ -15743,7 +16252,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-299"
+          "id": "fligh-plan-341"
         },
         {
           "questionText": "In a METAR, 'BKN' (Broken) means the sky coverage is:",
@@ -15755,7 +16264,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-300"
+          "id": "fligh-plan-342"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Name the frequency of TANGO VORTAC (48\u00b037\u2032N 009\u00b016\u2032E).",
@@ -15767,7 +16276,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-301"
+          "id": "fligh-plan-343"
+        },
+        {
+          "question": "Earth convergency is greatest at:",
+          "options": [
+            "The poles.",
+            "The equator.",
+            "Latitude 45 degrees.",
+            "The prime meridian."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-344"
         },
         {
           "questionText": "Refer to fig 033-101. W/V at 60N 015W?",
@@ -15779,7 +16300,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-302"
+          "id": "fligh-plan-345"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - VFR Area Chart 10-1V What is the elevation of the highest obstacle within the boundary of the Aberdeen Control Area?",
@@ -15791,7 +16312,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-303"
+          "id": "fligh-plan-346"
         },
         {
           "questionText": "Crosswind component depends on:",
@@ -15803,7 +16324,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-304"
+          "id": "fligh-plan-347"
         },
         {
           "questionText": "Refer to figure 033-16. Mass at brake release 57 500 kg, Temp ISA-10\u00b0C, Headwind 16 kts, Initial cruise FL280. Find climb fuel.",
@@ -15815,7 +16336,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-305"
+          "id": "fligh-plan-348"
         },
         {
           "questionText": "In a METAR, 'OVC' (Overcast) means the sky coverage is:",
@@ -15827,7 +16348,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-306"
+          "id": "fligh-plan-349"
         },
         {
           "questionText": "Jet stream is:",
@@ -15839,7 +16360,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-307"
+          "id": "fligh-plan-350"
         },
         {
           "questionText": "Taxi fuel used:",
@@ -15851,7 +16372,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-308"
+          "id": "fligh-plan-351"
+        },
+        {
+          "question": "A great circle track from A (60\u00b0N 010\u00b0W) to B (60\u00b0N 020\u00b0E) will:",
+          "options": [
+            "Go north of the 60\u00b0N parallel.",
+            "Go south of the 60\u00b0N parallel.",
+            "Follow the 60\u00b0N parallel exactly.",
+            "Cross the equator."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-352"
         },
         {
           "questionText": "Cost effective tankering: Dep price $0.27/L, carry 8,000 kg extra. Min price at arrival must be:",
@@ -15863,7 +16396,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-309"
+          "id": "fligh-plan-353"
         },
         {
           "questionText": "Refer to chart \"E HI 2\". An aircraft has to fly on airways from ODIN (55\u00b035\u2032N 010\u00b039\u2032E) to BOTTNA (57\u00b045\u2032N 013\u00b048\u2032E). Which is an acceptable route?",
@@ -15875,7 +16408,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-310"
+          "id": "fligh-plan-354"
         },
         {
           "questionText": "Refer to figure 033-16. Find time to the top of climb (TOC). (TOM 52,000 kg, FL280, W/V 280/40, ISA -10\u00b0C, Course 340\u00b0)",
@@ -15887,7 +16420,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-311"
+          "id": "fligh-plan-355"
         },
         {
           "questionText": "What does 'SFC' stand for on a weather chart?",
@@ -15899,7 +16432,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-312"
+          "id": "fligh-plan-356"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - ABERDEEN (Dyce) - VFR Area Chart 10-1V Which of the following frequencies is listed as available for contact with Aberdeen ATSU?",
@@ -15911,7 +16444,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-313"
+          "id": "fligh-plan-357"
         },
         {
           "questionText": "The surface system over VIENNA (48N 016E) is a:1",
@@ -15923,7 +16456,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-314"
+          "id": "fligh-plan-358"
         },
         {
           "questionText": "Magnetic heading corrected for deviation gives:",
@@ -15935,7 +16468,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-315"
+          "id": "fligh-plan-359"
+        },
+        {
+          "question": "Chart convergency on a Lambert Conformal Conic chart is calculated by:",
+          "options": [
+            "Change of longitude x sine of the parallel of origin.",
+            "Change of longitude x cosine of latitude.",
+            "Change of latitude x sine of longitude.",
+            "Change of longitude x 1."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-360"
         },
         {
           "questionText": "QNH sets altimeter to:",
@@ -15947,7 +16492,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-316"
+          "id": "fligh-plan-361"
         },
         {
           "questionText": "Conditions on GAMMA to DELTA remain unchanged. What fuel remaining is expected at DELTA? (Refer to fig 033-72)",
@@ -15959,7 +16504,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-317"
+          "id": "fligh-plan-362"
         },
         {
           "questionText": "A 'SIGMET' is a weather advisory for:",
@@ -15971,7 +16516,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-318"
+          "id": "fligh-plan-363"
         },
         {
           "questionText": "You are on the final ILS approach for runway 33. What is your current MSA? (MAD 11-1)",
@@ -15983,7 +16528,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-319"
+          "id": "fligh-plan-364"
         },
         {
           "questionText": "Blue shading on charts indicates:",
@@ -15995,7 +16540,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-320"
+          "id": "fligh-plan-365"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Which navigation aid is located in position 48\u00b059\u2032N, 008\u00b035'E?",
@@ -16007,7 +16552,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-321"
+          "id": "fligh-plan-366"
         },
         {
           "questionText": "Variation is applied between:",
@@ -16019,7 +16564,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-322"
+          "id": "fligh-plan-367"
+        },
+        {
+          "question": "Which chart projection is most suitable for polar navigation?",
+          "options": [
+            "Polar Stereographic.",
+            "Mercator.",
+            "Lambert Conformal Conic.",
+            "Oblique Mercator."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-368"
         },
         {
           "questionText": "TAF reports:",
@@ -16031,7 +16588,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-323"
+          "id": "fligh-plan-369"
         },
         {
           "questionText": "The 'Standard Rate' turn is:",
@@ -16043,7 +16600,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-324"
+          "id": "fligh-plan-370"
         },
         {
           "questionText": "Refer to fig 033-54. Calculate range: Mass 3663 lbs, 74 gal, Sea level takeoff, 40 kts headwind, 8000 ft, 2300 RPM, 20\u00b0C lean.",
@@ -16055,7 +16612,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-325"
+          "id": "fligh-plan-371"
         },
         {
           "questionText": "Refer to fig 033-27/93. 1 500 NM, FL310, M 0.82, Headwind 40 kts, Landing Mass 140 000, ISA +15\u00b0C, Anti-ice ON, Pack HI. Fuel consumption?",
@@ -16067,7 +16624,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-326"
+          "id": "fligh-plan-372"
         },
         {
           "questionText": "The maximum wind velocity (deg/kts) immediately north of TUNIS is: (Refer to fig 033-104)",
@@ -16079,7 +16636,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-327"
+          "id": "fligh-plan-373"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6 Flying from EDSZ ROTTWEIL ZEPFENHAN (48\u00b012\u2032N 008\u00b044\u2032E) to EDPJ LAICHINGEN airport (48\u00b030\u2032N 009\u00b038\u2032E). Determine the highest obstacle within a corridor 5 NM left and 5 NM right of the courseline.",
@@ -16091,7 +16648,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-328"
+          "id": "fligh-plan-374"
         },
         {
           "questionText": "Refer to fig 033-21/37/38. TOM 150 000 kg, FL350, LRC, ISA, Air dist 2000 NM. Trip fuel?",
@@ -16103,7 +16660,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-329"
+          "id": "fligh-plan-375"
+        },
+        {
+          "question": "On a Direct Mercator chart, the scale is exactly correct at:",
+          "options": [
+            "The Equator.",
+            "The Poles.",
+            "Latitude 45\u00b0.",
+            "All latitudes."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-376"
         },
         {
           "questionText": "If the destination has only one runway, what is usually required for IFR planning?",
@@ -16115,7 +16684,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-330"
+          "id": "fligh-plan-377"
         },
         {
           "questionText": "Refer to fig 033-70. Dist to Alt: 450 NM, Landing Mass at Alt: 45 000 kg, 50 kts Tailwind. What is the alternate fuel required?",
@@ -16127,7 +16696,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-331"
+          "id": "fligh-plan-378"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - VFR Chart ED-6. Flying from EDTM MENGEN airport (48\u00b003\u2032N 009\u00b022\u2032E) to EDPJ LAICHINGEN airport (48\u00b030\u2032N 009\u00b038\u2032E). Find magnetic course and the distance.",
@@ -16139,7 +16708,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-332"
+          "id": "fligh-plan-379"
         },
         {
           "questionText": "Refer to fig 033-05/87. Cruise: FL210/300 KIAS, Distance 350 NM, OAT -40 \u00b0C, Tailwind 70 kts, Mass at B: 53 200 kg. Fuel required?",
@@ -16151,7 +16720,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-333"
+          "id": "fligh-plan-380"
         },
         {
           "questionText": "Conditions on GAMMA to DELTA remain unchanged. What fuel remaining is expected at DELTA? (Refer to fig 033-67)",
@@ -16163,7 +16732,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-334"
+          "id": "fligh-plan-381"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\". An aircraft is flying towards GOW (55\u00b052\u2032N 004\u00b027\u2032W) on airway UN615 prior to an arrival in the London FIR. According to the information on the chart, what is the most appropriate radio frequency to obtain the latest meteorological information for London area?",
@@ -16175,7 +16744,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-335"
+          "id": "fligh-plan-382"
         },
         {
           "questionText": "What is the minimum visibility required for a 'Visual Approach'?",
@@ -16187,7 +16756,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-336"
+          "id": "fligh-plan-383"
+        },
+        {
+          "question": "If the great circle track at the departure point is 090\u00b0 and the destination is at the same latitude in the Northern Hemisphere, the arrival track will be:",
+          "options": [
+            "Greater than 090\u00b0.",
+            "Less than 090\u00b0.",
+            "Exactly 090\u00b0.",
+            "180\u00b0."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-384"
         },
         {
           "questionText": "Refer to figure 033-41. Planning an IFR-flight from Paris to London. Determine the time from the top of descent to London (elevation 80 ft). (Landing Mass 49,700 kg, FL280, Wind 280/40, Course 320\u00b0, 0.74 M/250 KIAS)",
@@ -16199,7 +16780,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-337"
+          "id": "fligh-plan-385"
         },
         {
           "questionText": "Transponder code for emergency:",
@@ -16211,7 +16792,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-338"
+          "id": "fligh-plan-386"
         },
         {
           "questionText": "What minimum visibility is forecast for PARIS/CHARLES-DE-GAULLE at 2100 UTC?1",
@@ -16223,7 +16804,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-339"
+          "id": "fligh-plan-387"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 2\". The radio navigation aid(s) at (56\u00b017\u2032N 010\u00b047\u2032E) is/are:",
@@ -16235,7 +16816,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-340"
+          "id": "fligh-plan-388"
         },
         {
           "questionText": "Fuel consumption increases with:",
@@ -16247,7 +16828,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-341"
+          "id": "fligh-plan-389"
         },
         {
           "questionText": "A 'Rhumb Line' is a track that:",
@@ -16259,7 +16840,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-342"
+          "id": "fligh-plan-390"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\" The direct distance from TIREE 117.7 TIR (56\u00b030\u2032N 006\u00b053'W) to INVERNESS 109.2 INS (57\u00b032\u2032N 004\u00b003'W) is:",
@@ -16271,7 +16852,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-343"
+          "id": "fligh-plan-391"
+        },
+        {
+          "question": "What is the primary advantage of a great circle route?",
+          "options": [
+            "It is the shortest distance between two points on a sphere.",
+            "It follows a constant heading.",
+            "It is a straight line on a Mercator chart.",
+            "It always avoids restricted airspace."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-392"
         },
         {
           "questionText": "Conditions on GAMMA to DELTA remain unchanged. What fuel remaining is expected at DELTA? (Refer to fig 033-61)",
@@ -16283,7 +16876,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-344"
+          "id": "fligh-plan-393"
         },
         {
           "questionText": "VFR requires:",
@@ -16295,7 +16888,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-345"
+          "id": "fligh-plan-394"
         },
         {
           "questionText": "Refer to Jeppesen Training Route Manual - chart \"E HI 1\" An aircraft has to fly from TIREE (56\u00b029\u2032N 006\u00b053\u2032W) direct to ABERDEEN (57\u00b019\u2032N 002\u00b016\u2032W). What is the minimum grid safe altitude for this route?",
@@ -16307,7 +16900,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-346"
+          "id": "fligh-plan-395"
         },
         {
           "questionText": "Refer to fig 033-98. What is the mean temperature deviation from ISA over 50N 10W?",
@@ -16319,7 +16912,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-347"
+          "id": "fligh-plan-396"
         },
         {
           "questionText": "The 'Magnetic Variation' is the angle between:",
@@ -16331,7 +16924,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-348"
+          "id": "fligh-plan-397"
         },
         {
           "questionText": "Refer to figure 033-88. True Air speed: 170 kts. Wind in the area: 270\u00b0/40 kts. According to the attached navigation log, an aircraft performs a turn overhead BULEN to reroute to ARD via TGJ. The given wind conditions remaining constant. The fuel consumption during the turn is 20 litres. The total fuel consumption at position overhead ARD will be:",
@@ -16343,7 +16936,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-349"
+          "id": "fligh-plan-398"
         },
         {
           "questionText": "An appropriate ICAO non-RVSM flight level for IFR flight in accordance with semi-circular height rules on a magnetic course of 200\u00b0 is:",
@@ -16355,7 +16948,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-350"
+          "id": "fligh-plan-399"
+        },
+        {
+          "question": "A rhumb line is defined as a line on the surface of the earth which:",
+          "options": [
+            "Crosses all meridians at the same angle.",
+            "Is the shortest distance between two points.",
+            "Passes through the center of the earth.",
+            "Always follows the equator."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-400"
         },
         {
           "questionText": "Given: Minimum safe altitude: 8 500 ft, QNH at the station 1 003 hPa (elevation 4 000 ft), Temperature at FL85 -20\u00b0C. What is the minimum pressure altitude which should be flown according to the given MSA?",
@@ -16367,7 +16972,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-351"
+          "id": "fligh-plan-401"
         },
         {
           "questionText": "During a flight at night a position has to be reported to ATC. The aeroplane is at a distance of 750 NM from the ground station and at flight level 350. The frequency to be used is:",
@@ -16379,7 +16984,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-352"
+          "id": "fligh-plan-402"
         },
         {
           "questionText": "On IFR navigation chart, in a 1\u00b0 quadrant of longitude and latitude, appears the following information: \"80\". This means that within this quadrant:",
@@ -16391,7 +16996,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-353"
+          "id": "fligh-plan-403"
         },
         {
           "questionText": "On a given path, it is possible to choose between four flight levels (FL), each associated with a mandatory flight Mach number (M). The flight conditions, static air temperature (SAT) and headwind component (HWC) are given below: FL370 M0.80 SAT -60\u00b0C HWC 15 kts FL330 M0.78 SAT -60\u00b0C HWC 5 kts FL290 M0.80 SAT -55\u00b0C HWC 15 kts FL270 M0.76 SAT -43\u00b0C HWC 0 kts The flight level allowing the highest ground speed is:",
@@ -16403,7 +17008,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-354"
+          "id": "fligh-plan-404"
         },
         {
           "questionText": "Unless otherwise stated on charts for standard instrument departures the depicted routes are defined as:",
@@ -16415,7 +17020,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-355"
+          "id": "fligh-plan-405"
         },
         {
           "questionText": "You must fly IFR on an airway orientated 135\u00b0 magnetic with a MSA at 7 800 ft. Knowing the QNH is 1025 hPa and the temperature is ISA +10\u00b0, the minimum flight level you must fly at is:",
@@ -16427,7 +17032,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-356"
+          "id": "fligh-plan-406"
         },
         {
           "questionText": "An airway is marked 5000 2900a. The notation 5000 is the:",
@@ -16439,7 +17044,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-357"
+          "id": "fligh-plan-407"
+        },
+        {
+          "question": "Minimum Enroute Altitude (MEA) guarantees:",
+          "options": [
+            "Obstacle clearance and acceptable navigational signal coverage.",
+            "Obstacle clearance only.",
+            "Navigational signal coverage only.",
+            "Radar coverage."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-408"
         },
         {
           "questionText": "An airway is marked \"FL80 1500a\". This indicates that:",
@@ -16451,7 +17068,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-358"
+          "id": "fligh-plan-409"
         },
         {
           "questionText": "An airway is marked \"3500T 2100a\". This indicates that:",
@@ -16463,7 +17080,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-359"
+          "id": "fligh-plan-410"
         },
         {
           "questionText": "What is the primary reason for studying SID & STAR charts before and during a flight?",
@@ -16475,7 +17092,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-360"
+          "id": "fligh-plan-411"
         },
         {
           "questionText": "ICAO Doc 8168 states that specific altitudes are established for each aerodrome and provide at least 300 m (1 000 ft) obstacle clearance within 46 km (25 NM) of the navigation aid, initial approach fix or intermediate fix associated with the approach procedure for that aerodrome. Which of the following abbreviations is used for such altitudes?",
@@ -16487,7 +17104,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-361"
+          "id": "fligh-plan-412"
         },
         {
           "questionText": "The measured course 042\u00b0 T. The variation in the area is 6\u00b0 W and the wind is calm. The deviation card reads: CH: 000\u00b0 045\u00b0 090\u00b0 135\u00b0 Deviation: \u20132 \u20134 \u20133 \u20131. In order to follow this course, the pilot must fly a compass heading of:",
@@ -16499,7 +17116,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-362"
+          "id": "fligh-plan-413"
         },
         {
           "questionText": "How many feet do you have to climb to reach FL75? Given: Departure aerodrome elevation: 1500 ft, QNH: 1023 hPa, Temperature: ISA, 1 hPa = 30 ft.",
@@ -16511,7 +17128,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-363"
+          "id": "fligh-plan-414"
         },
         {
           "questionText": "Refer to figure 033-16. Planning an IFR flight from Paris (Charles de Gaulle) to London (Heathrow) for a twin jet aeroplane. Given: Estimated Take\u2011off Mass (TOM): 52 000 kg, Airport elevation: 387 ft, Cruise: FL280, W/V: 280\u00b0/40 kts, ISA Deviation: \u201310\u00b0C, Average True Course: 340\u00b0. Find time to the top of climb (TOC).",
@@ -16523,7 +17140,19 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-364"
+          "id": "fligh-plan-415"
+        },
+        {
+          "question": "Minimum Obstruction Clearance Altitude (MOCA) ensures obstacle clearance along the route and navigational signal coverage within what distance from the VOR?",
+          "options": [
+            "22 NM",
+            "40 NM",
+            "50 NM",
+            "100 NM"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-416"
         },
         {
           "questionText": "Refer to figure 033-41. Planning an IFR flight from Paris to London for a twin jet aeroplane. Given: Estimated Landing Mass: 49 700 kg, Cruising level: FL280, Average wind: 280\u00b0/40 kts, Average True Course: 320\u00b0, Procedure for descent: M0.74/250 KIAS. Determine the distance from the top of descent to London (elevation 80 ft).",
@@ -16535,7 +17164,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-365"
+          "id": "fligh-plan-417"
         },
         {
           "questionText": "Take\u2011off mass: 150 000 kg, Cruise level: FL350, Cruise speed: Long Range (LRC), Conditions: ISA, CG: 37%. You have to cover an air distance of 2000 NM. What will be your flight time?",
@@ -16547,7 +17176,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-366"
+          "id": "fligh-plan-418"
         },
         {
           "questionText": "Refer to figures 033-27 and 033-93. Ground distance: 2000 NM, FL330, Mach 0.82 (TAS 470 kts), Headwind 30 kts, Landing mass 160 000 kg, ISA, CG 37%, Anti\u2011ice ON, Pack flow HI. Time needed?",
@@ -16559,7 +17188,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-367"
+          "id": "fligh-plan-419"
         },
         {
           "questionText": "Refer to figure 033-12. Find TAS: LRC at FL330, OAT \u201363\u00b0C, Gross mass 50 500 kg.",
@@ -16571,7 +17200,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-368"
+          "id": "fligh-plan-420"
         },
         {
           "questionText": "Refer to figure 033-16. TOM 52 000 kg, elevation 387 ft, FL280, W/V 280\u00b0/40 kts, ISA \u201310\u00b0C, True course 340\u00b0. Find ground distance to TOC.",
@@ -16583,7 +17212,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-369"
+          "id": "fligh-plan-421"
         },
         {
           "questionText": "Refer to figure 033-16. Climb time for en\u2011route climb 280/0.74. TOM 57 500 kg, FL280, ISA \u201310\u00b0C, headwind 18 kts.",
@@ -16595,7 +17224,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-370"
+          "id": "fligh-plan-422"
         },
         {
           "questionText": "Refer to figure 033-20. Mass 156 500 kg, FL330, LRC, tailwind 40 kts, remaining flight time 1h10min. Ground distance covered?",
@@ -16607,7 +17236,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-371"
+          "id": "fligh-plan-423"
+        },
+        {
+          "question": "The Minimum Sector Altitude (MSA) generally provides a minimum clearance of:",
+          "options": [
+            "1000 ft over all obstacles within 25 NM of the homing facility.",
+            "2000 ft over all obstacles within 25 NM.",
+            "1000 ft over all obstacles within 10 NM.",
+            "500 ft over all obstacles."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-424"
         },
         {
           "questionText": "Refer to figure 033-09. Gross mass 50 000 kg, FL280, ISA \u201310\u00b0C, Mach 0.74. Find TAS.",
@@ -16619,7 +17260,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-372"
+          "id": "fligh-plan-425"
         },
         {
           "questionText": "Refer to figure 033-41. Landing mass 49 700 kg, FL280, wind 280\u00b0/40 kts, True course 320\u00b0, descent M0.74/250 KIAS. Time from TOD to London (elev 80 ft)?",
@@ -16631,7 +17272,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-373"
+          "id": "fligh-plan-426"
         },
         {
           "questionText": "Refer to figure 033-16. Brake release mass 57 500 kg, ISA \u201310\u00b0C, headwind 16 kts, FL280. Find still air distance (NAM) and ground distance (NM) for climb.",
@@ -16643,7 +17284,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-374"
+          "id": "fligh-plan-427"
         },
         {
           "questionText": "Refer to Jeppesen North Atlantic Plotting chart \"NAP\". Great circle from REYKJAVIK (64\u00b010'N 022\u00b000'W) to AMSTERDAM (52\u00b032'N 004\u00b050'E). Average true course and distance?",
@@ -16655,7 +17296,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-375"
+          "id": "fligh-plan-428"
         },
         {
           "questionText": "Refer to NAP chart. Average magnetic course from C (62\u00b0N 020\u00b0W) to B (58\u00b0N 004\u00b0E)?",
@@ -16667,7 +17308,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-376"
+          "id": "fligh-plan-429"
         },
         {
           "questionText": "Refer to NAP chart. Initial true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
@@ -16679,7 +17320,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-377"
+          "id": "fligh-plan-430"
         },
         {
           "questionText": "Refer to NAP chart. Initial magnetic course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
@@ -16691,7 +17332,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-378"
+          "id": "fligh-plan-431"
+        },
+        {
+          "question": "When flying IFR eastward (magnetic track 000\u00b0 to 179\u00b0) in RVSM airspace, an appropriate flight level would be:",
+          "options": [
+            "FL 330",
+            "FL 340",
+            "FL 360",
+            "FL 380"
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-432"
         },
         {
           "questionText": "Refer to NAP chart. Average true course from A (64\u00b0N 006\u00b0E) to C (62\u00b0N 020\u00b0W)?",
@@ -16703,7 +17356,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-379"
+          "id": "fligh-plan-433"
         },
         {
           "questionText": "Refer to VFR Chart ED-6. Frequency for Stuttgart ATIS?",
@@ -16715,7 +17368,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-380"
+          "id": "fligh-plan-434"
         },
         {
           "questionText": "Refer to ED-6. Elevation of LSZH ZURICH KLOTEN (47\u00b028'N, 008\u00b033'E)?",
@@ -16727,7 +17380,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-381"
+          "id": "fligh-plan-435"
         },
         {
           "questionText": "Refer to ED-6. Flying EDTM MENGEN to EDPJ LAICHINGEN. Highest obstacle within 5 NM either side of track?",
@@ -16739,7 +17392,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-382"
+          "id": "fligh-plan-436"
         },
         {
           "questionText": "Refer to ED-6. Frequency of TANGO VORTAC (48\u00b037'N 009\u00b016'E)?",
@@ -16751,7 +17404,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-383"
+          "id": "fligh-plan-437"
         },
         {
           "questionText": "Refer to ED-6. Flying EDSZ ROTTWEIL ZEPFENHAN to EDPJ LAICHINGEN. Highest obstacle within 5 NM left/right of course?",
@@ -16763,7 +17416,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-384"
+          "id": "fligh-plan-438"
         },
         {
           "questionText": "Refer to ED-6. Name and frequency of FIS for position 47\u00b059'N, 010\u00b014'E?",
@@ -16775,7 +17428,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-385"
+          "id": "fligh-plan-439"
+        },
+        {
+          "question": "When planning a flight, the 'Track' is defined as:",
+          "options": [
+            "The projection on the earth's surface of the path of an aircraft.",
+            "The direction the aircraft nose is pointing.",
+            "The magnetic heading corrected for deviation.",
+            "The shortest route to the destination."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-440"
         },
         {
           "questionText": "Refer to ED-6. What facility at 48\u00b023'N 008\u00b039'E?",
@@ -16787,7 +17452,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-386"
+          "id": "fligh-plan-441"
         },
         {
           "questionText": "Refer to ED-6. Magnetic course and distance from EDPJ LAICHINGEN to EDSZ ROTTWEIL ZEPFENHAN?",
@@ -16799,7 +17464,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-387"
+          "id": "fligh-plan-442"
         },
         {
           "questionText": "Refer to ED-6. Navigation aid at 48\u00b059'N, 008\u00b035'E?",
@@ -16811,7 +17476,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-388"
+          "id": "fligh-plan-443"
         },
         {
           "questionText": "Distance from VILSHOFEN via SONNEN to F\u00dcRSTENZELL?",
@@ -16823,7 +17488,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-389"
+          "id": "fligh-plan-444"
         },
         {
           "questionText": "Refer to chart \"E HI 1\". Navaid(s) at 57\u00b032'N 004\u00b003'W?",
@@ -16835,7 +17500,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-390"
+          "id": "fligh-plan-445"
         },
         {
           "questionText": "Refer to \"E HI 2\". Identifier of navaid at 56\u00b007'N 012\u00b058'E?",
@@ -16847,7 +17512,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-391"
+          "id": "fligh-plan-446"
         },
         {
           "questionText": "Refer to \"E HI 1\". Initial magnetic course from TIREE (56\u00b030'N 006\u00b053'W) to STORNOWAY (58\u00b012'N 006\u00b011'W)?",
@@ -16859,7 +17524,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-392"
+          "id": "fligh-plan-447"
+        },
+        {
+          "question": "The Semi-Circular Cruising Level system is based on:",
+          "options": [
+            "Magnetic Track.",
+            "Magnetic Heading.",
+            "True Track.",
+            "True Heading."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-448"
         },
         {
           "questionText": "Refer to \"E HI 2\". Identifier at 56\u00b006'N 012\u00b015'E?",
@@ -16871,7 +17548,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-393"
+          "id": "fligh-plan-449"
         },
         {
           "questionText": "Refer to \"E HI 4\" CAA Edition. Preferred airways routing from FRANKFURT (50\u00b003'N 008\u00b038'E) to KOKSY (51\u00b006'N 002\u00b039'E) above FL245 on Wednesday?",
@@ -16883,7 +17560,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-394"
+          "id": "fligh-plan-450"
         },
         {
           "questionText": "Refer to \"E HI 1\". Aberdeen to Benbecula. Climb 11 min, descend 15 min, cruise TAS 210 kts. TOC at 3\u00b0W, TOD at 6\u00b0W. Planned flight time still air?",
@@ -16895,7 +17572,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-395"
+          "id": "fligh-plan-451"
         },
         {
           "questionText": "Refer to \"E LO 1\". Maximum Authorised Altitude on W911D from DEAN CROSS to NEWCASTLE?",
@@ -16907,7 +17584,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-396"
+          "id": "fligh-plan-452"
         },
         {
           "questionText": "Refer to \"E HI 2\". Meaning for LANDVETTER (57\u00b039'N 012\u00b017'E)?",
@@ -16919,7 +17596,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-397"
+          "id": "fligh-plan-453"
         },
         {
           "questionText": "Refer to \"E LO 1\". Navaid at ST. ABBS (55\u00b055'N 002\u00b012'W)?",
@@ -16931,7 +17608,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-398"
+          "id": "fligh-plan-454"
         },
         {
           "questionText": "Refer to \"E LO 1\". Navaid at TOPCLIFFE (54\u00b012'N 001\u00b022'W)?",
@@ -16943,7 +17620,19 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-399"
+          "id": "fligh-plan-455"
+        },
+        {
+          "question": "A 'Cost Index' of zero in a Flight Management System (FMS) will result in:",
+          "options": [
+            "Maximum range speed (minimum trip fuel).",
+            "Maximum speed (minimum trip time).",
+            "Long range cruise speed.",
+            "Holding speed."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-456"
         },
         {
           "questionText": "Refer to \"E LO 1\". Magnetic course/distance TALLA to DEAN CROSS on A2?",
@@ -16955,7 +17644,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-400"
+          "id": "fligh-plan-457"
         },
         {
           "questionText": "Refer to \"E HI 2\". Minimum grid safe altitude SHILLING to ALMA?",
@@ -16967,7 +17656,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-401"
+          "id": "fligh-plan-458"
         },
         {
           "questionText": "Refer to \"E HI 1\". Northbound direct from DEAN CROSS via 57\u00b000'N 003\u00b010'W. Excluding RVSM, first FL above FL400?",
@@ -16979,7 +17668,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-402"
+          "id": "fligh-plan-459"
         },
         {
           "questionText": "Refer to \"E HI 1\". Average true course BEN VOR to ADN VOR?",
@@ -16991,7 +17680,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-403"
+          "id": "fligh-plan-460"
         },
         {
           "questionText": "Refer to \"E HI 1\". Navaids at Kinloss (57\u00b040'N 003\u00b032'W) for civil aircraft?",
@@ -17003,7 +17692,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-404"
+          "id": "fligh-plan-461"
         },
         {
           "questionText": "Refer to \"E HI 1\". Aircraft towards GOW on UN615 into London FIR. Best for latest London weather?",
@@ -17015,7 +17704,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-405"
+          "id": "fligh-plan-462"
         },
         {
           "questionText": "Refer to \"E LO 1\". GRID MORA for DEAN CROSS to TALLA on A2?",
@@ -17027,7 +17716,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-406"
+          "id": "fligh-plan-463"
+        },
+        {
+          "question": "The Grid Minimum Off-Route Altitude (Grid MORA) provides terrain and obstacle clearance within the section outlined by latitude and longitude lines by at least:",
+          "options": [
+            "1000 ft where highest elevation is 5000 ft or less, and 2000 ft where highest elevation is > 5000 ft.",
+            "2000 ft in all areas.",
+            "1000 ft in all areas.",
+            "1500 ft where highest elevation is 5000 ft or less."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-464"
         },
         {
           "questionText": "Refer to \"E HI 2\". Magnetic track and distance TNO VOR to HAR VOR?",
@@ -17039,7 +17740,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-407"
+          "id": "fligh-plan-465"
         },
         {
           "questionText": "Refer to \"E LO 1\". Direct CLN to FIR boundary (N55\u00b000.0' E004\u00b015.1'). NOTAM: \"EG-IN-FLIGHT REFUELLING AREA 6\" active. Available FL?",
@@ -17051,7 +17752,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-408"
+          "id": "fligh-plan-466"
         },
         {
           "questionText": "Refer to \"E HI 2\". BACKA to BOTTNA on UR46. Useful cross\u2011reference for CINDY?",
@@ -17063,7 +17764,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-409"
+          "id": "fligh-plan-467"
         },
         {
           "questionText": "Refer to \"E LO 1\". MEA on W911D from NEWCASTLE to DEAN CROSS?",
@@ -17075,7 +17776,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-410"
+          "id": "fligh-plan-468"
         },
         {
           "questionText": "Refer to \"E LO 1\". MEA on B226 from TALLA to ANGUS?",
@@ -17087,7 +17788,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-411"
+          "id": "fligh-plan-469"
         },
         {
           "questionText": "Magnetic track and distance LANDVETTER to FILIP?",
@@ -17099,7 +17800,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-412"
+          "id": "fligh-plan-470"
         },
         {
           "questionText": "Refer to \"E LO 1\". Navaid at LEEDS BRADFORD?",
@@ -17111,7 +17812,19 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-413"
+          "id": "fligh-plan-471"
+        },
+        {
+          "question": "What does the abbreviation 'RNP' stand for in navigation?",
+          "options": [
+            "Required Navigation Performance.",
+            "Radio Navigation Procedure.",
+            "Required Navigational Parameter.",
+            "Route Navigation Profile."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-472"
         },
         {
           "questionText": "Refer to \"E HI 1\". Average magnetic course ABERDEEN to TIREE?",
@@ -17123,7 +17836,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-414"
+          "id": "fligh-plan-473"
         },
         {
           "questionText": "Refer to \"E HI 2\". Meaning for beacons at 55\u00b059'N 014\u00b006'E?",
@@ -17135,7 +17848,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-415"
+          "id": "fligh-plan-474"
         },
         {
           "questionText": "Refer to \"E HI 2\". Navaid(s) at 56\u00b017'N 010\u00b047'E?",
@@ -17147,7 +17860,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-416"
+          "id": "fligh-plan-475"
         },
         {
           "questionText": "Refer to \"E HI 1\". Initial magnetic course INVERNESS to TIREE?",
@@ -17159,7 +17872,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-417"
+          "id": "fligh-plan-476"
         },
         {
           "questionText": "Refer to \"E HI 2\". Distance ALMA to SHILLING?",
@@ -17171,7 +17884,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-418"
+          "id": "fligh-plan-477"
         },
         {
           "questionText": "Refer to \"E HI 2\". Acceptable route ODIN to BOTTNA?",
@@ -17183,7 +17896,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-419"
+          "id": "fligh-plan-478"
         },
         {
           "questionText": "Refer to \"E HI 2\". ALMA to PETER. Excluding RVSM, lowest FL above FL400?",
@@ -17195,7 +17908,19 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-420"
+          "id": "fligh-plan-479"
+        },
+        {
+          "question": "An airway is typically defined as a control area or portion thereof established in the form of a corridor. The standard width of an ICAO airway is:",
+          "options": [
+            "10 NM (5 NM each side of the centerline).",
+            "20 NM.",
+            "5 NM.",
+            "8 NM."
+          ],
+          "correctAnswerIndex": 0,
+          "isAIGenerated": true,
+          "id": "fligh-plan-480"
         },
         {
           "questionText": "Refer to \"E HI 1\". TALLA to FINDO. First FL above FL400?",
@@ -17207,7 +17932,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-421"
+          "id": "fligh-plan-481"
         },
         {
           "questionText": "Refer to \"E HI 2\". Navaid(s) at 56\u00b009'N 013\u00b013'E?",
@@ -17219,7 +17944,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-422"
+          "id": "fligh-plan-482"
         },
         {
           "questionText": "Refer to \"E HI 1\". Direct distance TIREE to INVERNESS?",
@@ -17231,7 +17956,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-423"
+          "id": "fligh-plan-483"
         },
         {
           "questionText": "Frequency to receive DME at LAAGE (N53 55.1 E012 17.2)?",
@@ -17243,7 +17968,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-424"
+          "id": "fligh-plan-484"
         },
         {
           "questionText": "Segment CIV to CMB. Which FL can be used?",
@@ -17255,7 +17980,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-425"
+          "id": "fligh-plan-485"
         },
         {
           "questionText": "Refer to \"E LO 1\". Appropriate FL on A2 from TALLA to DEAN CROSS?",
@@ -17267,7 +17992,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-426"
+          "id": "fligh-plan-486"
         },
         {
           "questionText": "Refer to \"E HI 2\". Navaid(s) at 55\u00b026'N 011\u00b038'E?",
@@ -17279,7 +18004,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-427"
+          "id": "fligh-plan-487"
         },
         {
           "questionText": "Refer to \"E HI 1\". Glasgow to Benbecula, TAS 320 kts, headwind 40 kts, fuel flow 2300 kg/h. Fuel consumption?",
@@ -17291,7 +18016,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-428"
+          "id": "fligh-plan-488"
         },
         {
           "questionText": "Refer to \"E LO 1\". Magnetic course/distance SHAPP to ESKDO on B4?",
@@ -17303,7 +18028,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-429"
+          "id": "fligh-plan-489"
         },
         {
           "questionText": "Refer to PARIS CDG ILS RWY 10 chart 21-7. ILS course?",
@@ -17315,7 +18040,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-430"
+          "id": "fligh-plan-490"
         },
         {
           "questionText": "Refer to AMSTERDAM SCHIPHOL chart 10-3B. Route distance DER 27 to ARNEM?",
@@ -17327,7 +18052,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-431"
+          "id": "fligh-plan-491"
         },
         {
           "questionText": "Refer to ZURICH ILS RWY 16 chart 11-2. Lowest published RVR for ILS, GS out, Cat A?",
@@ -17339,7 +18064,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-432"
+          "id": "fligh-plan-492"
         },
         {
           "questionText": "Refer to MUNICH ILS RWY 26R chart 11-4. ILS frequency and identifier?",
@@ -17351,7 +18076,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-433"
+          "id": "fligh-plan-493"
         },
         {
           "questionText": "Refer to LONDON HEATHROW chart 10-2. Elevation of destination?",
@@ -17363,7 +18088,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-434"
+          "id": "fligh-plan-494"
         },
         {
           "questionText": "Refer to PARIS CDG chart 20-3. Distance of departure route ABB 8A?",
@@ -17375,7 +18100,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-435"
+          "id": "fligh-plan-495"
         },
         {
           "questionText": "Refer to LHR charts 10-2 and 11-4. IAF identifier and frequency for BIG 2A arrival?",
@@ -17387,7 +18112,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-436"
+          "id": "fligh-plan-496"
         },
         {
           "questionText": "Refer to PARIS CDG chart 20-3. Distance from TOC to ABB 116.6 (TOC 50 NM from CDG)?",
@@ -17399,7 +18124,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-437"
+          "id": "fligh-plan-497"
         },
         {
           "questionText": "Refer to MUNICH charts 10-2, 10-2A, 10-2B. Arrival from west via TANGO for RWY 08 L/R?",
@@ -17411,7 +18136,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-438"
+          "id": "fligh-plan-498"
         },
         {
           "questionText": "Refer to MUNICH NDB DME RWY 26L chart 16-3. NDB frequency and identifier?",
@@ -17423,7 +18148,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-439"
+          "id": "fligh-plan-499"
         },
         {
           "questionText": "Refer to AMSTERDAM SCHIPHOL chart 10-9X. Radio altimeter minimum for CAT II ILS DME to RWY 01L?",
@@ -17435,7 +18160,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-440"
+          "id": "fligh-plan-500"
         },
         {
           "questionText": "Refer to LHR ILS DME RWY 09R chart 11-1. MDA for ILS, GS out?",
@@ -17447,7 +18172,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-441"
+          "id": "fligh-plan-501"
         },
         {
           "questionText": "Refer to LHR chart 10-2D. MHA and max holding IAS at OCK?",
@@ -17459,7 +18184,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-442"
+          "id": "fligh-plan-502"
         },
         {
           "questionText": "Refer to AMS ILS DME RWY 22 chart 11-6. Missed approach altitude and track?",
@@ -17471,7 +18196,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-443"
+          "id": "fligh-plan-503"
         },
         {
           "questionText": "Refer to PARIS CDG chart 20-3. SID ABB 8A. Variation 3\u00b0W, TAS 430 kts, W/V 280/40. Magnetic course, GS, WCA from TOC to ABB?",
@@ -17483,7 +18208,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-444"
+          "id": "fligh-plan-504"
         },
         {
           "questionText": "Refer to MADRID BARAJAS ILS DME RWY 33 chart 11-1. Minimum GS interception altitude for full ILS?",
@@ -17495,7 +18220,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-445"
+          "id": "fligh-plan-505"
         },
         {
           "questionText": "Refer to MADRID chart 10-2B. For RWY 33 arrivals from east/south, IAF inbound from UR10?",
@@ -17507,7 +18232,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-446"
+          "id": "fligh-plan-506"
         },
         {
           "questionText": "Refer to MUNICH chart 10-3D. Correct departure via KEMPTEN from RWY 26L?",
@@ -17519,7 +18244,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-447"
+          "id": "fligh-plan-507"
         },
         {
           "questionText": "Refer to ABERDEEN VFR Area Chart 10-1V. Frequency for Aberdeen ATSU?",
@@ -17531,7 +18256,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-448"
+          "id": "fligh-plan-508"
         },
         {
           "questionText": "Refer to ABERDEEN chart 19-3. Max permitted wingspan on East Apron/Eastern Twy?",
@@ -17543,7 +18268,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-449"
+          "id": "fligh-plan-509"
         },
         {
           "questionText": "Refer to Esbjerg Area chart 19-1. Track/distance SKR VOR/DME to overhead Esbjerg?",
@@ -17555,7 +18280,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-450"
+          "id": "fligh-plan-510"
         },
         {
           "questionText": "Refer to Greece Aerodrome Directory. Local time in Greece: Winter / Summer?",
@@ -17567,7 +18292,7 @@
           ],
           "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-451"
+          "id": "fligh-plan-511"
         },
         {
           "questionText": "Refer to ATHINAI (Hellinikon) chart 29-1. Variation shown?",
@@ -17579,7 +18304,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-452"
+          "id": "fligh-plan-512"
         },
         {
           "questionText": "Refer to ABERDEEN chart 19-5. ATIS frequency(ies) when on ground?",
@@ -17590,7 +18315,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-453"
+          "id": "fligh-plan-513"
         },
         {
           "questionText": "(duplicate number) Refer to DE KOOY chart 19-1. ILS frequency and QDM?",
@@ -17602,7 +18327,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-454"
+          "id": "fligh-plan-514"
         },
         {
           "questionText": "Refer to BARCELONA VFR Area Chart 10-1V. Max altitude for VFR corridor REUS to SAN CELONI?",
@@ -17614,7 +18339,7 @@
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-455"
+          "id": "fligh-plan-515"
         },
         {
           "questionText": "Refer to Netherlands Aerodrome Directory. Local time vs UTC: Winter / Summer?",
@@ -17626,7 +18351,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-456"
+          "id": "fligh-plan-516"
         },
         {
           "questionText": "Refer to ESBJERG chart 19-2. Dimensions of runway 08/26?",
@@ -17638,7 +18363,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-457"
+          "id": "fligh-plan-517"
         },
         {
           "questionText": "Refer to ABERDEEN VFR Area Chart 10-1V. Frequency for Scottish Information overhead BANCHORY?",
@@ -17650,7 +18375,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-458"
+          "id": "fligh-plan-518"
         },
         {
           "questionText": "Refer to ATHINAI (Hellinikon) chart 29-1. Frequency and ident of DVOR/DME at north end?",
@@ -17662,7 +18387,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-459"
+          "id": "fligh-plan-519"
         },
         {
           "questionText": "Refer to ESBJERG chart 19-1. Course and distance from Locator HP to threshold RWY 08?",
@@ -17674,7 +18399,7 @@
           ],
           "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "fligh-plan-460"
+          "id": "fligh-plan-520"
         }
       ]
     },
