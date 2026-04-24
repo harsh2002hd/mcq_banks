@@ -630,7 +630,7 @@
           "id": "agk-pdf-53"
         },
         {
-          "questionText": "Which statements concerning a SANDWICH structural part are correct or incorrect?",
+          "questionText": "Evaluate the following statements regarding sandwich structures:\n1) The main function of the core material is to stabilise the covering sheets.\n2) A sandwich structural part is well suited for absorbing concentrated loads.",
           "options": [
             "1) is incorrect, 2) is incorrect.",
             "1) is incorrect, 2) is correct.",
@@ -639,11 +639,10 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-54",
-          "question": "Evaluate the following statements regarding sandwich structures:\n1) The main function of the core material is to stabilise the covering sheets.\n2) A sandwich structural part is well suited for absorbing concentrated loads."
+          "id": "agk-pdf-54"
         },
         {
-          "questionText": "is correct, 2) is correct. is incorrect, 2) is correct. is incorrect, 2) is incorrect. Which statements about composite and metal structures are correct or incorrect?",
+          "questionText": "Evaluate the following statements regarding structural materials:\n1) Composite structures will give you the same tensile strength in all directions.\n2) Metal structures will give you higher strength to weight ratios than composite ones.",
           "options": [
             "1) is correct, 2) is incorrect.",
             "1) is incorrect, 2) is correct.",
@@ -652,11 +651,10 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-55",
-          "question": "Evaluate the following statements regarding structural materials:\n1) Composite structures will give you the same tensile strength in all directions.\n2) Metal structures will give you higher strength to weight ratios than composite ones."
+          "id": "agk-pdf-55"
         },
         {
-          "questionText": "is incorrect, 2) is correct. is correct, 2) is correct. is correct, 2) is incorrect A composite structural component consists of:",
+          "questionText": "A sandwich structural part consists of:",
           "options": [
             "aluminium alloy with a covering layer of pure aluminium.",
             "two metal sheets bonded together.",
@@ -665,8 +663,7 @@
           ],
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-56",
-          "question": "A sandwich structural part consists of:"
+          "id": "agk-pdf-56"
         },
         {
           "questionText": "Which statements about composite and metal structures are correct or incorrect? In a structural component constructed of composite materials, strength is same in all directions. Composite materials enable structures with higher strength/weight ratio than metal. is correct, 2) is correct. is correct, 2) is incorrect.",
