@@ -240,12 +240,15 @@ function App() {
                   }}>
                     {currentQuestion.questionText}
                     {currentQuestion.image && (
-                      <div style={{ marginTop: '1.5rem', background: '#fff', borderRadius: '8px', padding: '1rem' }}>
-                        <img 
-                          src={currentQuestion.image} 
-                          alt="Question Figure" 
-                          style={{ maxWidth: '100%', display: 'block', margin: '0 auto', maxHeight: '400px', objectFit: 'contain' }} 
-                        />
+                      <div style={{ marginTop: '1.5rem', background: '#fff', borderRadius: '8px', padding: '1rem', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                        {(Array.isArray(currentQuestion.image) ? currentQuestion.image : [currentQuestion.image]).map((img, i) => (
+                          <img 
+                            key={i}
+                            src={img} 
+                            alt={`Question Figure ${i + 1}`} 
+                            style={{ maxWidth: '100%', display: 'block', margin: '0 auto', maxHeight: '400px', objectFit: 'contain' }} 
+                          />
+                        ))}
                       </div>
                     )}
                   </div>
