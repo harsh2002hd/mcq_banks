@@ -499,13 +499,15 @@
         {
           "questionText": "In the attached diagram, which image represents BUCKLING?",
           "options": [
+            "1",
             "2",
             "3",
             "4"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": false,
-          "id": "agk-pdf-41"
+          "id": "agk-pdf-41",
+          "image": "/images/agkQ36.png"
         },
         {
           "questionText": "Define the term \"FATIGUE\":",
@@ -26249,7 +26251,8 @@
             "Speed \"B\"",
             "Speed \"D\"",
             "Speed \"C\""
-          ]
+          ],
+          "image": "/images/performance229.png"
         },
         {
           "id": "performance-230",
@@ -26273,7 +26276,8 @@
             "80.0%; 315 kts",
             "76.3%; 302 kts",
             "79.8%; 308 kts"
-          ]
+          ],
+          "image": "/images/performance231.png"
         },
         {
           "questionText": "In a drift-down situation following an engine failure, the aircraft:",
