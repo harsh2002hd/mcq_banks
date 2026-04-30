@@ -39793,12 +39793,12 @@
         },
         {
           "id": "ops-9",
-          "questionText": "Refer to figure 070-07. What is the meaning of digit \"4\" on label \"C\"? UN number ID number",
+          "questionText": "Refer to figure 070-07. What is the meaning of digit \"4\" on label \"C\"?",
           "options": [
-            "Hazard class Packing instruction",
-            "Depending on the aircraft's performance class.",
-            "Only during commercial air transport operations.",
-            "In accordance with ICAO Annex 6 requirements."
+            "UN number ",
+            "ID number",
+            "Hazard Class",
+            "Packing Instruction"
           ],
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": false,
