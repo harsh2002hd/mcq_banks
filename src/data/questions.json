@@ -20179,7 +20179,7 @@
           "id": "ifr-comms-193",
           "correctAnswerIndex": 2,
           "hasDetectedAnswer": true,
-          "questionText": "Attenuation of radio waves is increased by:",
+          "questionText": "Propagation of the radio waves is influenced by different factors in atmosphere. Attenuation of radio waves is increased by:",
           "options": [
             "higher temperature and lower air density",
             "lower temperature and lower air density",
@@ -20287,7 +20287,7 @@
           "id": "ifr-comms-202",
           "correctAnswerIndex": 0,
           "hasDetectedAnswer": true,
-          "questionText": "You are 150 NM away from a station at 400 ft elevation. At what approximate altitude do you expect to lose radio contact?",
+          "questionText": "You are descending over a flat surface, 150 NM away from the ground station. The elevation of the station is 400 ft. At what approximate altitude do you expect to lose radio contact?",
           "options": [
             "10 500 ft",
             "17000 ft",
