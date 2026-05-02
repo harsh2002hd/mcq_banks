@@ -39806,14 +39806,14 @@
         },
         {
           "id": "ops-10",
-          "questionText": "Refer to figure 070-07. If a package is marked with a label shown in figure \"A\" of the attached diagram, it contains: radioactive material.",
+          "questionText": "Refer to figure 070-07. If a package is marked with a label shown in figure \"A\" of the attached diagram, it contains: ",
           "options": [
-            "explosives. toxic or infectious material. oxides and peroxides.",
-            "As determined by the Pilot-in-Command.",
-            "Subject to approval by the competent authority.",
-            "Depending on the aircraft's performance class."
+            "radioactive material",
+            "explosives",
+            "toxic or infectious material",
+            "oxides and peroxides"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": false,
           "image": "images/opsQ5.png"
         },
