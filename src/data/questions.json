@@ -11891,7 +11891,7 @@
             "MOTIL",
             "VTB"
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -11915,7 +11915,7 @@
             "4000 ft",
             "2500 ft"
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -11927,7 +11927,7 @@
             "FL420",
             "FL430"
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12023,7 +12023,7 @@
             "87 NM",
             "65 NM"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12035,7 +12035,7 @@
             "119\u00b0",
             "120\u00b0"
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12059,7 +12059,7 @@
             "LAV D17",
             "BAK078/BTD258"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12071,7 +12071,7 @@
             "88 ft",
             "300 ft"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12083,7 +12083,7 @@
             "2031 NM",
             "445 NM"
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12095,7 +12095,7 @@
             "5600 ft",
             "4 400 ft"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12155,7 +12155,7 @@
             "31 NM",
             "36.5 NM"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12191,7 +12191,7 @@
             "13 min",
             "11 min"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": true
         },
         {
@@ -12203,7 +12203,7 @@
             "2133 ft",
             "4000 ft"
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12215,7 +12215,7 @@
             "109\u00b0",
             "119\u00b0"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12227,7 +12227,7 @@
             "86 NM",
             "60 NM"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12239,7 +12239,7 @@
             "ODN UR12/UN872 HIL UV30 BTD.",
             "ODN UR156 LAV D17 CINDY UR46 BTD."
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12263,7 +12263,7 @@
             "42 and 40.",
             "45 and 39."
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12275,7 +12275,7 @@
             "267\u00b0",
             "275\u00b0"
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12287,7 +12287,7 @@
             "259\u00b0.",
             "271\u00b0."
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": true
         },
         {
@@ -12299,7 +12299,7 @@
             "421 kts",
             "418 kts"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": true
         },
         {
@@ -12323,7 +12323,7 @@
             "47 NM",
             "53 NM"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12359,7 +12359,7 @@
             "427 kts",
             "417 kts"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12383,7 +12383,7 @@
             "1326 litres",
             "1545 litres"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12395,7 +12395,7 @@
             "cross at FL60 and maintain.",
             "cross at FL80 descend to FL70."
           ],
-          "correctAnswerIndex": 1,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": true
         },
         {
@@ -12431,7 +12431,7 @@
             "NORA",
             "SVD04"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12443,7 +12443,7 @@
             "TAS 433 kts, 227 NAM.",
             "TAS 423 kts, 936 NAM."
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": true
         },
         {
@@ -12515,7 +12515,7 @@
             "200 ft",
             "280 ft"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12527,7 +12527,7 @@
             "2500 ft",
             "3 200 ft"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
@@ -12539,7 +12539,7 @@
             "4200 ft",
             "4700 ft"
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12563,7 +12563,7 @@
             "UG108 SPI UG1.",
             "UB69 DINKI UB6 BUB ATS."
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": true
         },
         {
@@ -12599,7 +12599,7 @@
             "(a) 131\u00b0 (b) 1095 NM.",
             "(a) 118\u00b0 (b) 1095 NM."
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": true
         },
         {
