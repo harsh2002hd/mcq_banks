@@ -27643,8 +27643,7 @@
             "failure of critical engine or all engines operating which ever gives the greater take-off distance."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf382.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf382",
@@ -27669,8 +27668,7 @@
             "V2"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf384.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf384",
@@ -27682,8 +27680,7 @@
             "VR"
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf385.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf385",
@@ -27695,8 +27692,7 @@
             "The v1 correction for up-slope is negative."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf386.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf386",
@@ -27708,8 +27704,7 @@
             "4.00%"
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf387.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf387",
@@ -27721,8 +27716,7 @@
             "lower."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf388.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf388",
@@ -27734,8 +27728,7 @@
             "unchanged."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf389.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf389",
@@ -27747,8 +27740,7 @@
             "1.286%"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf390.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf390",
@@ -27760,8 +27752,7 @@
             "The rate of climb decreases since climb performance at a constant Mach number is grossly reduced as compared to constant IAS."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf391.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf391",
@@ -27773,8 +27764,7 @@
             "decrease."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf392.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf392",
@@ -27786,8 +27776,7 @@
             "At the cross over altitude during a climb with a constant IAS/CAS, the airplane has to be levelled off to achieve a desired Mach number."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf393.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf393",
@@ -27799,8 +27788,7 @@
             "The Minimum control speed air."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf394.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf394",
@@ -27812,8 +27800,7 @@
             "Vs, Maximum range speed, $V_{X}$"
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf395.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf395",
@@ -27838,8 +27825,7 @@
             "The drag increases initially and decreases thereafter."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf397.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf397",
@@ -27851,8 +27837,7 @@
             "IAS increases and TAS decreases."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf398.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf398",
@@ -27864,8 +27849,7 @@
             "thereafter decreases at the same rate while climbing through the tropopause."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf399.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf399",
@@ -27877,8 +27861,7 @@
             "minimum climb gradient in the event of a go-around with one engine inoperative."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf400.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf400",
@@ -27890,8 +27873,7 @@
             "TAS is constant."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf401.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf401",
@@ -27903,8 +27885,7 @@
             "$V_{2}$"
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf402.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf402",
@@ -27916,8 +27897,7 @@
             "Maximum endurance speed, maximum range speed, maximum angle of climb speed."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf403.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf403",
@@ -27929,8 +27909,7 @@
             "the maximum ${C_{L}/{C_{D}}^{2}$ ratio."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf404.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf404",
@@ -27942,8 +27921,7 @@
             "Reduce / remain constant."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf405.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf405",
@@ -27955,8 +27933,7 @@
             "The maximum climb angle decreases because less thrust is available."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf406.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf406",
@@ -27968,8 +27945,7 @@
             "$V_{2}+10$ kts."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf407.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf407",
@@ -27981,8 +27957,7 @@
             "Theoretical ceiling."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf408.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf408",
@@ -27994,8 +27969,7 @@
             "it achieves the best specific range with a headwind."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf409.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf409",
@@ -28007,8 +27981,7 @@
             "The maximum endurance speed since the fuel flow is approximately proportional to the power required."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf410.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf410",
@@ -28020,8 +27993,7 @@
             "An aeroplane flies most of the time above the optimum altitude because this yields the most economic result."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf411.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf411",
@@ -28033,8 +28005,7 @@
             "A step climb provides better economy than a cruise climb."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf412.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf412",
@@ -28046,8 +28017,7 @@
             "Executing a desired step climb at high altitude can be limited by buffet onset at g-loads larger than 1."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf413.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf413",
@@ -28059,8 +28029,7 @@
             "exists only above MMO."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf414.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf414",
@@ -28072,8 +28041,7 @@
             "Minimum specific fuel consumption."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf415.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf415",
@@ -28085,8 +28053,7 @@
             "if the aeroplane mass is increased."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf416.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf416",
@@ -28098,8 +28065,7 @@
             "increase in inverse proportion to the ambient pressure at constant temperature."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf417.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf417",
@@ -28111,8 +28077,7 @@
             "A higher cruise Mach number."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf418.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf418",
@@ -28124,8 +28089,7 @@
             "Increases only if there is no wind."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf419.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf419",
@@ -28137,8 +28101,7 @@
             "Max endurance."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf420.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf420",
@@ -28150,8 +28113,7 @@
             "can be flown in a steady climb only."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf421.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf421",
@@ -28163,8 +28125,7 @@
             "If at the lower altitude either considerably less headwind or considerably more tailwind can be expected."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf422.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf422",
@@ -28176,8 +28137,7 @@
             "the decreasing density of the atmosphere with increasing altitude."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf423.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf423",
@@ -28189,8 +28149,7 @@
             "3426 kg/hr."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf424.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf424",
@@ -28202,8 +28161,7 @@
             "5%"
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf425.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf425",
@@ -28215,8 +28173,7 @@
             "increase / increase."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf426.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf426",
@@ -28228,8 +28185,7 @@
             "is inversely proportional to the airspeed."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf427.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf427",
@@ -28241,8 +28197,7 @@
             "The Traffic Load can be limited by the desired range."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf428.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf428",
@@ -28254,8 +28209,7 @@
             "the specific range and the optimum altitude increases."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf429.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf429",
@@ -28267,8 +28221,7 @@
             "a specific range which is about 99% of maximum specific range and higher cruise speed."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf430.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf430",
@@ -28280,8 +28233,7 @@
             "the TAS for long range cruise increases continuously with decreasing altitude."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf431.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf431",
@@ -28293,8 +28245,7 @@
             "The value of maximum operating Mach number (MMO) at various masses and power settings."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf432.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf432",
@@ -28306,8 +28257,7 @@
             "improves the maximum range."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf433.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf433",
@@ -28319,8 +28269,7 @@
             "equal to the angle of attack corresponding to zero induced drag."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf434.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf434",
@@ -28332,8 +28281,7 @@
             "decreases as mass decreases."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf435.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf435",
@@ -28345,8 +28293,7 @@
             "increases when the aeroplane mass decreases."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf436.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf436",
@@ -28358,8 +28305,7 @@
             "depends upon thrust setting and increase with increasing thrust."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf437.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf437",
@@ -28371,8 +28317,7 @@
             "the pressure altitude at which the speed for high speed buffet as TAS is a maximum."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf438.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf438",
@@ -28384,8 +28329,7 @@
             "It results in the longest flight time (endurance)."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf439.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf439",
@@ -28397,8 +28341,7 @@
             "Endurance will decrease and range will increase."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf440.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf440",
@@ -28410,8 +28353,7 @@
             "higher."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf441.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf441",
@@ -28436,8 +28378,7 @@
             "decreases with increasing mass and is independent of altitude."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf443.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf443",
@@ -28449,8 +28390,7 @@
             "$14~kg/NM.$"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf444.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf444",
@@ -28462,8 +28402,7 @@
             "To fly as close as possible to the optimum altitude as aeroplane mass reduces."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf445.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf445",
@@ -28475,8 +28414,7 @@
             "increases slightly with increasing airspeed."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf446.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf446",
@@ -28488,8 +28426,7 @@
             "A number denoting the ratio of direct operating costs to speed."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf447.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf447",
@@ -28501,8 +28438,7 @@
             "a lower angle of attack."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf448.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf448",
@@ -28514,8 +28450,7 @@
             "Mach number for maximum range."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf449.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf449",
@@ -28527,8 +28462,7 @@
             "An aeroplane always flies on the optimum cruise altitude, because this is most attractive from an economy point of view."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf450.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf450",
@@ -28540,8 +28474,7 @@
             "only if the headwind is less or the tailwind is greater at higher altitudes."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf451.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf451",
@@ -28553,8 +28486,7 @@
             "Decrease/increase."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf452.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf452",
@@ -28566,8 +28498,7 @@
             "can either be lower or higher than the speed for maximum specific range."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf453.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf453",
@@ -28579,8 +28510,7 @@
             "In order to prevent loss of speed stability and tuck-under."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf454.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf454",
@@ -28605,8 +28535,7 @@
             "that corresponding to the point of the minimum power required the Drag versus TAS curve."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf456.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf456",
@@ -28618,8 +28547,7 @@
             "When determining the obstacle clearance during drift-down, fuel dumping may be taken into account."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf457.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf457",
@@ -28631,8 +28559,7 @@
             "reduced."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf458.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf458",
@@ -28644,8 +28571,7 @@
             "1 500 ft."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf459.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf459",
@@ -28657,8 +28583,7 @@
             "ETOPS."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf460.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf460",
@@ -28683,8 +28608,7 @@
             "The stall speed."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf462.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf462",
@@ -28709,8 +28633,7 @@
             "the speed corresponding to the minimum value of lift / drag ratio."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf464.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf464",
@@ -28722,8 +28645,7 @@
             "VMCA increases with pressure altitude higher than 4000 ft."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf465.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf465",
@@ -28735,8 +28657,7 @@
             "the drift down should be flown with flaps in the approach configuration."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf466.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf466",
@@ -28748,8 +28669,7 @@
             "to conduct a visual approach if VASI is available."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf467.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf467",
@@ -28774,8 +28694,7 @@
             "weight during landing at the alternate."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf469.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf469",
@@ -28787,8 +28706,7 @@
             "the actual engine thrust output at the altitude of engine failure."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf470.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf470",
@@ -28800,8 +28718,7 @@
             "1, 2, 3, 4"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf471.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf471",
@@ -28813,8 +28730,7 @@
             "best OEI angle of climb speed."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf472.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf472",
@@ -28839,8 +28755,7 @@
             "VX"
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf474.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf474",
@@ -28852,8 +28767,7 @@
             "increases, remains constant"
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf475.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf475",
@@ -28865,8 +28779,7 @@
             "increase, because the lift coefficient decreases."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf476.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf476",
@@ -28878,8 +28791,7 @@
             "6.5%"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf477.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf477",
@@ -28891,8 +28803,7 @@
             "MMO"
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf478.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf478",
@@ -28904,8 +28815,7 @@
             "TAS increases."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf479.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf479",
@@ -28917,8 +28827,7 @@
             "TAS decreases."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf480.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf480",
@@ -28943,8 +28852,7 @@
             "Never exceed speed."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf482.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf482",
@@ -28956,8 +28864,7 @@
             "increase."
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf483.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf483",
@@ -28969,8 +28876,7 @@
             "2609 m"
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf484.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf484",
@@ -28982,8 +28888,7 @@
             "15%"
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf485.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf485",
@@ -28995,8 +28900,7 @@
             "Maximum use of clearway is 1.5 x runway"
           ],
           "correctAnswerIndex": 2,
-          "hasDetectedAnswer": true,
-          "image": "images/perf486.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf486",
@@ -29008,8 +28912,7 @@
             "1.67"
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf487.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf487",
@@ -29021,8 +28924,7 @@
             "the climb requirements with one engine inoperative in the approach configuration."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf488.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf488",
@@ -29047,8 +28949,7 @@
             "1 540 m"
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf490.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf490",
@@ -29060,8 +28961,7 @@
             "0.1"
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf491.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf491",
@@ -29073,8 +28973,7 @@
             "35 ft"
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf492.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf492",
@@ -29086,8 +28985,7 @@
             "It is the maximum mass corresponding to the minimum time you need to wait before commencing another take-off."
           ],
           "correctAnswerIndex": 3,
-          "hasDetectedAnswer": true,
-          "image": "images/perf493.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf493",
@@ -29099,8 +28997,7 @@
             "Use of thrust reversers."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf494.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf494",
@@ -29112,8 +29009,7 @@
             "postpone the landing until, the risk of hydroplaning no longer exists."
           ],
           "correctAnswerIndex": 0,
-          "hasDetectedAnswer": true,
-          "image": "images/perf495.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf495",
@@ -29138,8 +29034,7 @@
             "He/she must not use the quick exit lane."
           ],
           "correctAnswerIndex": 1,
-          "hasDetectedAnswer": true,
-          "image": "images/perf496.png"
+          "hasDetectedAnswer": true
         },
         {
           "id": "perf497",
