@@ -26640,7 +26640,7 @@
           "questionText": "Occasional movements by aircraft with an ACN of 50 should not adversely affect the pavement if the reported PCN is at least:",
           "options": [
             "60/F/A/W/U",
-            "47/F/A/W/0",
+            "47/F/A/W/U",
             "60/R/A/W/U",
             "45/R/A/W/U"
           ],
@@ -26759,7 +26759,7 @@
           "id": "perf308",
           "questionText": "Which of the following answers is correct if you consider the take-off distances and the corresponding speeds for take-off?",
           "options": [
-            "There is a single speed for V_{3} at the runway limited take-off mass for a balanced condition.",
+            "There is a single speed for V_{1} at the runway limited take-off mass for a balanced condition.",
             "In a balanced V_{1} condition ASD = engine failure TOD = engine failure TOR.",
             "V_{1} in a balanced condition is the maximum speed where the TOR and engine failure TOD will not be exceeded.",
             "In a balanced V_{1} condition ASD = engine failure TOD = all engine TOR."
@@ -27674,7 +27674,7 @@
           "id": "perf385",
           "questionText": "Which statement regarding v1 is correct?",
           "options": [
-            "vT is not allowed to be greater than VR",
+            "v_1 is not allowed to be greater than V_R",
             "When determining the v1, reverse thrust is only allowed to be taken into account on the remaining symmetric engines.",
             "v1 is not allowed to be greater than VMCG",
             "The v1 correction for up-slope is negative."
