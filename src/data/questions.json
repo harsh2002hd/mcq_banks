@@ -11663,7 +11663,7 @@
             "128.525 MHz",
             "127.20 kHz"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": false
         },
         {
@@ -15467,7 +15467,7 @@
             "70 NM",
             "74 NM"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 1,
           "hasDetectedAnswer": false
         },
         {
@@ -16883,7 +16883,7 @@
             "224\u00b0",
             "280\u00b0"
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": false
         },
         {
@@ -16895,7 +16895,7 @@
             "120 NM",
             "110 NM"
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": false
         },
         {
@@ -16907,7 +16907,7 @@
             "6689 kg",
             "6157 kg"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": false
         },
         {
@@ -17267,7 +17267,7 @@
             "4400 kg; 1 hr 35 min.",
             "4800 kg; 2 hrs 03 min."
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": false
         },
         {
