@@ -22675,7 +22675,7 @@
             "4600 kg.",
             "5 600 kg."
           ],
-          "correctAnswerIndex": 0,
+          "correctAnswerIndex": 2,
           "hasDetectedAnswer": false,
           "image": "images/mb229.png"
         },
@@ -22688,7 +22688,7 @@
             "40 cm",
             "33 cm"
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": false
         },
         {
@@ -22700,7 +22700,7 @@
             "196 kg",
             "30 kg"
           ],
-          "correctAnswerIndex": 3,
+          "correctAnswerIndex": 0,
           "hasDetectedAnswer": false
         },
         {
@@ -38928,7 +38928,7 @@
             "steady red light.",
             "steady green light."
           ],
-          "correctAnswerIndex": 2,
+          "correctAnswerIndex": 3,
           "hasDetectedAnswer": true
         },
         {
